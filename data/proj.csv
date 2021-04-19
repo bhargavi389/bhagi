@@ -1,0 +1,3445 @@
+COU,Country,Year,Value,unit
+AUS,Australia,1990,7.6025,µg/m3 
+AUS,Australia,1995,7.49591,µg/m3 
+AUS,Australia,2000,7.36613,µg/m3 
+AUS,Australia,2005,6.90976,µg/m3 
+AUS,Australia,2010,6.78718,µg/m3 
+AUS,Australia,2011,6.71166,µg/m3 
+AUS,Australia,2012,7.00126,µg/m3 
+AUS,Australia,2013,6.96483,µg/m3 
+AUS,Australia,2014,6.87749,µg/m3 
+AUS,Australia,2015,6.84756,µg/m3 
+AUS,Australia,2016,6.82232,µg/m3 
+AUS,Australia,2017,6.67271,µg/m3 
+AUS,Australia,2018,6.7411,µg/m3 
+AUS,Australia,2019,6.7487,µg/m3 
+AUT,Austria,1990,21.55769,µg/m3 
+AUT,Austria,1995,20.36762,µg/m3 
+AUT,Austria,2000,17.42909,µg/m3 
+AUT,Austria,2005,16.55429,µg/m3 
+AUT,Austria,2010,15.87206,µg/m3 
+AUT,Austria,2011,16.2518,µg/m3 
+AUT,Austria,2012,14.62976,µg/m3 
+AUT,Austria,2013,14.62208,µg/m3 
+AUT,Austria,2014,12.9131,µg/m3 
+AUT,Austria,2015,13.45269,µg/m3 
+AUT,Austria,2016,12.39107,µg/m3 
+AUT,Austria,2017,12.02271,µg/m3 
+AUT,Austria,2018,12.3846,µg/m3 
+AUT,Austria,2019,12.22494,µg/m3 
+BEL,Belgium,1990,21.01354,µg/m3 
+BEL,Belgium,1995,19.6842,µg/m3 
+BEL,Belgium,2000,17.75129,µg/m3 
+BEL,Belgium,2005,15.90076,µg/m3 
+BEL,Belgium,2010,16.98231,µg/m3 
+BEL,Belgium,2011,16.24259,µg/m3 
+BEL,Belgium,2012,15.20068,µg/m3 
+BEL,Belgium,2013,14.30519,µg/m3 
+BEL,Belgium,2014,12.90808,µg/m3 
+BEL,Belgium,2015,13.265,µg/m3 
+BEL,Belgium,2016,12.43661,µg/m3 
+BEL,Belgium,2017,12.89121,µg/m3 
+BEL,Belgium,2018,12.8198,µg/m3 
+BEL,Belgium,2019,12.7263,µg/m3 
+CAN,Canada,1990,10.0757,µg/m3 
+CAN,Canada,1995,9.73128,µg/m3 
+CAN,Canada,2000,9.20386,µg/m3 
+CAN,Canada,2005,9.02038,µg/m3 
+CAN,Canada,2010,7.90157,µg/m3 
+CAN,Canada,2011,7.34895,µg/m3 
+CAN,Canada,2012,7.61087,µg/m3 
+CAN,Canada,2013,7.28206,µg/m3 
+CAN,Canada,2014,7.498,µg/m3 
+CAN,Canada,2015,7.2834,µg/m3 
+CAN,Canada,2016,6.20744,µg/m3 
+CAN,Canada,2017,7.27823,µg/m3 
+CAN,Canada,2018,7.07298,µg/m3 
+CAN,Canada,2019,7.09026,µg/m3 
+CZE,Czech Republic,1990,26.57272,µg/m3 
+CZE,Czech Republic,1995,25.4092,µg/m3 
+CZE,Czech Republic,2000,21.63619,µg/m3 
+CZE,Czech Republic,2005,21.15796,µg/m3 
+CZE,Czech Republic,2010,20.61879,µg/m3 
+CZE,Czech Republic,2011,20.92894,µg/m3 
+CZE,Czech Republic,2012,19.19432,µg/m3 
+CZE,Czech Republic,2013,18.86504,µg/m3 
+CZE,Czech Republic,2014,18.3344,µg/m3 
+CZE,Czech Republic,2015,17.80795,µg/m3 
+CZE,Czech Republic,2016,16.88553,µg/m3 
+CZE,Czech Republic,2017,16.91918,µg/m3 
+CZE,Czech Republic,2018,17.16555,µg/m3 
+CZE,Czech Republic,2019,16.96525,µg/m3 
+DNK,Denmark,1990,16.06528,µg/m3 
+DNK,Denmark,1995,14.33915,µg/m3 
+DNK,Denmark,2000,14.55761,µg/m3 
+DNK,Denmark,2005,13.08338,µg/m3 
+DNK,Denmark,2010,13.35076,µg/m3 
+DNK,Denmark,2011,13.61736,µg/m3 
+DNK,Denmark,2012,10.86565,µg/m3 
+DNK,Denmark,2013,10.48783,µg/m3 
+DNK,Denmark,2014,11.0559,µg/m3 
+DNK,Denmark,2015,10.18456,µg/m3 
+DNK,Denmark,2016,9.30205,µg/m3 
+DNK,Denmark,2017,10.28813,µg/m3 
+DNK,Denmark,2018,9.87276,µg/m3 
+DNK,Denmark,2019,9.78493,µg/m3 
+FIN,Finland,1990,8.80595,µg/m3 
+FIN,Finland,1995,8.07879,µg/m3 
+FIN,Finland,2000,7.64582,µg/m3 
+FIN,Finland,2005,7.20585,µg/m3 
+FIN,Finland,2010,7.35265,µg/m3 
+FIN,Finland,2011,7.16954,µg/m3 
+FIN,Finland,2012,6.48428,µg/m3 
+FIN,Finland,2013,6.09858,µg/m3 
+FIN,Finland,2014,6.49007,µg/m3 
+FIN,Finland,2015,5.71918,µg/m3 
+FIN,Finland,2016,5.67993,µg/m3 
+FIN,Finland,2017,5.3344,µg/m3 
+FIN,Finland,2018,5.67502,µg/m3 
+FIN,Finland,2019,5.63829,µg/m3 
+FRA,France,1990,18.1495,µg/m3 
+FRA,France,1995,16.87673,µg/m3 
+FRA,France,2000,15.93904,µg/m3 
+FRA,France,2005,14.76798,µg/m3 
+FRA,France,2010,14.86064,µg/m3 
+FRA,France,2011,14.78044,µg/m3 
+FRA,France,2012,13.52899,µg/m3 
+FRA,France,2013,13.44807,µg/m3 
+FRA,France,2014,11.50913,µg/m3 
+FRA,France,2015,12.23154,µg/m3 
+FRA,France,2016,11.43916,µg/m3 
+FRA,France,2017,11.38728,µg/m3 
+FRA,France,2018,11.49229,µg/m3 
+FRA,France,2019,11.36678,µg/m3 
+DEU,Germany,1990,20.76892,µg/m3 
+DEU,Germany,1995,18.86544,µg/m3 
+DEU,Germany,2000,16.60591,µg/m3 
+DEU,Germany,2005,15.24012,µg/m3 
+DEU,Germany,2010,16.25385,µg/m3 
+DEU,Germany,2011,15.74135,µg/m3 
+DEU,Germany,2012,13.95161,µg/m3 
+DEU,Germany,2013,13.71588,µg/m3 
+DEU,Germany,2014,12.37438,µg/m3 
+DEU,Germany,2015,12.85765,µg/m3 
+DEU,Germany,2016,11.89868,µg/m3 
+DEU,Germany,2017,12.00724,µg/m3 
+DEU,Germany,2018,12.04758,µg/m3 
+DEU,Germany,2019,11.92769,µg/m3 
+GRC,Greece,1990,19.6107,µg/m3 
+GRC,Greece,1995,19.26282,µg/m3 
+GRC,Greece,2000,20.77866,µg/m3 
+GRC,Greece,2005,19.23783,µg/m3 
+GRC,Greece,2010,19.15183,µg/m3 
+GRC,Greece,2011,19.81029,µg/m3 
+GRC,Greece,2012,17.43828,µg/m3 
+GRC,Greece,2013,16.76962,µg/m3 
+GRC,Greece,2014,15.79873,µg/m3 
+GRC,Greece,2015,16.15492,µg/m3 
+GRC,Greece,2016,14.53957,µg/m3 
+GRC,Greece,2017,14.51079,µg/m3 
+GRC,Greece,2018,14.58649,µg/m3 
+GRC,Greece,2019,14.3205,µg/m3 
+HUN,Hungary,1990,25.46559,µg/m3 
+HUN,Hungary,1995,25.02526,µg/m3 
+HUN,Hungary,2000,21.50019,µg/m3 
+HUN,Hungary,2005,20.40456,µg/m3 
+HUN,Hungary,2010,20.21153,µg/m3 
+HUN,Hungary,2011,20.93728,µg/m3 
+HUN,Hungary,2012,18.5864,µg/m3 
+HUN,Hungary,2013,17.64081,µg/m3 
+HUN,Hungary,2014,17.67609,µg/m3 
+HUN,Hungary,2015,17.68824,µg/m3 
+HUN,Hungary,2016,15.85458,µg/m3 
+HUN,Hungary,2017,16.69836,µg/m3 
+HUN,Hungary,2018,16.74279,µg/m3 
+HUN,Hungary,2019,16.59597,µg/m3 
+ISL,Iceland,1990,7.71294,µg/m3 
+ISL,Iceland,1995,7.32157,µg/m3 
+ISL,Iceland,2000,7.71057,µg/m3 
+ISL,Iceland,2005,7.47489,µg/m3 
+ISL,Iceland,2010,7.34296,µg/m3 
+ISL,Iceland,2011,7.56968,µg/m3 
+ISL,Iceland,2012,6.90333,µg/m3 
+ISL,Iceland,2013,6.79215,µg/m3 
+ISL,Iceland,2014,6.62412,µg/m3 
+ISL,Iceland,2015,6.50414,µg/m3 
+ISL,Iceland,2016,6.09614,µg/m3 
+ISL,Iceland,2017,6.37648,µg/m3 
+ISL,Iceland,2018,6.36308,µg/m3 
+ISL,Iceland,2019,6.37407,µg/m3 
+IRL,Ireland,1990,12.39506,µg/m3 
+IRL,Ireland,1995,11.58553,µg/m3 
+IRL,Ireland,2000,11.01114,µg/m3 
+IRL,Ireland,2005,10.45882,µg/m3 
+IRL,Ireland,2010,9.88104,µg/m3 
+IRL,Ireland,2011,10.05576,µg/m3 
+IRL,Ireland,2012,9.14468,µg/m3 
+IRL,Ireland,2013,8.78012,µg/m3 
+IRL,Ireland,2014,8.51283,µg/m3 
+IRL,Ireland,2015,8.37593,µg/m3 
+IRL,Ireland,2016,7.83292,µg/m3 
+IRL,Ireland,2017,7.65697,µg/m3 
+IRL,Ireland,2018,7.91037,µg/m3 
+IRL,Ireland,2019,7.84751,µg/m3 
+ITA,Italy,1990,25.91161,µg/m3 
+ITA,Italy,1995,24.33125,µg/m3 
+ITA,Italy,2000,23.86368,µg/m3 
+ITA,Italy,2005,21.21262,µg/m3 
+ITA,Italy,2010,20.08757,µg/m3 
+ITA,Italy,2011,21.19496,µg/m3 
+ITA,Italy,2012,18.63516,µg/m3 
+ITA,Italy,2013,17.91081,µg/m3 
+ITA,Italy,2014,16.90861,µg/m3 
+ITA,Italy,2015,17.81045,µg/m3 
+ITA,Italy,2016,15.5574,µg/m3 
+ITA,Italy,2017,15.87492,µg/m3 
+ITA,Italy,2018,16.03252,µg/m3 
+ITA,Italy,2019,15.84764,µg/m3 
+JPN,Japan,1990,13.39161,µg/m3 
+JPN,Japan,1995,12.99866,µg/m3 
+JPN,Japan,2000,12.98422,µg/m3 
+JPN,Japan,2005,12.21972,µg/m3 
+JPN,Japan,2010,11.7169,µg/m3 
+JPN,Japan,2011,12.88466,µg/m3 
+JPN,Japan,2012,13.3169,µg/m3 
+JPN,Japan,2013,13.57522,µg/m3 
+JPN,Japan,2014,13.92358,µg/m3 
+JPN,Japan,2015,13.60057,µg/m3 
+JPN,Japan,2016,13.54399,µg/m3 
+JPN,Japan,2017,13.76077,µg/m3 
+JPN,Japan,2018,13.65838,µg/m3 
+JPN,Japan,2019,13.64744,µg/m3 
+KOR,Korea,1990,25.14537,µg/m3 
+KOR,Korea,1995,24.39391,µg/m3 
+KOR,Korea,2000,24.25141,µg/m3 
+KOR,Korea,2005,23.5744,µg/m3 
+KOR,Korea,2010,22.90255,µg/m3 
+KOR,Korea,2011,25.51607,µg/m3 
+KOR,Korea,2012,25.8422,µg/m3 
+KOR,Korea,2013,27.5698,µg/m3 
+KOR,Korea,2014,28.2092,µg/m3 
+KOR,Korea,2015,27.00426,µg/m3 
+KOR,Korea,2016,27.82776,µg/m3 
+KOR,Korea,2017,26.90111,µg/m3 
+KOR,Korea,2018,27.44769,µg/m3 
+KOR,Korea,2019,27.44749,µg/m3 
+LUX,Luxembourg,1990,16.1679,µg/m3 
+LUX,Luxembourg,1995,14.9486,µg/m3 
+LUX,Luxembourg,2000,13.1477,µg/m3 
+LUX,Luxembourg,2005,12.5606,µg/m3 
+LUX,Luxembourg,2010,13.2019,µg/m3 
+LUX,Luxembourg,2011,12.8616,µg/m3 
+LUX,Luxembourg,2012,11.5151,µg/m3 
+LUX,Luxembourg,2013,11.9205,µg/m3 
+LUX,Luxembourg,2014,10.1599,µg/m3 
+LUX,Luxembourg,2015,10.6276,µg/m3 
+LUX,Luxembourg,2016,9.9328,µg/m3 
+LUX,Luxembourg,2017,9.85495,µg/m3 
+LUX,Luxembourg,2018,10.1541,µg/m3 
+LUX,Luxembourg,2019,10.0889,µg/m3 
+MEX,Mexico,1990,33.59075,µg/m3 
+MEX,Mexico,1995,32.71004,µg/m3 
+MEX,Mexico,2000,30.24773,µg/m3 
+MEX,Mexico,2005,23.1219,µg/m3 
+MEX,Mexico,2010,21.48361,µg/m3 
+MEX,Mexico,2011,24.59022,µg/m3 
+MEX,Mexico,2012,22.70436,µg/m3 
+MEX,Mexico,2013,23.50785,µg/m3 
+MEX,Mexico,2014,21.96107,µg/m3 
+MEX,Mexico,2015,22.04218,µg/m3 
+MEX,Mexico,2016,21.21349,µg/m3 
+MEX,Mexico,2017,20.36548,µg/m3 
+MEX,Mexico,2018,20.3613,µg/m3 
+MEX,Mexico,2019,20.10763,µg/m3 
+NLD,Netherlands,1990,19.77972,µg/m3 
+NLD,Netherlands,1995,18.40882,µg/m3 
+NLD,Netherlands,2000,16.79264,µg/m3 
+NLD,Netherlands,2005,15.30029,µg/m3 
+NLD,Netherlands,2010,15.70982,µg/m3 
+NLD,Netherlands,2011,15.51002,µg/m3 
+NLD,Netherlands,2012,13.81851,µg/m3 
+NLD,Netherlands,2013,12.73403,µg/m3 
+NLD,Netherlands,2014,12.19208,µg/m3 
+NLD,Netherlands,2015,12.65138,µg/m3 
+NLD,Netherlands,2016,11.52338,µg/m3 
+NLD,Netherlands,2017,12.42328,µg/m3 
+NLD,Netherlands,2018,12.07335,µg/m3 
+NLD,Netherlands,2019,12.03303,µg/m3 
+NZL,New Zealand,1990,6.82087,µg/m3 
+NZL,New Zealand,1995,6.76613,µg/m3 
+NZL,New Zealand,2000,6.75737,µg/m3 
+NZL,New Zealand,2005,6.3538,µg/m3 
+NZL,New Zealand,2010,6.29372,µg/m3 
+NZL,New Zealand,2011,6.10495,µg/m3 
+NZL,New Zealand,2012,6.22838,µg/m3 
+NZL,New Zealand,2013,6.25727,µg/m3 
+NZL,New Zealand,2014,6.04863,µg/m3 
+NZL,New Zealand,2015,6.0042,µg/m3 
+NZL,New Zealand,2016,6.07848,µg/m3 
+NZL,New Zealand,2017,5.98442,µg/m3 
+NZL,New Zealand,2018,6.03511,µg/m3 
+NZL,New Zealand,2019,6.05027,µg/m3 
+NOR,Norway,1990,11.28209,µg/m3 
+NOR,Norway,1995,10.17528,µg/m3 
+NOR,Norway,2000,10.13793,µg/m3 
+NOR,Norway,2005,8.22931,µg/m3 
+NOR,Norway,2010,8.17431,µg/m3 
+NOR,Norway,2011,9.14048,µg/m3 
+NOR,Norway,2012,7.61996,µg/m3 
+NOR,Norway,2013,7.34493,µg/m3 
+NOR,Norway,2014,7.49681,µg/m3 
+NOR,Norway,2015,7.06615,µg/m3 
+NOR,Norway,2016,6.63938,µg/m3 
+NOR,Norway,2017,6.6895,µg/m3 
+NOR,Norway,2018,6.72623,µg/m3 
+NOR,Norway,2019,6.66793,µg/m3 
+POL,Poland,1990,33.48394,µg/m3 
+POL,Poland,1995,32.43444,µg/m3 
+POL,Poland,2000,27.9787,µg/m3 
+POL,Poland,2005,26.99778,µg/m3 
+POL,Poland,2010,27.36475,µg/m3 
+POL,Poland,2011,27.15801,µg/m3 
+POL,Poland,2012,24.68245,µg/m3 
+POL,Poland,2013,23.7758,µg/m3 
+POL,Poland,2014,24.01657,µg/m3 
+POL,Poland,2015,22.86504,µg/m3 
+POL,Poland,2016,21.91566,µg/m3 
+POL,Poland,2017,22.88956,µg/m3 
+POL,Poland,2018,22.86464,µg/m3 
+POL,Poland,2019,22.76563,µg/m3 
+PRT,Portugal,1990,11.25495,µg/m3 
+PRT,Portugal,1995,10.89446,µg/m3 
+PRT,Portugal,2000,11.58061,µg/m3 
+PRT,Portugal,2005,10.77781,µg/m3 
+PRT,Portugal,2010,9.77271,µg/m3 
+PRT,Portugal,2011,10.45012,µg/m3 
+PRT,Portugal,2012,9.1396,µg/m3 
+PRT,Portugal,2013,8.82785,µg/m3 
+PRT,Portugal,2014,8.65788,µg/m3 
+PRT,Portugal,2015,8.80415,µg/m3 
+PRT,Portugal,2016,7.82794,µg/m3 
+PRT,Portugal,2017,8.39613,µg/m3 
+PRT,Portugal,2018,8.21557,µg/m3 
+PRT,Portugal,2019,8.1761,µg/m3 
+SVK,Slovak Republic,1990,27.53096,µg/m3 
+SVK,Slovak Republic,1995,27.03794,µg/m3 
+SVK,Slovak Republic,2000,22.93668,µg/m3 
+SVK,Slovak Republic,2005,22.39348,µg/m3 
+SVK,Slovak Republic,2010,21.66154,µg/m3 
+SVK,Slovak Republic,2011,22.80494,µg/m3 
+SVK,Slovak Republic,2012,20.51864,µg/m3 
+SVK,Slovak Republic,2013,19.81298,µg/m3 
+SVK,Slovak Republic,2014,19.48664,µg/m3 
+SVK,Slovak Republic,2015,19.28388,µg/m3 
+SVK,Slovak Republic,2016,18.03023,µg/m3 
+SVK,Slovak Republic,2017,18.41026,µg/m3 
+SVK,Slovak Republic,2018,18.65878,µg/m3 
+SVK,Slovak Republic,2019,18.52632,µg/m3 
+ESP,Spain,1990,13.99649,µg/m3 
+ESP,Spain,1995,12.75898,µg/m3 
+ESP,Spain,2000,14.03851,µg/m3 
+ESP,Spain,2005,12.66811,µg/m3 
+ESP,Spain,2010,11.79547,µg/m3 
+ESP,Spain,2011,12.74152,µg/m3 
+ESP,Spain,2012,11.46312,µg/m3 
+ESP,Spain,2013,10.62795,µg/m3 
+ESP,Spain,2014,10.09,µg/m3 
+ESP,Spain,2015,10.81943,µg/m3 
+ESP,Spain,2016,9.82015,µg/m3 
+ESP,Spain,2017,10.02245,µg/m3 
+ESP,Spain,2018,10.03337,µg/m3 
+ESP,Spain,2019,9.99323,µg/m3 
+SWE,Sweden,1990,9.54259,µg/m3 
+SWE,Sweden,1995,8.60029,µg/m3 
+SWE,Sweden,2000,8.56375,µg/m3 
+SWE,Sweden,2005,7.39389,µg/m3 
+SWE,Sweden,2010,7.55838,µg/m3 
+SWE,Sweden,2011,7.61538,µg/m3 
+SWE,Sweden,2012,6.28548,µg/m3 
+SWE,Sweden,2013,6.28063,µg/m3 
+SWE,Sweden,2014,6.55795,µg/m3 
+SWE,Sweden,2015,5.96541,µg/m3 
+SWE,Sweden,2016,5.53104,µg/m3 
+SWE,Sweden,2017,5.78105,µg/m3 
+SWE,Sweden,2018,5.76737,µg/m3 
+SWE,Sweden,2019,5.72135,µg/m3 
+CHE,Switzerland,1990,18.27745,µg/m3 
+CHE,Switzerland,1995,16.98444,µg/m3 
+CHE,Switzerland,2000,15.07285,µg/m3 
+CHE,Switzerland,2005,13.23875,µg/m3 
+CHE,Switzerland,2010,13.32802,µg/m3 
+CHE,Switzerland,2011,13.98861,µg/m3 
+CHE,Switzerland,2012,12.88156,µg/m3 
+CHE,Switzerland,2013,12.63956,µg/m3 
+CHE,Switzerland,2014,10.74821,µg/m3 
+CHE,Switzerland,2015,11.73932,µg/m3 
+CHE,Switzerland,2016,10.73317,µg/m3 
+CHE,Switzerland,2017,9.98649,µg/m3 
+CHE,Switzerland,2018,10.29074,µg/m3 
+CHE,Switzerland,2019,10.04367,µg/m3 
+TUR,Turkey,1990,26.67692,µg/m3 
+TUR,Turkey,1995,26.70428,µg/m3 
+TUR,Turkey,2000,27.6674,µg/m3 
+TUR,Turkey,2005,26.67311,µg/m3 
+TUR,Turkey,2010,30.00437,µg/m3 
+TUR,Turkey,2011,28.61053,µg/m3 
+TUR,Turkey,2012,28.12718,µg/m3 
+TUR,Turkey,2013,28.84396,µg/m3 
+TUR,Turkey,2014,28.78455,µg/m3 
+TUR,Turkey,2015,29.59717,µg/m3 
+TUR,Turkey,2016,28.71693,µg/m3 
+TUR,Turkey,2017,27.15912,µg/m3 
+TUR,Turkey,2018,27.40293,µg/m3 
+TUR,Turkey,2019,26.85069,µg/m3 
+GBR,United Kingdom,1990,17.02118,µg/m3 
+GBR,United Kingdom,1995,16.00063,µg/m3 
+GBR,United Kingdom,2000,14.76416,µg/m3 
+GBR,United Kingdom,2005,13.24027,µg/m3 
+GBR,United Kingdom,2010,12.38783,µg/m3 
+GBR,United Kingdom,2011,12.95079,µg/m3 
+GBR,United Kingdom,2012,11.38851,µg/m3 
+GBR,United Kingdom,2013,11.36731,µg/m3 
+GBR,United Kingdom,2014,10.82781,µg/m3 
+GBR,United Kingdom,2015,10.32277,µg/m3 
+GBR,United Kingdom,2016,10.15293,µg/m3 
+GBR,United Kingdom,2017,10.28748,µg/m3 
+GBR,United Kingdom,2018,10.10409,µg/m3 
+GBR,United Kingdom,2019,10.02183,µg/m3 
+USA,United States,1990,13.19092,µg/m3 
+USA,United States,1995,12.72951,µg/m3 
+USA,United States,2000,11.95909,µg/m3 
+USA,United States,2005,10.94197,µg/m3 
+USA,United States,2010,9.23072,µg/m3 
+USA,United States,2011,9.27236,µg/m3 
+USA,United States,2012,8.8823,µg/m3 
+USA,United States,2013,8.65491,µg/m3 
+USA,United States,2014,8.44529,µg/m3 
+USA,United States,2015,8.17797,µg/m3 
+USA,United States,2016,7.39055,µg/m3 
+USA,United States,2017,7.75763,µg/m3 
+USA,United States,2018,7.78762,µg/m3 
+USA,United States,2019,7.67611,µg/m3 
+G7M,G7,1990,15.89686,µg/m3 
+G7M,G7,1995,15.06027,µg/m3 
+G7M,G7,2000,14.12598,µg/m3 
+G7M,G7,2005,12.96006,µg/m3 
+G7M,G7,2010,11.95677,µg/m3 
+G7M,G7,2011,12.21717,µg/m3 
+G7M,G7,2012,11.49811,µg/m3 
+G7M,G7,2013,11.33734,µg/m3 
+G7M,G7,2014,10.87725,µg/m3 
+G7M,G7,2015,10.84239,µg/m3 
+G7M,G7,2016,10.08153,µg/m3 
+G7M,G7,2017,10.36871,µg/m3 
+G7M,G7,2018,10.36491,µg/m3 
+G7M,G7,2019,10.27089,µg/m3 
+AFG,Afghanistan,1990,49.34548,µg/m3 
+AFG,Afghanistan,1995,48.58928,µg/m3 
+AFG,Afghanistan,2000,52.234,µg/m3 
+AFG,Afghanistan,2005,46.60351,µg/m3 
+AFG,Afghanistan,2010,52.49585,µg/m3 
+AFG,Afghanistan,2011,57.09972,µg/m3 
+AFG,Afghanistan,2012,55.46611,µg/m3 
+AFG,Afghanistan,2013,59.62277,µg/m3 
+AFG,Afghanistan,2014,62.72192,µg/m3 
+AFG,Afghanistan,2015,61.41157,µg/m3 
+AFG,Afghanistan,2016,57.96634,µg/m3 
+AFG,Afghanistan,2017,54.03117,µg/m3 
+AFG,Afghanistan,2018,53.43221,µg/m3 
+AFG,Afghanistan,2019,52.99812,µg/m3 
+ALB,Albania,1990,24.51495,µg/m3 
+ALB,Albania,1995,23.83322,µg/m3 
+ALB,Albania,2000,24.17578,µg/m3 
+ALB,Albania,2005,21.9854,µg/m3 
+ALB,Albania,2010,21.55726,µg/m3 
+ALB,Albania,2011,23.31385,µg/m3 
+ALB,Albania,2012,21.45644,µg/m3 
+ALB,Albania,2013,19.93915,µg/m3 
+ALB,Albania,2014,19.81741,µg/m3 
+ALB,Albania,2015,19.42523,µg/m3 
+ALB,Albania,2016,17.69079,µg/m3 
+ALB,Albania,2017,18.8694,µg/m3 
+ALB,Albania,2018,18.65998,µg/m3 
+ALB,Albania,2019,18.45981,µg/m3 
+DZA,Algeria,1990,29.82006,µg/m3 
+DZA,Algeria,1995,31.74053,µg/m3 
+DZA,Algeria,2000,35.61068,µg/m3 
+DZA,Algeria,2005,34.11767,µg/m3 
+DZA,Algeria,2010,32.13971,µg/m3 
+DZA,Algeria,2011,31.68926,µg/m3 
+DZA,Algeria,2012,32.69955,µg/m3 
+DZA,Algeria,2013,30.5132,µg/m3 
+DZA,Algeria,2014,32.00987,µg/m3 
+DZA,Algeria,2015,33.601,µg/m3 
+DZA,Algeria,2016,32.90051,µg/m3 
+DZA,Algeria,2017,32.66508,µg/m3 
+DZA,Algeria,2018,32.76134,µg/m3 
+DZA,Algeria,2019,32.91557,µg/m3 
+ASM,American Samoa,1990,6.74671,µg/m3 
+ASM,American Samoa,1995,6.69918,µg/m3 
+ASM,American Samoa,2000,5.92333,µg/m3 
+ASM,American Samoa,2005,6.09526,µg/m3 
+ASM,American Samoa,2010,5.84434,µg/m3 
+ASM,American Samoa,2011,5.51551,µg/m3 
+ASM,American Samoa,2012,5.60376,µg/m3 
+ASM,American Samoa,2013,5.59666,µg/m3 
+ASM,American Samoa,2014,5.99963,µg/m3 
+ASM,American Samoa,2015,6.05167,µg/m3 
+ASM,American Samoa,2016,6.56795,µg/m3 
+ASM,American Samoa,2017,6.36302,µg/m3 
+ASM,American Samoa,2018,6.39934,µg/m3 
+ASM,American Samoa,2019,6.35038,µg/m3 
+AND,Andorra,1990,15.60164,µg/m3 
+AND,Andorra,1995,14.10359,µg/m3 
+AND,Andorra,2000,14.4122,µg/m3 
+AND,Andorra,2005,12.88445,µg/m3 
+AND,Andorra,2010,11.74087,µg/m3 
+AND,Andorra,2011,12.86582,µg/m3 
+AND,Andorra,2012,11.72693,µg/m3 
+AND,Andorra,2013,10.68939,µg/m3 
+AND,Andorra,2014,10.02761,µg/m3 
+AND,Andorra,2015,10.84852,µg/m3 
+AND,Andorra,2016,9.37937,µg/m3 
+AND,Andorra,2017,9.57266,µg/m3 
+AND,Andorra,2018,9.63061,µg/m3 
+AND,Andorra,2019,9.51265,µg/m3 
+AGO,Angola,1990,29.88351,µg/m3 
+AGO,Angola,1995,28.37166,µg/m3 
+AGO,Angola,2000,28.14778,µg/m3 
+AGO,Angola,2005,28.51511,µg/m3 
+AGO,Angola,2010,28.96085,µg/m3 
+AGO,Angola,2011,29.05401,µg/m3 
+AGO,Angola,2012,29.2792,µg/m3 
+AGO,Angola,2013,29.51322,µg/m3 
+AGO,Angola,2014,28.47544,µg/m3 
+AGO,Angola,2015,29.27571,µg/m3 
+AGO,Angola,2016,29.2647,µg/m3 
+AGO,Angola,2017,28.05196,µg/m3 
+AGO,Angola,2018,28.31671,µg/m3 
+AGO,Angola,2019,28.02152,µg/m3 
+AIA,Anguilla,1990,9.05047,µg/m3 
+AIA,Anguilla,1995,8.96838,µg/m3 
+AIA,Anguilla,2000,8.63948,µg/m3 
+AIA,Anguilla,2005,7.71592,µg/m3 
+AIA,Anguilla,2010,8.06785,µg/m3 
+AIA,Anguilla,2011,7.2417,µg/m3 
+AIA,Anguilla,2012,7.98419,µg/m3 
+AIA,Anguilla,2013,7.69653,µg/m3 
+AIA,Anguilla,2014,7.55865,µg/m3 
+AIA,Anguilla,2015,8.45648,µg/m3 
+AIA,Anguilla,2016,8.70342,µg/m3 
+AIA,Anguilla,2017,8.55658,µg/m3 
+AIA,Anguilla,2018,8.71817,µg/m3 
+AIA,Anguilla,2019,8.72825,µg/m3 
+ATG,Antigua and Barbuda,1990,12.73085,µg/m3 
+ATG,Antigua and Barbuda,1995,12.74811,µg/m3 
+ATG,Antigua and Barbuda,2000,18.20907,µg/m3 
+ATG,Antigua and Barbuda,2005,16.58186,µg/m3 
+ATG,Antigua and Barbuda,2010,16.93897,µg/m3 
+ATG,Antigua and Barbuda,2011,16.11701,µg/m3 
+ATG,Antigua and Barbuda,2012,16.83281,µg/m3 
+ATG,Antigua and Barbuda,2013,16.98958,µg/m3 
+ATG,Antigua and Barbuda,2014,16.50621,µg/m3 
+ATG,Antigua and Barbuda,2015,18.16537,µg/m3 
+ATG,Antigua and Barbuda,2016,17.71044,µg/m3 
+ATG,Antigua and Barbuda,2017,17.22249,µg/m3 
+ATG,Antigua and Barbuda,2018,17.59495,µg/m3 
+ATG,Antigua and Barbuda,2019,17.62028,µg/m3 
+ARG,Argentina,1990,16.0076,µg/m3 
+ARG,Argentina,1995,15.85405,µg/m3 
+ARG,Argentina,2000,14.47081,µg/m3 
+ARG,Argentina,2005,13.61238,µg/m3 
+ARG,Argentina,2010,14.05373,µg/m3 
+ARG,Argentina,2011,14.52667,µg/m3 
+ARG,Argentina,2012,13.68543,µg/m3 
+ARG,Argentina,2013,15.06927,µg/m3 
+ARG,Argentina,2014,14.1147,µg/m3 
+ARG,Argentina,2015,14.93674,µg/m3 
+ARG,Argentina,2016,14.45197,µg/m3 
+ARG,Argentina,2017,13.95186,µg/m3 
+ARG,Argentina,2018,13.97303,µg/m3 
+ARG,Argentina,2019,13.84671,µg/m3 
+ARM,Armenia,1990,33.07983,µg/m3 
+ARM,Armenia,1995,32.71072,µg/m3 
+ARM,Armenia,2000,31.619,µg/m3 
+ARM,Armenia,2005,32.41865,µg/m3 
+ARM,Armenia,2010,36.20056,µg/m3 
+ARM,Armenia,2011,40.79481,µg/m3 
+ARM,Armenia,2012,41.39294,µg/m3 
+ARM,Armenia,2013,39.19509,µg/m3 
+ARM,Armenia,2014,38.75478,µg/m3 
+ARM,Armenia,2015,38.11764,µg/m3 
+ARM,Armenia,2016,34.87167,µg/m3 
+ARM,Armenia,2017,35.55658,µg/m3 
+ARM,Armenia,2018,34.63884,µg/m3 
+ARM,Armenia,2019,34.24106,µg/m3 
+ABW,Aruba,1990,7.78031,µg/m3 
+ABW,Aruba,1995,7.56945,µg/m3 
+ABW,Aruba,2000,7.85525,µg/m3 
+ABW,Aruba,2005,7.3564,µg/m3 
+ABW,Aruba,2010,7.57093,µg/m3 
+ABW,Aruba,2011,7.27976,µg/m3 
+ABW,Aruba,2012,7.68113,µg/m3 
+ABW,Aruba,2013,7.4699,µg/m3 
+ABW,Aruba,2014,7.73248,µg/m3 
+ABW,Aruba,2015,8.20617,µg/m3 
+ABW,Aruba,2016,8.64984,µg/m3 
+ABW,Aruba,2017,8.3258,µg/m3 
+ABW,Aruba,2018,8.54026,µg/m3 
+ABW,Aruba,2019,8.5267,µg/m3 
+AZE,Azerbaijan,1990,23.02348,µg/m3 
+AZE,Azerbaijan,1995,26.51871,µg/m3 
+AZE,Azerbaijan,2000,25.15823,µg/m3 
+AZE,Azerbaijan,2005,23.78346,µg/m3 
+AZE,Azerbaijan,2010,25.84174,µg/m3 
+AZE,Azerbaijan,2011,27.72685,µg/m3 
+AZE,Azerbaijan,2012,29.59322,µg/m3 
+AZE,Azerbaijan,2013,29.04756,µg/m3 
+AZE,Azerbaijan,2014,28.2887,µg/m3 
+AZE,Azerbaijan,2015,26.8159,µg/m3 
+AZE,Azerbaijan,2016,25.05773,µg/m3 
+AZE,Azerbaijan,2017,25.80297,µg/m3 
+AZE,Azerbaijan,2018,25.88438,µg/m3 
+AZE,Azerbaijan,2019,26.26906,µg/m3 
+BHS,Bahamas,1990,15.2356,µg/m3 
+BHS,Bahamas,1995,15.3234,µg/m3 
+BHS,Bahamas,2000,17.0798,µg/m3 
+BHS,Bahamas,2005,16.1368,µg/m3 
+BHS,Bahamas,2010,15.1443,µg/m3 
+BHS,Bahamas,2011,15.3163,µg/m3 
+BHS,Bahamas,2012,16.0696,µg/m3 
+BHS,Bahamas,2013,15.4325,µg/m3 
+BHS,Bahamas,2014,15.8441,µg/m3 
+BHS,Bahamas,2015,15.9052,µg/m3 
+BHS,Bahamas,2016,15.5474,µg/m3 
+BHS,Bahamas,2017,15.1039,µg/m3 
+BHS,Bahamas,2018,15.4028,µg/m3 
+BHS,Bahamas,2019,15.2567,µg/m3 
+BHR,Bahrain,1990,55.27098,µg/m3 
+BHR,Bahrain,1995,52.82575,µg/m3 
+BHR,Bahrain,2000,62.37965,µg/m3 
+BHR,Bahrain,2005,65.85087,µg/m3 
+BHR,Bahrain,2010,63.2667,µg/m3 
+BHR,Bahrain,2011,64.82876,µg/m3 
+BHR,Bahrain,2012,67.4297,µg/m3 
+BHR,Bahrain,2013,63.57234,µg/m3 
+BHR,Bahrain,2014,58.95892,µg/m3 
+BHR,Bahrain,2015,65.71355,µg/m3 
+BHR,Bahrain,2016,61.12351,µg/m3 
+BHR,Bahrain,2017,61.12047,µg/m3 
+BHR,Bahrain,2018,59.87996,µg/m3 
+BHR,Bahrain,2019,58.66163,µg/m3 
+BGD,Bangladesh,1990,52.98736,µg/m3 
+BGD,Bangladesh,1995,51.70392,µg/m3 
+BGD,Bangladesh,2000,53.80223,µg/m3 
+BGD,Bangladesh,2005,55.14937,µg/m3 
+BGD,Bangladesh,2010,56.48803,µg/m3 
+BGD,Bangladesh,2011,60.63896,µg/m3 
+BGD,Bangladesh,2012,69.00422,µg/m3 
+BGD,Bangladesh,2013,66.47897,µg/m3 
+BGD,Bangladesh,2014,73.37176,µg/m3 
+BGD,Bangladesh,2015,69.08059,µg/m3 
+BGD,Bangladesh,2016,67.90836,µg/m3 
+BGD,Bangladesh,2017,62.82447,µg/m3 
+BGD,Bangladesh,2018,63.39008,µg/m3 
+BGD,Bangladesh,2019,63.54533,µg/m3 
+BRB,Barbados,1990,15.94812,µg/m3 
+BRB,Barbados,1995,15.95332,µg/m3 
+BRB,Barbados,2000,21.74607,µg/m3 
+BRB,Barbados,2005,19.47741,µg/m3 
+BRB,Barbados,2010,19.64102,µg/m3 
+BRB,Barbados,2011,18.87565,µg/m3 
+BRB,Barbados,2012,19.80088,µg/m3 
+BRB,Barbados,2013,19.81828,µg/m3 
+BRB,Barbados,2014,19.90631,µg/m3 
+BRB,Barbados,2015,21.62359,µg/m3 
+BRB,Barbados,2016,20.7776,µg/m3 
+BRB,Barbados,2017,20.62564,µg/m3 
+BRB,Barbados,2018,20.96186,µg/m3 
+BRB,Barbados,2019,21.04115,µg/m3 
+BLR,Belarus,1990,25.50939,µg/m3 
+BLR,Belarus,1995,23.36055,µg/m3 
+BLR,Belarus,2000,22.06207,µg/m3 
+BLR,Belarus,2005,21.14994,µg/m3 
+BLR,Belarus,2010,22.46444,µg/m3 
+BLR,Belarus,2011,19.86036,µg/m3 
+BLR,Belarus,2012,19.1637,µg/m3 
+BLR,Belarus,2013,20.06079,µg/m3 
+BLR,Belarus,2014,20.48884,µg/m3 
+BLR,Belarus,2015,18.73342,µg/m3 
+BLR,Belarus,2016,16.90633,µg/m3 
+BLR,Belarus,2017,16.59014,µg/m3 
+BLR,Belarus,2018,16.66586,µg/m3 
+BLR,Belarus,2019,16.57188,µg/m3 
+BLZ,Belize,1990,21.54261,µg/m3 
+BLZ,Belize,1995,21.00694,µg/m3 
+BLZ,Belize,2000,21.94752,µg/m3 
+BLZ,Belize,2005,20.44141,µg/m3 
+BLZ,Belize,2010,18.19082,µg/m3 
+BLZ,Belize,2011,20.41728,µg/m3 
+BLZ,Belize,2012,19.25992,µg/m3 
+BLZ,Belize,2013,21.64885,µg/m3 
+BLZ,Belize,2014,21.09548,µg/m3 
+BLZ,Belize,2015,21.35966,µg/m3 
+BLZ,Belize,2016,20.45695,µg/m3 
+BLZ,Belize,2017,20.27676,µg/m3 
+BLZ,Belize,2018,20.56673,µg/m3 
+BLZ,Belize,2019,20.45305,µg/m3 
+BEN,Benin,1990,45.40476,µg/m3 
+BEN,Benin,1995,41.20672,µg/m3 
+BEN,Benin,2000,47.29046,µg/m3 
+BEN,Benin,2005,41.22433,µg/m3 
+BEN,Benin,2010,41.20744,µg/m3 
+BEN,Benin,2011,41.55631,µg/m3 
+BEN,Benin,2012,43.13099,µg/m3 
+BEN,Benin,2013,38.98048,µg/m3 
+BEN,Benin,2014,39.02518,µg/m3 
+BEN,Benin,2015,48.55724,µg/m3 
+BEN,Benin,2016,46.11021,µg/m3 
+BEN,Benin,2017,44.61055,µg/m3 
+BEN,Benin,2018,45.71945,µg/m3 
+BEN,Benin,2019,46.23708,µg/m3 
+BMU,Bermuda,1990,9.92404,µg/m3 
+BMU,Bermuda,1995,9.92502,µg/m3 
+BMU,Bermuda,2000,8.43287,µg/m3 
+BMU,Bermuda,2005,7.85891,µg/m3 
+BMU,Bermuda,2010,7.10726,µg/m3 
+BMU,Bermuda,2011,6.87622,µg/m3 
+BMU,Bermuda,2012,6.84478,µg/m3 
+BMU,Bermuda,2013,6.50045,µg/m3 
+BMU,Bermuda,2014,6.89606,µg/m3 
+BMU,Bermuda,2015,7.0228,µg/m3 
+BMU,Bermuda,2016,7.47109,µg/m3 
+BMU,Bermuda,2017,7.21156,µg/m3 
+BMU,Bermuda,2018,7.1688,µg/m3 
+BMU,Bermuda,2019,7.08401,µg/m3 
+BTN,Bhutan,1990,36.62628,µg/m3 
+BTN,Bhutan,1995,35.29833,µg/m3 
+BTN,Bhutan,2000,36.99722,µg/m3 
+BTN,Bhutan,2005,40.16349,µg/m3 
+BTN,Bhutan,2010,39.65957,µg/m3 
+BTN,Bhutan,2011,37.99492,µg/m3 
+BTN,Bhutan,2012,44.21164,µg/m3 
+BTN,Bhutan,2013,42.63762,µg/m3 
+BTN,Bhutan,2014,48.56215,µg/m3 
+BTN,Bhutan,2015,44.49682,µg/m3 
+BTN,Bhutan,2016,43.64552,µg/m3 
+BTN,Bhutan,2017,40.24918,µg/m3 
+BTN,Bhutan,2018,40.47256,µg/m3 
+BTN,Bhutan,2019,40.3737,µg/m3 
+BOL,Bolivia,1990,51.51747,µg/m3 
+BOL,Bolivia,1995,44.33983,µg/m3 
+BOL,Bolivia,2000,30.71828,µg/m3 
+BOL,Bolivia,2005,28.00027,µg/m3 
+BOL,Bolivia,2010,31.86734,µg/m3 
+BOL,Bolivia,2011,28.84461,µg/m3 
+BOL,Bolivia,2012,28.67738,µg/m3 
+BOL,Bolivia,2013,26.97036,µg/m3 
+BOL,Bolivia,2014,28.54349,µg/m3 
+BOL,Bolivia,2015,29.54265,µg/m3 
+BOL,Bolivia,2016,28.39105,µg/m3 
+BOL,Bolivia,2017,27.93657,µg/m3 
+BOL,Bolivia,2018,27.71693,µg/m3 
+BOL,Bolivia,2019,27.48764,µg/m3 
+BIH,Bosnia and Herzegovina,1990,43.03416,µg/m3 
+BIH,Bosnia and Herzegovina,1995,42.47123,µg/m3 
+BIH,Bosnia and Herzegovina,2000,39.22961,µg/m3 
+BIH,Bosnia and Herzegovina,2005,37.02173,µg/m3 
+BIH,Bosnia and Herzegovina,2010,35.46516,µg/m3 
+BIH,Bosnia and Herzegovina,2011,39.36054,µg/m3 
+BIH,Bosnia and Herzegovina,2012,35.51636,µg/m3 
+BIH,Bosnia and Herzegovina,2013,33.93648,µg/m3 
+BIH,Bosnia and Herzegovina,2014,32.55819,µg/m3 
+BIH,Bosnia and Herzegovina,2015,33.85689,µg/m3 
+BIH,Bosnia and Herzegovina,2016,29.59341,µg/m3 
+BIH,Bosnia and Herzegovina,2017,30.77486,µg/m3 
+BIH,Bosnia and Herzegovina,2018,30.78127,µg/m3 
+BIH,Bosnia and Herzegovina,2019,30.28742,µg/m3 
+BWA,Botswana,1990,24.28283,µg/m3 
+BWA,Botswana,1995,24.0274,µg/m3 
+BWA,Botswana,2000,24.31484,µg/m3 
+BWA,Botswana,2005,24.73976,µg/m3 
+BWA,Botswana,2010,26.59719,µg/m3 
+BWA,Botswana,2011,27.00312,µg/m3 
+BWA,Botswana,2012,27.05872,µg/m3 
+BWA,Botswana,2013,26.10286,µg/m3 
+BWA,Botswana,2014,25.67235,µg/m3 
+BWA,Botswana,2015,26.59954,µg/m3 
+BWA,Botswana,2016,25.65127,µg/m3 
+BWA,Botswana,2017,25.39271,µg/m3 
+BWA,Botswana,2018,25.47543,µg/m3 
+BWA,Botswana,2019,25.32941,µg/m3 
+BRA,Brazil,1990,14.80561,µg/m3 
+BRA,Brazil,1995,14.65553,µg/m3 
+BRA,Brazil,2000,14.57307,µg/m3 
+BRA,Brazil,2005,14.58125,µg/m3 
+BRA,Brazil,2010,14.05672,µg/m3 
+BRA,Brazil,2011,14.6726,µg/m3 
+BRA,Brazil,2012,13.76786,µg/m3 
+BRA,Brazil,2013,13.13758,µg/m3 
+BRA,Brazil,2014,12.9879,µg/m3 
+BRA,Brazil,2015,11.68776,µg/m3 
+BRA,Brazil,2016,11.42007,µg/m3 
+BRA,Brazil,2017,11.66885,µg/m3 
+BRA,Brazil,2018,11.63402,µg/m3 
+BRA,Brazil,2019,11.66552,µg/m3 
+VGB,British Virgin Islands,1990,10.00591,µg/m3 
+VGB,British Virgin Islands,1995,9.9212,µg/m3 
+VGB,British Virgin Islands,2000,8.80043,µg/m3 
+VGB,British Virgin Islands,2005,7.87432,µg/m3 
+VGB,British Virgin Islands,2010,8.20158,µg/m3 
+VGB,British Virgin Islands,2011,7.25472,µg/m3 
+VGB,British Virgin Islands,2012,8.10943,µg/m3 
+VGB,British Virgin Islands,2013,7.78401,µg/m3 
+VGB,British Virgin Islands,2014,7.72475,µg/m3 
+VGB,British Virgin Islands,2015,8.55096,µg/m3 
+VGB,British Virgin Islands,2016,8.80847,µg/m3 
+VGB,British Virgin Islands,2017,8.7457,µg/m3 
+VGB,British Virgin Islands,2018,8.86025,µg/m3 
+VGB,British Virgin Islands,2019,8.87929,µg/m3 
+BRN,Brunei Darussalam,1990,7.79807,µg/m3 
+BRN,Brunei Darussalam,1995,6.71614,µg/m3 
+BRN,Brunei Darussalam,2000,6.45689,µg/m3 
+BRN,Brunei Darussalam,2005,6.71613,µg/m3 
+BRN,Brunei Darussalam,2010,6.40296,µg/m3 
+BRN,Brunei Darussalam,2011,7.35569,µg/m3 
+BRN,Brunei Darussalam,2012,7.62456,µg/m3 
+BRN,Brunei Darussalam,2013,7.63984,µg/m3 
+BRN,Brunei Darussalam,2014,7.77212,µg/m3 
+BRN,Brunei Darussalam,2015,7.95178,µg/m3 
+BRN,Brunei Darussalam,2016,7.68039,µg/m3 
+BRN,Brunei Darussalam,2017,7.38049,µg/m3 
+BRN,Brunei Darussalam,2018,7.7198,µg/m3 
+BRN,Brunei Darussalam,2019,7.72029,µg/m3 
+BGR,Bulgaria,1990,28.77157,µg/m3 
+BGR,Bulgaria,1995,27.38082,µg/m3 
+BGR,Bulgaria,2000,26.72158,µg/m3 
+BGR,Bulgaria,2005,24.47952,µg/m3 
+BGR,Bulgaria,2010,23.41734,µg/m3 
+BGR,Bulgaria,2011,26.33199,µg/m3 
+BGR,Bulgaria,2012,23.27254,µg/m3 
+BGR,Bulgaria,2013,21.80279,µg/m3 
+BGR,Bulgaria,2014,22.24359,µg/m3 
+BGR,Bulgaria,2015,20.86425,µg/m3 
+BGR,Bulgaria,2016,19.95143,µg/m3 
+BGR,Bulgaria,2017,20.22277,µg/m3 
+BGR,Bulgaria,2018,20.21311,µg/m3 
+BGR,Bulgaria,2019,19.92702,µg/m3 
+BFA,Burkina Faso,1990,51.92222,µg/m3 
+BFA,Burkina Faso,1995,49.41682,µg/m3 
+BFA,Burkina Faso,2000,54.9143,µg/m3 
+BFA,Burkina Faso,2005,54.95081,µg/m3 
+BFA,Burkina Faso,2010,53.99324,µg/m3 
+BFA,Burkina Faso,2011,51.2476,µg/m3 
+BFA,Burkina Faso,2012,54.19399,µg/m3 
+BFA,Burkina Faso,2013,47.35318,µg/m3 
+BFA,Burkina Faso,2014,48.42901,µg/m3 
+BFA,Burkina Faso,2015,60.27898,µg/m3 
+BFA,Burkina Faso,2016,56.26509,µg/m3 
+BFA,Burkina Faso,2017,53.54886,µg/m3 
+BFA,Burkina Faso,2018,53.66527,µg/m3 
+BFA,Burkina Faso,2019,53.68486,µg/m3 
+BDI,Burundi,1990,34.49578,µg/m3 
+BDI,Burundi,1995,34.78258,µg/m3 
+BDI,Burundi,2000,36.18593,µg/m3 
+BDI,Burundi,2005,33.67101,µg/m3 
+BDI,Burundi,2010,33.23081,µg/m3 
+BDI,Burundi,2011,35.35365,µg/m3 
+BDI,Burundi,2012,37.15903,µg/m3 
+BDI,Burundi,2013,35.1159,µg/m3 
+BDI,Burundi,2014,34.96393,µg/m3 
+BDI,Burundi,2015,35.83684,µg/m3 
+BDI,Burundi,2016,35.54883,µg/m3 
+BDI,Burundi,2017,32.89305,µg/m3 
+BDI,Burundi,2018,33.81083,µg/m3 
+BDI,Burundi,2019,33.32371,µg/m3 
+KHM,Cambodia,1990,28.38778,µg/m3 
+KHM,Cambodia,1995,26.84759,µg/m3 
+KHM,Cambodia,2000,27.49316,µg/m3 
+KHM,Cambodia,2005,29.44985,µg/m3 
+KHM,Cambodia,2010,29.00238,µg/m3 
+KHM,Cambodia,2011,24.82077,µg/m3 
+KHM,Cambodia,2012,25.02527,µg/m3 
+KHM,Cambodia,2013,28.13717,µg/m3 
+KHM,Cambodia,2014,24.31387,µg/m3 
+KHM,Cambodia,2015,24.11826,µg/m3 
+KHM,Cambodia,2016,24.88946,µg/m3 
+KHM,Cambodia,2017,22.08535,µg/m3 
+KHM,Cambodia,2018,22.33921,µg/m3 
+KHM,Cambodia,2019,22.13588,µg/m3 
+CMR,Cameroon,1990,67.54344,µg/m3 
+CMR,Cameroon,1995,60.16721,µg/m3 
+CMR,Cameroon,2000,69.06149,µg/m3 
+CMR,Cameroon,2005,62.54161,µg/m3 
+CMR,Cameroon,2010,60.63623,µg/m3 
+CMR,Cameroon,2011,60.06186,µg/m3 
+CMR,Cameroon,2012,62.5594,µg/m3 
+CMR,Cameroon,2013,57.96497,µg/m3 
+CMR,Cameroon,2014,57.77838,µg/m3 
+CMR,Cameroon,2015,71.14056,µg/m3 
+CMR,Cameroon,2016,66.83687,µg/m3 
+CMR,Cameroon,2017,63.75296,µg/m3 
+CMR,Cameroon,2018,65.45743,µg/m3 
+CMR,Cameroon,2019,66.15428,µg/m3 
+CPV,Cabo Verde,1990,47.73517,µg/m3 
+CPV,Cabo Verde,1995,47.09204,µg/m3 
+CPV,Cabo Verde,2000,50.77866,µg/m3 
+CPV,Cabo Verde,2005,42.74484,µg/m3 
+CPV,Cabo Verde,2010,33.89275,µg/m3 
+CPV,Cabo Verde,2011,46.65352,µg/m3 
+CPV,Cabo Verde,2012,51.9952,µg/m3 
+CPV,Cabo Verde,2013,42.69561,µg/m3 
+CPV,Cabo Verde,2014,38.9524,µg/m3 
+CPV,Cabo Verde,2015,53.63169,µg/m3 
+CPV,Cabo Verde,2016,47.68437,µg/m3 
+CPV,Cabo Verde,2017,52.37652,µg/m3 
+CPV,Cabo Verde,2018,49.82569,µg/m3 
+CPV,Cabo Verde,2019,50.88585,µg/m3 
+CYM,Cayman Islands,1990,10.26791,µg/m3 
+CYM,Cayman Islands,1995,9.89249,µg/m3 
+CYM,Cayman Islands,2000,9.39571,µg/m3 
+CYM,Cayman Islands,2005,8.67706,µg/m3 
+CYM,Cayman Islands,2010,8.1684,µg/m3 
+CYM,Cayman Islands,2011,8.19742,µg/m3 
+CYM,Cayman Islands,2012,8.59979,µg/m3 
+CYM,Cayman Islands,2013,8.68551,µg/m3 
+CYM,Cayman Islands,2014,9.31086,µg/m3 
+CYM,Cayman Islands,2015,9.43474,µg/m3 
+CYM,Cayman Islands,2016,9.33916,µg/m3 
+CYM,Cayman Islands,2017,8.79769,µg/m3 
+CYM,Cayman Islands,2018,8.34669,µg/m3 
+CYM,Cayman Islands,2019,7.83108,µg/m3 
+CAF,Central African Republic,1990,45.81905,µg/m3 
+CAF,Central African Republic,1995,45.06384,µg/m3 
+CAF,Central African Republic,2000,45.65161,µg/m3 
+CAF,Central African Republic,2005,42.07741,µg/m3 
+CAF,Central African Republic,2010,44.32997,µg/m3 
+CAF,Central African Republic,2011,47.25884,µg/m3 
+CAF,Central African Republic,2012,47.62774,µg/m3 
+CAF,Central African Republic,2013,45.18815,µg/m3 
+CAF,Central African Republic,2014,42.84418,µg/m3 
+CAF,Central African Republic,2015,48.64444,µg/m3 
+CAF,Central African Republic,2016,46.04008,µg/m3 
+CAF,Central African Republic,2017,44.87807,µg/m3 
+CAF,Central African Republic,2018,46.62242,µg/m3 
+CAF,Central African Republic,2019,46.89668,µg/m3 
+TCD,Chad,1990,59.56239,µg/m3 
+TCD,Chad,1995,55.1158,µg/m3 
+TCD,Chad,2000,60.28541,µg/m3 
+TCD,Chad,2005,59.44174,µg/m3 
+TCD,Chad,2010,57.8041,µg/m3 
+TCD,Chad,2011,58.92884,µg/m3 
+TCD,Chad,2012,60.05122,µg/m3 
+TCD,Chad,2013,55.8678,µg/m3 
+TCD,Chad,2014,53.48884,µg/m3 
+TCD,Chad,2015,64.13971,µg/m3 
+TCD,Chad,2016,59.85288,µg/m3 
+TCD,Chad,2017,59.55246,µg/m3 
+TCD,Chad,2018,59.32125,µg/m3 
+TCD,Chad,2019,59.42594,µg/m3 
+CHL,Chile,1990,23.58027,µg/m3 
+CHL,Chile,1995,23.45779,µg/m3 
+CHL,Chile,2000,22.97985,µg/m3 
+CHL,Chile,2005,21.95197,µg/m3 
+CHL,Chile,2010,21.93499,µg/m3 
+CHL,Chile,2011,23.31394,µg/m3 
+CHL,Chile,2012,22.28727,µg/m3 
+CHL,Chile,2013,23.85567,µg/m3 
+CHL,Chile,2014,23.20259,µg/m3 
+CHL,Chile,2015,24.49502,µg/m3 
+CHL,Chile,2016,24.72874,µg/m3 
+CHL,Chile,2017,22.81016,µg/m3 
+CHL,Chile,2018,23.63918,µg/m3 
+CHL,Chile,2019,23.68317,µg/m3 
+CHN,China (People's Republic of),1990,49.59653,µg/m3 
+CHN,China (People's Republic of),1995,49.88439,µg/m3 
+CHN,China (People's Republic of),2000,50.82196,µg/m3 
+CHN,China (People's Republic of),2005,51.65252,µg/m3 
+CHN,China (People's Republic of),2010,53.24271,µg/m3 
+CHN,China (People's Republic of),2011,58.41283,µg/m3 
+CHN,China (People's Republic of),2012,58.91645,µg/m3 
+CHN,China (People's Republic of),2013,63.32051,µg/m3 
+CHN,China (People's Republic of),2014,60.31858,µg/m3 
+CHN,China (People's Republic of),2015,56.26218,µg/m3 
+CHN,China (People's Republic of),2016,51.64413,µg/m3 
+CHN,China (People's Republic of),2017,49.98303,µg/m3 
+CHN,China (People's Republic of),2018,49.33254,µg/m3 
+CHN,China (People's Republic of),2019,47.72902,µg/m3 
+COL,Colombia,1990,30.1878,µg/m3 
+COL,Colombia,1995,28.97693,µg/m3 
+COL,Colombia,2000,29.01965,µg/m3 
+COL,Colombia,2005,23.96699,µg/m3 
+COL,Colombia,2010,25.65682,µg/m3 
+COL,Colombia,2011,26.62611,µg/m3 
+COL,Colombia,2012,23.98831,µg/m3 
+COL,Colombia,2013,24.85015,µg/m3 
+COL,Colombia,2014,24.42363,µg/m3 
+COL,Colombia,2015,23.45619,µg/m3 
+COL,Colombia,2016,23.25429,µg/m3 
+COL,Colombia,2017,22.56593,µg/m3 
+COL,Colombia,2018,22.63916,µg/m3 
+COL,Colombia,2019,22.5254,µg/m3 
+COM,Comoros,1990,15.65557,µg/m3 
+COM,Comoros,1995,15.58513,µg/m3 
+COM,Comoros,2000,17.42195,µg/m3 
+COM,Comoros,2005,17.19642,µg/m3 
+COM,Comoros,2010,17.02239,µg/m3 
+COM,Comoros,2011,17.76482,µg/m3 
+COM,Comoros,2012,17.21787,µg/m3 
+COM,Comoros,2013,17.64148,µg/m3 
+COM,Comoros,2014,16.93253,µg/m3 
+COM,Comoros,2015,17.76587,µg/m3 
+COM,Comoros,2016,17.18407,µg/m3 
+COM,Comoros,2017,16.51766,µg/m3 
+COM,Comoros,2018,17.05206,µg/m3 
+COM,Comoros,2019,17.0261,µg/m3 
+COG,Congo,1990,41.08764,µg/m3 
+COG,Congo,1995,39.98307,µg/m3 
+COG,Congo,2000,39.45371,µg/m3 
+COG,Congo,2005,37.72903,µg/m3 
+COG,Congo,2010,38.91787,µg/m3 
+COG,Congo,2011,39.49575,µg/m3 
+COG,Congo,2012,40.01911,µg/m3 
+COG,Congo,2013,41.834,µg/m3 
+COG,Congo,2014,38.82954,µg/m3 
+COG,Congo,2015,42.22145,µg/m3 
+COG,Congo,2016,40.82738,µg/m3 
+COG,Congo,2017,38.64156,µg/m3 
+COG,Congo,2018,39.68276,µg/m3 
+COG,Congo,2019,39.25027,µg/m3 
+COK,Cook Islands,1990,6.31741,µg/m3 
+COK,Cook Islands,1995,6.29191,µg/m3 
+COK,Cook Islands,2000,5.89358,µg/m3 
+COK,Cook Islands,2005,6.11935,µg/m3 
+COK,Cook Islands,2010,5.86857,µg/m3 
+COK,Cook Islands,2011,5.48904,µg/m3 
+COK,Cook Islands,2012,5.73397,µg/m3 
+COK,Cook Islands,2013,5.66049,µg/m3 
+COK,Cook Islands,2014,5.86132,µg/m3 
+COK,Cook Islands,2015,5.97877,µg/m3 
+COK,Cook Islands,2016,6.37038,µg/m3 
+COK,Cook Islands,2017,6.31971,µg/m3 
+COK,Cook Islands,2018,6.34711,µg/m3 
+COK,Cook Islands,2019,6.33352,µg/m3 
+CRI,Costa Rica,1990,16.83824,µg/m3 
+CRI,Costa Rica,1995,16.20873,µg/m3 
+CRI,Costa Rica,2000,17.97431,µg/m3 
+CRI,Costa Rica,2005,18.18803,µg/m3 
+CRI,Costa Rica,2010,18.15207,µg/m3 
+CRI,Costa Rica,2011,19.61187,µg/m3 
+CRI,Costa Rica,2012,18.90757,µg/m3 
+CRI,Costa Rica,2013,19.21802,µg/m3 
+CRI,Costa Rica,2014,18.30714,µg/m3 
+CRI,Costa Rica,2015,18.58168,µg/m3 
+CRI,Costa Rica,2016,17.92489,µg/m3 
+CRI,Costa Rica,2017,17.46191,µg/m3 
+CRI,Costa Rica,2018,17.54223,µg/m3 
+CRI,Costa Rica,2019,17.43615,µg/m3 
+CIV,Côte d'Ivoire,1990,57.8212,µg/m3 
+CIV,Côte d'Ivoire,1995,48.64881,µg/m3 
+CIV,Côte d'Ivoire,2000,60.16962,µg/m3 
+CIV,Côte d'Ivoire,2005,57.05451,µg/m3 
+CIV,Côte d'Ivoire,2010,51.07581,µg/m3 
+CIV,Côte d'Ivoire,2011,56.8145,µg/m3 
+CIV,Côte d'Ivoire,2012,57.03794,µg/m3 
+CIV,Côte d'Ivoire,2013,49.04376,µg/m3 
+CIV,Côte d'Ivoire,2014,48.22991,µg/m3 
+CIV,Côte d'Ivoire,2015,63.77092,µg/m3 
+CIV,Côte d'Ivoire,2016,61.66553,µg/m3 
+CIV,Côte d'Ivoire,2017,55.33156,µg/m3 
+CIV,Côte d'Ivoire,2018,55.89733,µg/m3 
+CIV,Côte d'Ivoire,2019,55.9251,µg/m3 
+HRV,Croatia,1990,25.37166,µg/m3 
+HRV,Croatia,1995,24.94985,µg/m3 
+HRV,Croatia,2000,23.34689,µg/m3 
+HRV,Croatia,2005,22.79672,µg/m3 
+HRV,Croatia,2010,20.82379,µg/m3 
+HRV,Croatia,2011,22.8211,µg/m3 
+HRV,Croatia,2012,20.22689,µg/m3 
+HRV,Croatia,2013,19.69789,µg/m3 
+HRV,Croatia,2014,19.26618,µg/m3 
+HRV,Croatia,2015,19.63877,µg/m3 
+HRV,Croatia,2016,17.48408,µg/m3 
+HRV,Croatia,2017,18.07654,µg/m3 
+HRV,Croatia,2018,18.37508,µg/m3 
+HRV,Croatia,2019,18.22689,µg/m3 
+CUB,Cuba,1990,20.23244,µg/m3 
+CUB,Cuba,1995,19.79896,µg/m3 
+CUB,Cuba,2000,21.00665,µg/m3 
+CUB,Cuba,2005,19.31089,µg/m3 
+CUB,Cuba,2010,18.27104,µg/m3 
+CUB,Cuba,2011,19.13832,µg/m3 
+CUB,Cuba,2012,19.28152,µg/m3 
+CUB,Cuba,2013,19.4254,µg/m3 
+CUB,Cuba,2014,19.80842,µg/m3 
+CUB,Cuba,2015,20.30881,µg/m3 
+CUB,Cuba,2016,19.59893,µg/m3 
+CUB,Cuba,2017,18.60644,µg/m3 
+CUB,Cuba,2018,18.4514,µg/m3 
+CUB,Cuba,2019,17.95487,µg/m3 
+CYP,Cyprus,1990,15.9345,µg/m3 
+CYP,Cyprus,1995,17.0906,µg/m3 
+CYP,Cyprus,2000,18.802,µg/m3 
+CYP,Cyprus,2005,18.2666,µg/m3 
+CYP,Cyprus,2010,19.1292,µg/m3 
+CYP,Cyprus,2011,18.8249,µg/m3 
+CYP,Cyprus,2012,17.0835,µg/m3 
+CYP,Cyprus,2013,16.5619,µg/m3 
+CYP,Cyprus,2014,16.6648,µg/m3 
+CYP,Cyprus,2015,17.407,µg/m3 
+CYP,Cyprus,2016,14.6237,µg/m3 
+CYP,Cyprus,2017,15.3562,µg/m3 
+CYP,Cyprus,2018,15.8137,µg/m3 
+CYP,Cyprus,2019,15.7934,µg/m3 
+PRK,Democratic People's Republic of Korea,1990,41.82138,µg/m3 
+PRK,Democratic People's Republic of Korea,1995,40.20139,µg/m3 
+PRK,Democratic People's Republic of Korea,2000,41.29808,µg/m3 
+PRK,Democratic People's Republic of Korea,2005,41.44486,µg/m3 
+PRK,Democratic People's Republic of Korea,2010,39.38654,µg/m3 
+PRK,Democratic People's Republic of Korea,2011,45.33044,µg/m3 
+PRK,Democratic People's Republic of Korea,2012,46.17635,µg/m3 
+PRK,Democratic People's Republic of Korea,2013,50.61102,µg/m3 
+PRK,Democratic People's Republic of Korea,2014,50.00248,µg/m3 
+PRK,Democratic People's Republic of Korea,2015,47.96794,µg/m3 
+PRK,Democratic People's Republic of Korea,2016,43.52124,µg/m3 
+PRK,Democratic People's Republic of Korea,2017,43.51352,µg/m3 
+PRK,Democratic People's Republic of Korea,2018,45.14198,µg/m3 
+PRK,Democratic People's Republic of Korea,2019,45.18309,µg/m3 
+COD,Democratic Republic of the Congo,1990,40.22469,µg/m3 
+COD,Democratic Republic of the Congo,1995,40.02711,µg/m3 
+COD,Democratic Republic of the Congo,2000,39.74978,µg/m3 
+COD,Democratic Republic of the Congo,2005,36.25605,µg/m3 
+COD,Democratic Republic of the Congo,2010,35.72552,µg/m3 
+COD,Democratic Republic of the Congo,2011,36.86839,µg/m3 
+COD,Democratic Republic of the Congo,2012,38.95214,µg/m3 
+COD,Democratic Republic of the Congo,2013,38.16964,µg/m3 
+COD,Democratic Republic of the Congo,2014,36.74487,µg/m3 
+COD,Democratic Republic of the Congo,2015,40.42859,µg/m3 
+COD,Democratic Republic of the Congo,2016,38.14317,µg/m3 
+COD,Democratic Republic of the Congo,2017,35.84552,µg/m3 
+COD,Democratic Republic of the Congo,2018,36.82314,µg/m3 
+COD,Democratic Republic of the Congo,2019,36.27272,µg/m3 
+DJI,Djibouti,1990,40.34997,µg/m3 
+DJI,Djibouti,1995,38.52825,µg/m3 
+DJI,Djibouti,2000,43.5823,µg/m3 
+DJI,Djibouti,2005,40.38888,µg/m3 
+DJI,Djibouti,2010,42.54804,µg/m3 
+DJI,Djibouti,2011,46.00165,µg/m3 
+DJI,Djibouti,2012,47.80522,µg/m3 
+DJI,Djibouti,2013,46.97759,µg/m3 
+DJI,Djibouti,2014,43.55011,µg/m3 
+DJI,Djibouti,2015,45.68844,µg/m3 
+DJI,Djibouti,2016,44.38001,µg/m3 
+DJI,Djibouti,2017,44.42654,µg/m3 
+DJI,Djibouti,2018,44.20975,µg/m3 
+DJI,Djibouti,2019,43.98848,µg/m3 
+DMA,Dominica,1990,17.26513,µg/m3 
+DMA,Dominica,1995,17.27379,µg/m3 
+DMA,Dominica,2000,18.98544,µg/m3 
+DMA,Dominica,2005,17.34369,µg/m3 
+DMA,Dominica,2010,17.46372,µg/m3 
+DMA,Dominica,2011,16.72911,µg/m3 
+DMA,Dominica,2012,17.62192,µg/m3 
+DMA,Dominica,2013,17.62951,µg/m3 
+DMA,Dominica,2014,17.32295,µg/m3 
+DMA,Dominica,2015,19.06696,µg/m3 
+DMA,Dominica,2016,18.3368,µg/m3 
+DMA,Dominica,2017,17.97767,µg/m3 
+DMA,Dominica,2018,18.35976,µg/m3 
+DMA,Dominica,2019,18.39629,µg/m3 
+DOM,Dominican Republic,1990,16.54034,µg/m3 
+DOM,Dominican Republic,1995,16.24595,µg/m3 
+DOM,Dominican Republic,2000,18.41314,µg/m3 
+DOM,Dominican Republic,2005,17.88051,µg/m3 
+DOM,Dominican Republic,2010,17.13981,µg/m3 
+DOM,Dominican Republic,2011,16.54403,µg/m3 
+DOM,Dominican Republic,2012,17.36776,µg/m3 
+DOM,Dominican Republic,2013,17.23382,µg/m3 
+DOM,Dominican Republic,2014,17.82735,µg/m3 
+DOM,Dominican Republic,2015,18.62817,µg/m3 
+DOM,Dominican Republic,2016,18.17853,µg/m3 
+DOM,Dominican Republic,2017,18.15262,µg/m3 
+DOM,Dominican Republic,2018,18.15087,µg/m3 
+DOM,Dominican Republic,2019,18.14536,µg/m3 
+ECU,Ecuador,1990,21.9079,µg/m3 
+ECU,Ecuador,1995,19.09772,µg/m3 
+ECU,Ecuador,2000,19.39343,µg/m3 
+ECU,Ecuador,2005,20.33098,µg/m3 
+ECU,Ecuador,2010,22.06176,µg/m3 
+ECU,Ecuador,2011,20.29435,µg/m3 
+ECU,Ecuador,2012,21.65051,µg/m3 
+ECU,Ecuador,2013,20.75471,µg/m3 
+ECU,Ecuador,2014,21.54693,µg/m3 
+ECU,Ecuador,2015,21.73624,µg/m3 
+ECU,Ecuador,2016,21.44482,µg/m3 
+ECU,Ecuador,2017,19.89895,µg/m3 
+ECU,Ecuador,2018,20.7159,µg/m3 
+ECU,Ecuador,2019,20.60601,µg/m3 
+EGY,Egypt,1990,66.24654,µg/m3 
+EGY,Egypt,1995,74.22568,µg/m3 
+EGY,Egypt,2000,69.84723,µg/m3 
+EGY,Egypt,2005,69.68061,µg/m3 
+EGY,Egypt,2010,78.48821,µg/m3 
+EGY,Egypt,2011,69.73873,µg/m3 
+EGY,Egypt,2012,69.65333,µg/m3 
+EGY,Egypt,2013,74.71484,µg/m3 
+EGY,Egypt,2014,72.01255,µg/m3 
+EGY,Egypt,2015,73.10574,µg/m3 
+EGY,Egypt,2016,66.71446,µg/m3 
+EGY,Egypt,2017,66.95324,µg/m3 
+EGY,Egypt,2018,68.48883,µg/m3 
+EGY,Egypt,2019,67.91512,µg/m3 
+SLV,El Salvador,1990,30.24655,µg/m3 
+SLV,El Salvador,1995,28.99093,µg/m3 
+SLV,El Salvador,2000,30.19666,µg/m3 
+SLV,El Salvador,2005,24.87631,µg/m3 
+SLV,El Salvador,2010,24.31177,µg/m3 
+SLV,El Salvador,2011,28.71104,µg/m3 
+SLV,El Salvador,2012,25.46469,µg/m3 
+SLV,El Salvador,2013,26.96585,µg/m3 
+SLV,El Salvador,2014,24.48574,µg/m3 
+SLV,El Salvador,2015,25.61375,µg/m3 
+SLV,El Salvador,2016,23.54934,µg/m3 
+SLV,El Salvador,2017,23.15157,µg/m3 
+SLV,El Salvador,2018,22.77792,µg/m3 
+SLV,El Salvador,2019,22.34945,µg/m3 
+GNQ,Equatorial Guinea,1990,49.62659,µg/m3 
+GNQ,Equatorial Guinea,1995,41.80212,µg/m3 
+GNQ,Equatorial Guinea,2000,49.18476,µg/m3 
+GNQ,Equatorial Guinea,2005,42.16882,µg/m3 
+GNQ,Equatorial Guinea,2010,41.57334,µg/m3 
+GNQ,Equatorial Guinea,2011,43.11348,µg/m3 
+GNQ,Equatorial Guinea,2012,41.34775,µg/m3 
+GNQ,Equatorial Guinea,2013,40.71994,µg/m3 
+GNQ,Equatorial Guinea,2014,40.66992,µg/m3 
+GNQ,Equatorial Guinea,2015,50.10433,µg/m3 
+GNQ,Equatorial Guinea,2016,48.36794,µg/m3 
+GNQ,Equatorial Guinea,2017,44.57779,µg/m3 
+GNQ,Equatorial Guinea,2018,46.60303,µg/m3 
+GNQ,Equatorial Guinea,2019,47.03413,µg/m3 
+ERI,Eritrea,1990,44.63674,µg/m3 
+ERI,Eritrea,1995,41.17256,µg/m3 
+ERI,Eritrea,2000,45.06414,µg/m3 
+ERI,Eritrea,2005,42.51334,µg/m3 
+ERI,Eritrea,2010,43.61637,µg/m3 
+ERI,Eritrea,2011,43.96017,µg/m3 
+ERI,Eritrea,2012,45.1614,µg/m3 
+ERI,Eritrea,2013,45.48696,µg/m3 
+ERI,Eritrea,2014,39.91731,µg/m3 
+ERI,Eritrea,2015,43.64826,µg/m3 
+ERI,Eritrea,2016,41.96897,µg/m3 
+ERI,Eritrea,2017,44.34945,µg/m3 
+ERI,Eritrea,2018,44.13527,µg/m3 
+ERI,Eritrea,2019,44.77914,µg/m3 
+EST,Estonia,1990,8.02899,µg/m3 
+EST,Estonia,1995,7.52738,µg/m3 
+EST,Estonia,2000,8.49868,µg/m3 
+EST,Estonia,2005,8.37534,µg/m3 
+EST,Estonia,2010,8.64993,µg/m3 
+EST,Estonia,2011,7.78834,µg/m3 
+EST,Estonia,2012,7.52441,µg/m3 
+EST,Estonia,2013,7.58672,µg/m3 
+EST,Estonia,2014,8.17666,µg/m3 
+EST,Estonia,2015,6.61738,µg/m3 
+EST,Estonia,2016,6.57034,µg/m3 
+EST,Estonia,2017,5.72617,µg/m3 
+EST,Estonia,2018,6.0417,µg/m3 
+EST,Estonia,2019,5.94962,µg/m3 
+ETH,Ethiopia,1990,29.63818,µg/m3 
+ETH,Ethiopia,1995,27.00473,µg/m3 
+ETH,Ethiopia,2000,30.87816,µg/m3 
+ETH,Ethiopia,2005,31.51003,µg/m3 
+ETH,Ethiopia,2010,34.01029,µg/m3 
+ETH,Ethiopia,2011,34.91743,µg/m3 
+ETH,Ethiopia,2012,35.57929,µg/m3 
+ETH,Ethiopia,2013,35.38061,µg/m3 
+ETH,Ethiopia,2014,33.02072,µg/m3 
+ETH,Ethiopia,2015,34.44848,µg/m3 
+ETH,Ethiopia,2016,33.66216,µg/m3 
+ETH,Ethiopia,2017,33.97099,µg/m3 
+ETH,Ethiopia,2018,33.89873,µg/m3 
+ETH,Ethiopia,2019,33.83347,µg/m3 
+FRO,Faeroe Islands,1990,8.74445,µg/m3 
+FRO,Faeroe Islands,1995,8.32779,µg/m3 
+FRO,Faeroe Islands,2000,7.30808,µg/m3 
+FRO,Faeroe Islands,2005,7.10641,µg/m3 
+FRO,Faeroe Islands,2010,6.5894,µg/m3 
+FRO,Faeroe Islands,2011,6.7018,µg/m3 
+FRO,Faeroe Islands,2012,6.36095,µg/m3 
+FRO,Faeroe Islands,2013,6.84075,µg/m3 
+FRO,Faeroe Islands,2014,7.47962,µg/m3 
+FRO,Faeroe Islands,2015,7.10673,µg/m3 
+FRO,Faeroe Islands,2016,7.31844,µg/m3 
+FRO,Faeroe Islands,2017,7.57042,µg/m3 
+FRO,Faeroe Islands,2018,7.43013,µg/m3 
+FRO,Faeroe Islands,2019,7.35377,µg/m3 
+FLK,Falkland Islands (Malvinas),1990,6.76673,µg/m3 
+FLK,Falkland Islands (Malvinas),1995,6.84021,µg/m3 
+FLK,Falkland Islands (Malvinas),2000,6.50884,µg/m3 
+FLK,Falkland Islands (Malvinas),2005,6.43492,µg/m3 
+FLK,Falkland Islands (Malvinas),2010,6.52797,µg/m3 
+FLK,Falkland Islands (Malvinas),2011,6.37828,µg/m3 
+FLK,Falkland Islands (Malvinas),2012,6.49133,µg/m3 
+FLK,Falkland Islands (Malvinas),2013,6.16292,µg/m3 
+FLK,Falkland Islands (Malvinas),2014,6.58251,µg/m3 
+FLK,Falkland Islands (Malvinas),2015,6.61101,µg/m3 
+FLK,Falkland Islands (Malvinas),2016,7.0375,µg/m3 
+FLK,Falkland Islands (Malvinas),2017,7.04179,µg/m3 
+FLK,Falkland Islands (Malvinas),2018,7.04546,µg/m3 
+FLK,Falkland Islands (Malvinas),2019,7.02359,µg/m3 
+FJI,Fiji,1990,8.07435,µg/m3 
+FJI,Fiji,1995,8.14043,µg/m3 
+FJI,Fiji,2000,10.87139,µg/m3 
+FJI,Fiji,2005,10.95661,µg/m3 
+FJI,Fiji,2010,10.82694,µg/m3 
+FJI,Fiji,2011,10.87872,µg/m3 
+FJI,Fiji,2012,10.88774,µg/m3 
+FJI,Fiji,2013,11.0207,µg/m3 
+FJI,Fiji,2014,10.62791,µg/m3 
+FJI,Fiji,2015,10.50479,µg/m3 
+FJI,Fiji,2016,10.95922,µg/m3 
+FJI,Fiji,2017,10.93599,µg/m3 
+FJI,Fiji,2018,10.85371,µg/m3 
+FJI,Fiji,2019,10.85933,µg/m3 
+PYF,French Polynesia,1990,7.04179,µg/m3 
+PYF,French Polynesia,1995,7.36489,µg/m3 
+PYF,French Polynesia,2000,6.28183,µg/m3 
+PYF,French Polynesia,2005,6.49523,µg/m3 
+PYF,French Polynesia,2010,6.27755,µg/m3 
+PYF,French Polynesia,2011,5.89753,µg/m3 
+PYF,French Polynesia,2012,5.69582,µg/m3 
+PYF,French Polynesia,2013,5.83946,µg/m3 
+PYF,French Polynesia,2014,6.04856,µg/m3 
+PYF,French Polynesia,2015,6.35348,µg/m3 
+PYF,French Polynesia,2016,6.63658,µg/m3 
+PYF,French Polynesia,2017,6.59258,µg/m3 
+PYF,French Polynesia,2018,6.63166,µg/m3 
+PYF,French Polynesia,2019,6.62968,µg/m3 
+GAB,Gabon,1990,36.49914,µg/m3 
+GAB,Gabon,1995,34.93306,µg/m3 
+GAB,Gabon,2000,37.85197,µg/m3 
+GAB,Gabon,2005,35.14703,µg/m3 
+GAB,Gabon,2010,36.03618,µg/m3 
+GAB,Gabon,2011,36.73914,µg/m3 
+GAB,Gabon,2012,35.47618,µg/m3 
+GAB,Gabon,2013,37.69086,µg/m3 
+GAB,Gabon,2014,34.52105,µg/m3 
+GAB,Gabon,2015,40.57385,µg/m3 
+GAB,Gabon,2016,39.69459,µg/m3 
+GAB,Gabon,2017,35.76827,µg/m3 
+GAB,Gabon,2018,37.54874,µg/m3 
+GAB,Gabon,2019,37.43801,µg/m3 
+GMB,Gambia,1990,59.32101,µg/m3 
+GMB,Gambia,1995,59.04188,µg/m3 
+GMB,Gambia,2000,59.49856,µg/m3 
+GMB,Gambia,2005,55.453,µg/m3 
+GMB,Gambia,2010,54.86709,µg/m3 
+GMB,Gambia,2011,56.98002,µg/m3 
+GMB,Gambia,2012,62.1852,µg/m3 
+GMB,Gambia,2013,51.63885,µg/m3 
+GMB,Gambia,2014,53.68586,µg/m3 
+GMB,Gambia,2015,61.84551,µg/m3 
+GMB,Gambia,2016,57.60833,µg/m3 
+GMB,Gambia,2017,61.52662,µg/m3 
+GMB,Gambia,2018,58.12545,µg/m3 
+GMB,Gambia,2019,58.2145,µg/m3 
+GEO,Georgia,1990,18.57147,µg/m3 
+GEO,Georgia,1995,18.7903,µg/m3 
+GEO,Georgia,2000,17.74378,µg/m3 
+GEO,Georgia,2005,16.8434,µg/m3 
+GEO,Georgia,2010,18.53592,µg/m3 
+GEO,Georgia,2011,20.58995,µg/m3 
+GEO,Georgia,2012,20.88921,µg/m3 
+GEO,Georgia,2013,20.25822,µg/m3 
+GEO,Georgia,2014,19.99326,µg/m3 
+GEO,Georgia,2015,19.02116,µg/m3 
+GEO,Georgia,2016,18.19874,µg/m3 
+GEO,Georgia,2017,18.50095,µg/m3 
+GEO,Georgia,2018,18.2412,µg/m3 
+GEO,Georgia,2019,18.24743,µg/m3 
+GHA,Ghana,1990,58.94141,µg/m3 
+GHA,Ghana,1995,49.60836,µg/m3 
+GHA,Ghana,2000,60.90673,µg/m3 
+GHA,Ghana,2005,53.33048,µg/m3 
+GHA,Ghana,2010,50.69795,µg/m3 
+GHA,Ghana,2011,54.17981,µg/m3 
+GHA,Ghana,2012,55.11622,µg/m3 
+GHA,Ghana,2013,48.30836,µg/m3 
+GHA,Ghana,2014,47.44691,µg/m3 
+GHA,Ghana,2015,61.11503,µg/m3 
+GHA,Ghana,2016,60.31063,µg/m3 
+GHA,Ghana,2017,56.46406,µg/m3 
+GHA,Ghana,2018,54.71702,µg/m3 
+GHA,Ghana,2019,54.4758,µg/m3 
+GIB,Gibraltar,1990,8.72854,µg/m3 
+GIB,Gibraltar,1995,8.80515,µg/m3 
+GIB,Gibraltar,2000,17.5753,µg/m3 
+GIB,Gibraltar,2005,16.1224,µg/m3 
+GIB,Gibraltar,2010,15.3327,µg/m3 
+GIB,Gibraltar,2011,16.2766,µg/m3 
+GIB,Gibraltar,2012,14.7257,µg/m3 
+GIB,Gibraltar,2013,13.6609,µg/m3 
+GIB,Gibraltar,2014,12.717,µg/m3 
+GIB,Gibraltar,2015,14.2281,µg/m3 
+GIB,Gibraltar,2016,12.8635,µg/m3 
+GIB,Gibraltar,2017,13.3166,µg/m3 
+GIB,Gibraltar,2018,13.1872,µg/m3 
+GIB,Gibraltar,2019,13.1925,µg/m3 
+GRL,Greenland,1990,7.0664,µg/m3 
+GRL,Greenland,1995,6.96828,µg/m3 
+GRL,Greenland,2000,6.31568,µg/m3 
+GRL,Greenland,2005,6.36023,µg/m3 
+GRL,Greenland,2010,6.00606,µg/m3 
+GRL,Greenland,2011,5.77557,µg/m3 
+GRL,Greenland,2012,6.12454,µg/m3 
+GRL,Greenland,2013,6.07662,µg/m3 
+GRL,Greenland,2014,6.37007,µg/m3 
+GRL,Greenland,2015,6.23274,µg/m3 
+GRL,Greenland,2016,6.48498,µg/m3 
+GRL,Greenland,2017,6.61567,µg/m3 
+GRL,Greenland,2018,6.52616,µg/m3 
+GRL,Greenland,2019,6.47841,µg/m3 
+GRD,Grenada,1990,19.70345,µg/m3 
+GRD,Grenada,1995,19.57148,µg/m3 
+GRD,Grenada,2000,21.70874,µg/m3 
+GRD,Grenada,2005,19.57582,µg/m3 
+GRD,Grenada,2010,19.74108,µg/m3 
+GRD,Grenada,2011,19.023,µg/m3 
+GRD,Grenada,2012,19.97715,µg/m3 
+GRD,Grenada,2013,19.99711,µg/m3 
+GRD,Grenada,2014,20.17701,µg/m3 
+GRD,Grenada,2015,21.8333,µg/m3 
+GRD,Grenada,2016,21.08029,µg/m3 
+GRD,Grenada,2017,20.91346,µg/m3 
+GRD,Grenada,2018,21.28297,µg/m3 
+GRD,Grenada,2019,21.38449,µg/m3 
+GUM,Guam,1990,9.29498,µg/m3 
+GUM,Guam,1995,9.07926,µg/m3 
+GUM,Guam,2000,7.83926,µg/m3 
+GUM,Guam,2005,7.5517,µg/m3 
+GUM,Guam,2010,7.19849,µg/m3 
+GUM,Guam,2011,6.87358,µg/m3 
+GUM,Guam,2012,6.90224,µg/m3 
+GUM,Guam,2013,7.85308,µg/m3 
+GUM,Guam,2014,7.4503,µg/m3 
+GUM,Guam,2015,10.0782,µg/m3 
+GUM,Guam,2016,8.35715,µg/m3 
+GUM,Guam,2017,7.7631,µg/m3 
+GUM,Guam,2018,8.27141,µg/m3 
+GUM,Guam,2019,8.24133,µg/m3 
+GTM,Guatemala,1990,40.81682,µg/m3 
+GTM,Guatemala,1995,38.69426,µg/m3 
+GTM,Guatemala,2000,36.08605,µg/m3 
+GTM,Guatemala,2005,29.36052,µg/m3 
+GTM,Guatemala,2010,28.97928,µg/m3 
+GTM,Guatemala,2011,32.65345,µg/m3 
+GTM,Guatemala,2012,30.45201,µg/m3 
+GTM,Guatemala,2013,32.35509,µg/m3 
+GTM,Guatemala,2014,29.58513,µg/m3 
+GTM,Guatemala,2015,31.11405,µg/m3 
+GTM,Guatemala,2016,29.31602,µg/m3 
+GTM,Guatemala,2017,27.99122,µg/m3 
+GTM,Guatemala,2018,28.18948,µg/m3 
+GTM,Guatemala,2019,27.81365,µg/m3 
+GIN,Guinea,1990,54.82768,µg/m3 
+GIN,Guinea,1995,50.34983,µg/m3 
+GIN,Guinea,2000,53.30835,µg/m3 
+GIN,Guinea,2005,51.16075,µg/m3 
+GIN,Guinea,2010,51.44129,µg/m3 
+GIN,Guinea,2011,52.39549,µg/m3 
+GIN,Guinea,2012,53.22827,µg/m3 
+GIN,Guinea,2013,46.33916,µg/m3 
+GIN,Guinea,2014,48.50691,µg/m3 
+GIN,Guinea,2015,56.58992,µg/m3 
+GIN,Guinea,2016,53.96375,µg/m3 
+GIN,Guinea,2017,53.82084,µg/m3 
+GIN,Guinea,2018,52.76226,µg/m3 
+GIN,Guinea,2019,52.82294,µg/m3 
+GNB,Guinea-Bissau,1990,57.5466,µg/m3 
+GNB,Guinea-Bissau,1995,55.29592,µg/m3 
+GNB,Guinea-Bissau,2000,56.3056,µg/m3 
+GNB,Guinea-Bissau,2005,52.50349,µg/m3 
+GNB,Guinea-Bissau,2010,52.73469,µg/m3 
+GNB,Guinea-Bissau,2011,53.88237,µg/m3 
+GNB,Guinea-Bissau,2012,56.80035,µg/m3 
+GNB,Guinea-Bissau,2013,47.53709,µg/m3 
+GNB,Guinea-Bissau,2014,49.24897,µg/m3 
+GNB,Guinea-Bissau,2015,57.45475,µg/m3 
+GNB,Guinea-Bissau,2016,54.11766,µg/m3 
+GNB,Guinea-Bissau,2017,57.43412,µg/m3 
+GNB,Guinea-Bissau,2018,53.98771,µg/m3 
+GNB,Guinea-Bissau,2019,54.01773,µg/m3 
+GUY,Guyana,1990,20.5918,µg/m3 
+GUY,Guyana,1995,20.87055,µg/m3 
+GUY,Guyana,2000,26.98579,µg/m3 
+GUY,Guyana,2005,22.75972,µg/m3 
+GUY,Guyana,2010,22.1019,µg/m3 
+GUY,Guyana,2011,21.21305,µg/m3 
+GUY,Guyana,2012,22.65374,µg/m3 
+GUY,Guyana,2013,21.96522,µg/m3 
+GUY,Guyana,2014,21.6012,µg/m3 
+GUY,Guyana,2015,23.27225,µg/m3 
+GUY,Guyana,2016,22.7388,µg/m3 
+GUY,Guyana,2017,21.80917,µg/m3 
+GUY,Guyana,2018,21.15877,µg/m3 
+GUY,Guyana,2019,20.40551,µg/m3 
+HTI,Haiti,1990,15.88788,µg/m3 
+HTI,Haiti,1995,15.32655,µg/m3 
+HTI,Haiti,2000,19.89169,µg/m3 
+HTI,Haiti,2005,18.87763,µg/m3 
+HTI,Haiti,2010,18.3538,µg/m3 
+HTI,Haiti,2011,18.02804,µg/m3 
+HTI,Haiti,2012,18.8603,µg/m3 
+HTI,Haiti,2013,19.03057,µg/m3 
+HTI,Haiti,2014,19.49593,µg/m3 
+HTI,Haiti,2015,20.22097,µg/m3 
+HTI,Haiti,2016,19.46409,µg/m3 
+HTI,Haiti,2017,19.42883,µg/m3 
+HTI,Haiti,2018,19.44233,µg/m3 
+HTI,Haiti,2019,19.32223,µg/m3 
+VAT,Holy See,1990,24.8133,µg/m3 
+VAT,Holy See,1995,23.545,µg/m3 
+VAT,Holy See,2000,24.7946,µg/m3 
+VAT,Holy See,2005,23.8139,µg/m3 
+VAT,Holy See,2010,21.6036,µg/m3 
+VAT,Holy See,2011,23.7555,µg/m3 
+VAT,Holy See,2012,20.7121,µg/m3 
+VAT,Holy See,2013,19.7776,µg/m3 
+VAT,Holy See,2014,18.7412,µg/m3 
+VAT,Holy See,2015,19.5791,µg/m3 
+VAT,Holy See,2016,17.4367,µg/m3 
+VAT,Holy See,2017,17.5591,µg/m3 
+VAT,Holy See,2018,17.9542,µg/m3 
+VAT,Holy See,2019,17.8034,µg/m3 
+HND,Honduras,1990,27.92594,µg/m3 
+HND,Honduras,1995,26.43614,µg/m3 
+HND,Honduras,2000,27.58469,µg/m3 
+HND,Honduras,2005,25.54556,µg/m3 
+HND,Honduras,2010,24.11093,µg/m3 
+HND,Honduras,2011,28.74691,µg/m3 
+HND,Honduras,2012,25.5617,µg/m3 
+HND,Honduras,2013,28.09273,µg/m3 
+HND,Honduras,2014,25.63117,µg/m3 
+HND,Honduras,2015,26.76994,µg/m3 
+HND,Honduras,2016,24.80745,µg/m3 
+HND,Honduras,2017,22.79017,µg/m3 
+HND,Honduras,2018,23.41061,µg/m3 
+HND,Honduras,2019,22.92625,µg/m3 
+HKG,"Hong Kong, China",1990,24.7029,µg/m3 
+HKG,"Hong Kong, China",1995,24.0896,µg/m3 
+HKG,"Hong Kong, China",2000,25.4016,µg/m3 
+HKG,"Hong Kong, China",2005,27.2313,µg/m3 
+HKG,"Hong Kong, China",2010,25.2748,µg/m3 
+HKG,"Hong Kong, China",2011,28.7823,µg/m3 
+HKG,"Hong Kong, China",2012,28.1155,µg/m3 
+HKG,"Hong Kong, China",2013,29.828,µg/m3 
+HKG,"Hong Kong, China",2014,29.255,µg/m3 
+HKG,"Hong Kong, China",2015,26.4702,µg/m3 
+HKG,"Hong Kong, China",2016,25.064,µg/m3 
+HKG,"Hong Kong, China",2017,24.498,µg/m3 
+HKG,"Hong Kong, China",2018,24.409,µg/m3 
+HKG,"Hong Kong, China",2019,23.9051,µg/m3 
+IND,India,1990,71.78417,µg/m3 
+IND,India,1995,65.32013,µg/m3 
+IND,India,2000,70.69254,µg/m3 
+IND,India,2005,70.64547,µg/m3 
+IND,India,2010,77.4766,µg/m3 
+IND,India,2011,80.74542,µg/m3 
+IND,India,2012,87.09878,µg/m3 
+IND,India,2013,90.10211,µg/m3 
+IND,India,2014,95.8366,µg/m3 
+IND,India,2015,88.89748,µg/m3 
+IND,India,2016,92.54553,µg/m3 
+IND,India,2017,82.06178,µg/m3 
+IND,India,2018,83.21147,µg/m3 
+IND,India,2019,83.30377,µg/m3 
+IDN,Indonesia,1990,26.8356,µg/m3 
+IDN,Indonesia,1995,25.23161,µg/m3 
+IDN,Indonesia,2000,23.76263,µg/m3 
+IDN,Indonesia,2005,22.11074,µg/m3 
+IDN,Indonesia,2010,22.59126,µg/m3 
+IDN,Indonesia,2011,19.18971,µg/m3 
+IDN,Indonesia,2012,20.35076,µg/m3 
+IDN,Indonesia,2013,20.30303,µg/m3 
+IDN,Indonesia,2014,19.14704,µg/m3 
+IDN,Indonesia,2015,20.17936,µg/m3 
+IDN,Indonesia,2016,21.45374,µg/m3 
+IDN,Indonesia,2017,18.85747,µg/m3 
+IDN,Indonesia,2018,19.408,µg/m3 
+IDN,Indonesia,2019,19.67376,µg/m3 
+IRN,Iran,1990,38.42055,µg/m3 
+IRN,Iran,1995,38.45761,µg/m3 
+IRN,Iran,2000,40.48836,µg/m3 
+IRN,Iran,2005,39.41289,µg/m3 
+IRN,Iran,2010,42.31779,µg/m3 
+IRN,Iran,2011,43.55019,µg/m3 
+IRN,Iran,2012,42.51894,µg/m3 
+IRN,Iran,2013,42.23355,µg/m3 
+IRN,Iran,2014,40.80528,µg/m3 
+IRN,Iran,2015,41.94824,µg/m3 
+IRN,Iran,2016,40.77335,µg/m3 
+IRN,Iran,2017,39.98541,µg/m3 
+IRN,Iran,2018,39.59638,µg/m3 
+IRN,Iran,2019,39.00154,µg/m3 
+IRQ,Iraq,1990,55.02135,µg/m3 
+IRQ,Iraq,1995,49.86378,µg/m3 
+IRQ,Iraq,2000,52.26104,µg/m3 
+IRQ,Iraq,2005,52.0789,µg/m3 
+IRQ,Iraq,2010,58.03638,µg/m3 
+IRQ,Iraq,2011,54.81704,µg/m3 
+IRQ,Iraq,2012,54.4383,µg/m3 
+IRQ,Iraq,2013,52.52212,µg/m3 
+IRQ,Iraq,2014,48.64214,µg/m3 
+IRQ,Iraq,2015,54.23691,µg/m3 
+IRQ,Iraq,2016,51.20757,µg/m3 
+IRQ,Iraq,2017,51.0894,µg/m3 
+IRQ,Iraq,2018,50.28587,µg/m3 
+IRQ,Iraq,2019,49.61657,µg/m3 
+ISR,Israel,1990,21.0503,µg/m3 
+ISR,Israel,1995,23.25833,µg/m3 
+ISR,Israel,2000,23.15649,µg/m3 
+ISR,Israel,2005,22.97571,µg/m3 
+ISR,Israel,2010,24.73694,µg/m3 
+ISR,Israel,2011,24.50612,µg/m3 
+ISR,Israel,2012,22.15028,µg/m3 
+ISR,Israel,2013,22.71573,µg/m3 
+ISR,Israel,2014,21.53803,µg/m3 
+ISR,Israel,2015,22.25146,µg/m3 
+ISR,Israel,2016,18.62791,µg/m3 
+ISR,Israel,2017,19.90364,µg/m3 
+ISR,Israel,2018,19.73592,µg/m3 
+ISR,Israel,2019,19.42415,µg/m3 
+JAM,Jamaica,1990,13.67767,µg/m3 
+JAM,Jamaica,1995,13.22401,µg/m3 
+JAM,Jamaica,2000,15.88326,µg/m3 
+JAM,Jamaica,2005,16.34467,µg/m3 
+JAM,Jamaica,2010,15.82504,µg/m3 
+JAM,Jamaica,2011,14.97522,µg/m3 
+JAM,Jamaica,2012,15.72437,µg/m3 
+JAM,Jamaica,2013,15.85399,µg/m3 
+JAM,Jamaica,2014,16.4495,µg/m3 
+JAM,Jamaica,2015,16.68487,µg/m3 
+JAM,Jamaica,2016,16.32448,µg/m3 
+JAM,Jamaica,2017,16.37351,µg/m3 
+JAM,Jamaica,2018,16.32408,µg/m3 
+JAM,Jamaica,2019,16.24505,µg/m3 
+JOR,Jordan,1990,27.76321,µg/m3 
+JOR,Jordan,1995,30.52545,µg/m3 
+JOR,Jordan,2000,28.82065,µg/m3 
+JOR,Jordan,2005,32.87118,µg/m3 
+JOR,Jordan,2010,35.40821,µg/m3 
+JOR,Jordan,2011,33.29787,µg/m3 
+JOR,Jordan,2012,32.77988,µg/m3 
+JOR,Jordan,2013,35.09197,µg/m3 
+JOR,Jordan,2014,33.54427,µg/m3 
+JOR,Jordan,2015,34.97317,µg/m3 
+JOR,Jordan,2016,31.64511,µg/m3 
+JOR,Jordan,2017,32.02845,µg/m3 
+JOR,Jordan,2018,30.96172,µg/m3 
+JOR,Jordan,2019,30.12999,µg/m3 
+KAZ,Kazakhstan,1990,21.73,µg/m3 
+KAZ,Kazakhstan,1995,20.77979,µg/m3 
+KAZ,Kazakhstan,2000,18.75763,µg/m3 
+KAZ,Kazakhstan,2005,18.0011,µg/m3 
+KAZ,Kazakhstan,2010,20.17818,µg/m3 
+KAZ,Kazakhstan,2011,23.73125,µg/m3 
+KAZ,Kazakhstan,2012,25.30396,µg/m3 
+KAZ,Kazakhstan,2013,24.06763,µg/m3 
+KAZ,Kazakhstan,2014,22.49706,µg/m3 
+KAZ,Kazakhstan,2015,21.47424,µg/m3 
+KAZ,Kazakhstan,2016,21.79104,µg/m3 
+KAZ,Kazakhstan,2017,20.9627,µg/m3 
+KAZ,Kazakhstan,2018,21.05325,µg/m3 
+KAZ,Kazakhstan,2019,21.045,µg/m3 
+KEN,Kenya,1990,21.67013,µg/m3 
+KEN,Kenya,1995,22.00665,µg/m3 
+KEN,Kenya,2000,25.4185,µg/m3 
+KEN,Kenya,2005,23.23674,µg/m3 
+KEN,Kenya,2010,26.71596,µg/m3 
+KEN,Kenya,2011,28.66647,µg/m3 
+KEN,Kenya,2012,28.96313,µg/m3 
+KEN,Kenya,2013,28.02226,µg/m3 
+KEN,Kenya,2014,27.20711,µg/m3 
+KEN,Kenya,2015,28.04051,µg/m3 
+KEN,Kenya,2016,26.86386,µg/m3 
+KEN,Kenya,2017,25.03049,µg/m3 
+KEN,Kenya,2018,23.24687,µg/m3 
+KEN,Kenya,2019,21.53547,µg/m3 
+KIR,Kiribati,1990,7.33056,µg/m3 
+KIR,Kiribati,1995,8.07556,µg/m3 
+KIR,Kiribati,2000,10.1775,µg/m3 
+KIR,Kiribati,2005,10.3028,µg/m3 
+KIR,Kiribati,2010,10.078,µg/m3 
+KIR,Kiribati,2011,10.082,µg/m3 
+KIR,Kiribati,2012,9.92725,µg/m3 
+KIR,Kiribati,2013,10.0008,µg/m3 
+KIR,Kiribati,2014,9.38946,µg/m3 
+KIR,Kiribati,2015,9.15571,µg/m3 
+KIR,Kiribati,2016,9.81711,µg/m3 
+KIR,Kiribati,2017,9.77188,µg/m3 
+KIR,Kiribati,2018,9.64583,µg/m3 
+KIR,Kiribati,2019,9.62379,µg/m3 
+KWT,Kuwait,1990,59.78027,µg/m3 
+KWT,Kuwait,1995,53.96985,µg/m3 
+KWT,Kuwait,2000,63.99621,µg/m3 
+KWT,Kuwait,2005,67.38127,µg/m3 
+KWT,Kuwait,2010,68.20246,µg/m3 
+KWT,Kuwait,2011,69.98628,µg/m3 
+KWT,Kuwait,2012,71.34375,µg/m3 
+KWT,Kuwait,2013,68.89182,µg/m3 
+KWT,Kuwait,2014,58.94282,µg/m3 
+KWT,Kuwait,2015,68.09915,µg/m3 
+KWT,Kuwait,2016,63.14119,µg/m3 
+KWT,Kuwait,2017,65.17854,µg/m3 
+KWT,Kuwait,2018,63.28198,µg/m3 
+KWT,Kuwait,2019,62.67314,µg/m3 
+KGZ,Kyrgyzstan,1990,23.80592,µg/m3 
+KGZ,Kyrgyzstan,1995,23.87281,µg/m3 
+KGZ,Kyrgyzstan,2000,25.23145,µg/m3 
+KGZ,Kyrgyzstan,2005,23.19504,µg/m3 
+KGZ,Kyrgyzstan,2010,23.74976,µg/m3 
+KGZ,Kyrgyzstan,2011,28.36551,µg/m3 
+KGZ,Kyrgyzstan,2012,28.21105,µg/m3 
+KGZ,Kyrgyzstan,2013,29.23735,µg/m3 
+KGZ,Kyrgyzstan,2014,26.73081,µg/m3 
+KGZ,Kyrgyzstan,2015,25.88974,µg/m3 
+KGZ,Kyrgyzstan,2016,25.30199,µg/m3 
+KGZ,Kyrgyzstan,2017,24.57093,µg/m3 
+KGZ,Kyrgyzstan,2018,24.75156,µg/m3 
+KGZ,Kyrgyzstan,2019,24.60486,µg/m3 
+LAO,Lao People's Democratic Republic,1990,27.02585,µg/m3 
+LAO,Lao People's Democratic Republic,1995,26.58408,µg/m3 
+LAO,Lao People's Democratic Republic,2000,25.63968,µg/m3 
+LAO,Lao People's Democratic Republic,2005,26.14684,µg/m3 
+LAO,Lao People's Democratic Republic,2010,26.65529,µg/m3 
+LAO,Lao People's Democratic Republic,2011,21.95949,µg/m3 
+LAO,Lao People's Democratic Republic,2012,23.24069,µg/m3 
+LAO,Lao People's Democratic Republic,2013,24.93948,µg/m3 
+LAO,Lao People's Democratic Republic,2014,21.77866,µg/m3 
+LAO,Lao People's Democratic Republic,2015,21.00024,µg/m3 
+LAO,Lao People's Democratic Republic,2016,23.6521,µg/m3 
+LAO,Lao People's Democratic Republic,2017,19.45651,µg/m3 
+LAO,Lao People's Democratic Republic,2018,20.72509,µg/m3 
+LAO,Lao People's Democratic Republic,2019,20.76857,µg/m3 
+LVA,Latvia,1990,22.5235,µg/m3 
+LVA,Latvia,1995,21.0871,µg/m3 
+LVA,Latvia,2000,18.3165,µg/m3 
+LVA,Latvia,2005,18.1311,µg/m3 
+LVA,Latvia,2010,19.1235,µg/m3 
+LVA,Latvia,2011,16.7092,µg/m3 
+LVA,Latvia,2012,16.1148,µg/m3 
+LVA,Latvia,2013,16.4421,µg/m3 
+LVA,Latvia,2014,17.1317,µg/m3 
+LVA,Latvia,2015,14.5845,µg/m3 
+LVA,Latvia,2016,13.6548,µg/m3 
+LVA,Latvia,2017,12.4483,µg/m3 
+LVA,Latvia,2018,12.916,µg/m3 
+LVA,Latvia,2019,12.7076,µg/m3 
+LBN,Lebanon,1990,25.97997,µg/m3 
+LBN,Lebanon,1995,28.69513,µg/m3 
+LBN,Lebanon,2000,28.20379,µg/m3 
+LBN,Lebanon,2005,28.96094,µg/m3 
+LBN,Lebanon,2010,32.58303,µg/m3 
+LBN,Lebanon,2011,30.43782,µg/m3 
+LBN,Lebanon,2012,29.46017,µg/m3 
+LBN,Lebanon,2013,31.30328,µg/m3 
+LBN,Lebanon,2014,31.25934,µg/m3 
+LBN,Lebanon,2015,31.93223,µg/m3 
+LBN,Lebanon,2016,29.50834,µg/m3 
+LBN,Lebanon,2017,29.28341,µg/m3 
+LBN,Lebanon,2018,29.4412,µg/m3 
+LBN,Lebanon,2019,29.04762,µg/m3 
+LSO,Lesotho,1990,31.63347,µg/m3 
+LSO,Lesotho,1995,31.84521,µg/m3 
+LSO,Lesotho,2000,30.45966,µg/m3 
+LSO,Lesotho,2005,27.49587,µg/m3 
+LSO,Lesotho,2010,32.88608,µg/m3 
+LSO,Lesotho,2011,32.92488,µg/m3 
+LSO,Lesotho,2012,32.75541,µg/m3 
+LSO,Lesotho,2013,32.09261,µg/m3 
+LSO,Lesotho,2014,32.97101,µg/m3 
+LSO,Lesotho,2015,32.29056,µg/m3 
+LSO,Lesotho,2016,31.60341,µg/m3 
+LSO,Lesotho,2017,30.05122,µg/m3 
+LSO,Lesotho,2018,28.99613,µg/m3 
+LSO,Lesotho,2019,27.79676,µg/m3 
+LBR,Liberia,1990,48.92151,µg/m3 
+LBR,Liberia,1995,41.60315,µg/m3 
+LBR,Liberia,2000,50.06945,µg/m3 
+LBR,Liberia,2005,51.23789,µg/m3 
+LBR,Liberia,2010,44.36661,µg/m3 
+LBR,Liberia,2011,51.47016,µg/m3 
+LBR,Liberia,2012,49.22334,µg/m3 
+LBR,Liberia,2013,44.26993,µg/m3 
+LBR,Liberia,2014,45.05879,µg/m3 
+LBR,Liberia,2015,56.14305,µg/m3 
+LBR,Liberia,2016,54.7675,µg/m3 
+LBR,Liberia,2017,48.32126,µg/m3 
+LBR,Liberia,2018,50.4423,µg/m3 
+LBR,Liberia,2019,50.63222,µg/m3 
+LBY,Libya,1990,34.90893,µg/m3 
+LBY,Libya,1995,36.87895,µg/m3 
+LBY,Libya,2000,36.34614,µg/m3 
+LBY,Libya,2005,40.68762,µg/m3 
+LBY,Libya,2010,45.60469,µg/m3 
+LBY,Libya,2011,37.56079,µg/m3 
+LBY,Libya,2012,35.34459,µg/m3 
+LBY,Libya,2013,40.03397,µg/m3 
+LBY,Libya,2014,37.27581,µg/m3 
+LBY,Libya,2015,37.55894,µg/m3 
+LBY,Libya,2016,38.40035,µg/m3 
+LBY,Libya,2017,35.1316,µg/m3 
+LBY,Libya,2018,36.38132,µg/m3 
+LBY,Libya,2019,35.98622,µg/m3 
+LIE,Liechtenstein,1990,16.3803,µg/m3 
+LIE,Liechtenstein,1995,15.0775,µg/m3 
+LIE,Liechtenstein,2000,11.9517,µg/m3 
+LIE,Liechtenstein,2005,10.9195,µg/m3 
+LIE,Liechtenstein,2010,10.5261,µg/m3 
+LIE,Liechtenstein,2011,11.2207,µg/m3 
+LIE,Liechtenstein,2012,11.1815,µg/m3 
+LIE,Liechtenstein,2013,10.9854,µg/m3 
+LIE,Liechtenstein,2014,10.2723,µg/m3 
+LIE,Liechtenstein,2015,11.1137,µg/m3 
+LIE,Liechtenstein,2016,11.4613,µg/m3 
+LIE,Liechtenstein,2017,10.1155,µg/m3 
+LIE,Liechtenstein,2018,10.4486,µg/m3 
+LIE,Liechtenstein,2019,10.1492,µg/m3 
+LTU,Lithuania,1990,17.37292,µg/m3 
+LTU,Lithuania,1995,16.30324,µg/m3 
+LTU,Lithuania,2000,14.50052,µg/m3 
+LTU,Lithuania,2005,14.19929,µg/m3 
+LTU,Lithuania,2010,14.86448,µg/m3 
+LTU,Lithuania,2011,13.14674,µg/m3 
+LTU,Lithuania,2012,13.18277,µg/m3 
+LTU,Lithuania,2013,13.17732,µg/m3 
+LTU,Lithuania,2014,13.49538,µg/m3 
+LTU,Lithuania,2015,11.93398,µg/m3 
+LTU,Lithuania,2016,10.89639,µg/m3 
+LTU,Lithuania,2017,10.29794,µg/m3 
+LTU,Lithuania,2018,10.5842,µg/m3 
+LTU,Lithuania,2019,10.4691,µg/m3 
+MKD,North Macedonia,1990,48.4835,µg/m3 
+MKD,North Macedonia,1995,46.6294,µg/m3 
+MKD,North Macedonia,2000,45.1905,µg/m3 
+MKD,North Macedonia,2005,40.2201,µg/m3 
+MKD,North Macedonia,2010,38.9538,µg/m3 
+MKD,North Macedonia,2011,44.7407,µg/m3 
+MKD,North Macedonia,2012,40.0517,µg/m3 
+MKD,North Macedonia,2013,36.7952,µg/m3 
+MKD,North Macedonia,2014,37.7291,µg/m3 
+MKD,North Macedonia,2015,35.2858,µg/m3 
+MKD,North Macedonia,2016,33.0101,µg/m3 
+MKD,North Macedonia,2017,33.9919,µg/m3 
+MKD,North Macedonia,2018,33.3651,µg/m3 
+MKD,North Macedonia,2019,32.6682,µg/m3 
+MDG,Madagascar,1990,16.34244,µg/m3 
+MDG,Madagascar,1995,16.2798,µg/m3 
+MDG,Madagascar,2000,17.24435,µg/m3 
+MDG,Madagascar,2005,17.76399,µg/m3 
+MDG,Madagascar,2010,19.00902,µg/m3 
+MDG,Madagascar,2011,20.09667,µg/m3 
+MDG,Madagascar,2012,19.1889,µg/m3 
+MDG,Madagascar,2013,19.71567,µg/m3 
+MDG,Madagascar,2014,19.26489,µg/m3 
+MDG,Madagascar,2015,20.15777,µg/m3 
+MDG,Madagascar,2016,19.35578,µg/m3 
+MDG,Madagascar,2017,18.00322,µg/m3 
+MDG,Madagascar,2018,18.27043,µg/m3 
+MDG,Madagascar,2019,17.8598,µg/m3 
+MWI,Malawi,1990,24.31931,µg/m3 
+MWI,Malawi,1995,23.23346,µg/m3 
+MWI,Malawi,2000,25.10834,µg/m3 
+MWI,Malawi,2005,24.54231,µg/m3 
+MWI,Malawi,2010,25.76334,µg/m3 
+MWI,Malawi,2011,27.16729,µg/m3 
+MWI,Malawi,2012,27.18694,µg/m3 
+MWI,Malawi,2013,26.47221,µg/m3 
+MWI,Malawi,2014,26.81849,µg/m3 
+MWI,Malawi,2015,27.04964,µg/m3 
+MWI,Malawi,2016,26.0428,µg/m3 
+MWI,Malawi,2017,23.94983,µg/m3 
+MWI,Malawi,2018,23.46215,µg/m3 
+MWI,Malawi,2019,22.33194,µg/m3 
+MYS,Malaysia,1990,27.87979,µg/m3 
+MYS,Malaysia,1995,22.68869,µg/m3 
+MYS,Malaysia,2000,20.5798,µg/m3 
+MYS,Malaysia,2005,20.10107,µg/m3 
+MYS,Malaysia,2010,18.27821,µg/m3 
+MYS,Malaysia,2011,17.37371,µg/m3 
+MYS,Malaysia,2012,18.20743,µg/m3 
+MYS,Malaysia,2013,18.54888,µg/m3 
+MYS,Malaysia,2014,17.25847,µg/m3 
+MYS,Malaysia,2015,18.16004,µg/m3 
+MYS,Malaysia,2016,16.78004,µg/m3 
+MYS,Malaysia,2017,16.40791,µg/m3 
+MYS,Malaysia,2018,16.43679,µg/m3 
+MYS,Malaysia,2019,16.55023,µg/m3 
+MDV,Maldives,1990,13.11705,µg/m3 
+MDV,Maldives,1995,12.99873,µg/m3 
+MDV,Maldives,2000,14.19051,µg/m3 
+MDV,Maldives,2005,13.61111,µg/m3 
+MDV,Maldives,2010,13.84155,µg/m3 
+MDV,Maldives,2011,12.38197,µg/m3 
+MDV,Maldives,2012,12.94485,µg/m3 
+MDV,Maldives,2013,12.60516,µg/m3 
+MDV,Maldives,2014,11.23152,µg/m3 
+MDV,Maldives,2015,10.32552,µg/m3 
+MDV,Maldives,2016,12.21008,µg/m3 
+MDV,Maldives,2017,11.22694,µg/m3 
+MDV,Maldives,2018,10.90516,µg/m3 
+MDV,Maldives,2019,10.89224,µg/m3 
+MLI,Mali,1990,60.97404,µg/m3 
+MLI,Mali,1995,56.42936,µg/m3 
+MLI,Mali,2000,61.07556,µg/m3 
+MLI,Mali,2005,59.74876,µg/m3 
+MLI,Mali,2010,62.49421,µg/m3 
+MLI,Mali,2011,59.06679,µg/m3 
+MLI,Mali,2012,63.51526,µg/m3 
+MLI,Mali,2013,52.8645,µg/m3 
+MLI,Mali,2014,56.06013,µg/m3 
+MLI,Mali,2015,65.90978,µg/m3 
+MLI,Mali,2016,60.70013,µg/m3 
+MLI,Mali,2017,61.66709,µg/m3 
+MLI,Mali,2018,60.59097,µg/m3 
+MLI,Mali,2019,60.6721,µg/m3 
+MLT,Malta,1990,16.0664,µg/m3 
+MLT,Malta,1995,16.1652,µg/m3 
+MLT,Malta,2000,16.0831,µg/m3 
+MLT,Malta,2005,15.3779,µg/m3 
+MLT,Malta,2010,17.6565,µg/m3 
+MLT,Malta,2011,16.2696,µg/m3 
+MLT,Malta,2012,14.1759,µg/m3 
+MLT,Malta,2013,13.3988,µg/m3 
+MLT,Malta,2014,13.8423,µg/m3 
+MLT,Malta,2015,13.5718,µg/m3 
+MLT,Malta,2016,12.9194,µg/m3 
+MLT,Malta,2017,12.5697,µg/m3 
+MLT,Malta,2018,13.1112,µg/m3 
+MLT,Malta,2019,13.0654,µg/m3 
+MHL,Marshall Islands,1990,7.80849,µg/m3 
+MHL,Marshall Islands,1995,7.85189,µg/m3 
+MHL,Marshall Islands,2000,10.1665,µg/m3 
+MHL,Marshall Islands,2005,10.1774,µg/m3 
+MHL,Marshall Islands,2010,9.91905,µg/m3 
+MHL,Marshall Islands,2011,9.65858,µg/m3 
+MHL,Marshall Islands,2012,9.49872,µg/m3 
+MHL,Marshall Islands,2013,9.57413,µg/m3 
+MHL,Marshall Islands,2014,9.28275,µg/m3 
+MHL,Marshall Islands,2015,9.36408,µg/m3 
+MHL,Marshall Islands,2016,9.29648,µg/m3 
+MHL,Marshall Islands,2017,9.42016,µg/m3 
+MHL,Marshall Islands,2018,9.35089,µg/m3 
+MHL,Marshall Islands,2019,9.34688,µg/m3 
+MRT,Mauritania,1990,68.13409,µg/m3 
+MRT,Mauritania,1995,69.68729,µg/m3 
+MRT,Mauritania,2000,71.79111,µg/m3 
+MRT,Mauritania,2005,65.10299,µg/m3 
+MRT,Mauritania,2010,64.27869,µg/m3 
+MRT,Mauritania,2011,65.41632,µg/m3 
+MRT,Mauritania,2012,70.2224,µg/m3 
+MRT,Mauritania,2013,60.70871,µg/m3 
+MRT,Mauritania,2014,60.43425,µg/m3 
+MRT,Mauritania,2015,71.27974,µg/m3 
+MRT,Mauritania,2016,66.23652,µg/m3 
+MRT,Mauritania,2017,69.50208,µg/m3 
+MRT,Mauritania,2018,66.4108,µg/m3 
+MRT,Mauritania,2019,66.54714,µg/m3 
+MUS,Mauritius,1990,14.68591,µg/m3 
+MUS,Mauritius,1995,15.06949,µg/m3 
+MUS,Mauritius,2000,15.24321,µg/m3 
+MUS,Mauritius,2005,16.57117,µg/m3 
+MUS,Mauritius,2010,15.38158,µg/m3 
+MUS,Mauritius,2011,15.3851,µg/m3 
+MUS,Mauritius,2012,15.21482,µg/m3 
+MUS,Mauritius,2013,15.54457,µg/m3 
+MUS,Mauritius,2014,15.36803,µg/m3 
+MUS,Mauritius,2015,15.3448,µg/m3 
+MUS,Mauritius,2016,15.22473,µg/m3 
+MUS,Mauritius,2017,15.16957,µg/m3 
+MUS,Mauritius,2018,15.28029,µg/m3 
+MUS,Mauritius,2019,15.26528,µg/m3 
+FSM,Micronesia,1990,9.09657,µg/m3 
+FSM,Micronesia,1995,9.4332,µg/m3 
+FSM,Micronesia,2000,11.1458,µg/m3 
+FSM,Micronesia,2005,10.9354,µg/m3 
+FSM,Micronesia,2010,10.5608,µg/m3 
+FSM,Micronesia,2011,10.4735,µg/m3 
+FSM,Micronesia,2012,10.3665,µg/m3 
+FSM,Micronesia,2013,10.8124,µg/m3 
+FSM,Micronesia,2014,10.3273,µg/m3 
+FSM,Micronesia,2015,12.0372,µg/m3 
+FSM,Micronesia,2016,10.3524,µg/m3 
+FSM,Micronesia,2017,10.1919,µg/m3 
+FSM,Micronesia,2018,10.5033,µg/m3 
+FSM,Micronesia,2019,10.4871,µg/m3 
+MDA,Moldova,1990,22.53218,µg/m3 
+MDA,Moldova,1995,21.33257,µg/m3 
+MDA,Moldova,2000,19.38874,µg/m3 
+MDA,Moldova,2005,18.77339,µg/m3 
+MDA,Moldova,2010,18.4935,µg/m3 
+MDA,Moldova,2011,18.39294,µg/m3 
+MDA,Moldova,2012,18.22752,µg/m3 
+MDA,Moldova,2013,17.79693,µg/m3 
+MDA,Moldova,2014,16.65915,µg/m3 
+MDA,Moldova,2015,16.3361,µg/m3 
+MDA,Moldova,2016,14.94962,µg/m3 
+MDA,Moldova,2017,13.59126,µg/m3 
+MDA,Moldova,2018,14.11838,µg/m3 
+MDA,Moldova,2019,13.95982,µg/m3 
+MCO,Monaco,1990,10.3866,µg/m3 
+MCO,Monaco,1995,9.68703,µg/m3 
+MCO,Monaco,2000,16.2796,µg/m3 
+MCO,Monaco,2005,15.1523,µg/m3 
+MCO,Monaco,2010,14.3525,µg/m3 
+MCO,Monaco,2011,15.6184,µg/m3 
+MCO,Monaco,2012,13.936,µg/m3 
+MCO,Monaco,2013,13.0498,µg/m3 
+MCO,Monaco,2014,11.9633,µg/m3 
+MCO,Monaco,2015,13.0911,µg/m3 
+MCO,Monaco,2016,11.4583,µg/m3 
+MCO,Monaco,2017,11.5454,µg/m3 
+MCO,Monaco,2018,11.7865,µg/m3 
+MCO,Monaco,2019,11.6987,µg/m3 
+MNG,Mongolia,1990,27.07735,µg/m3 
+MNG,Mongolia,1995,24.95445,µg/m3 
+MNG,Mongolia,2000,30.41216,µg/m3 
+MNG,Mongolia,2005,26.33844,µg/m3 
+MNG,Mongolia,2010,37.20307,µg/m3 
+MNG,Mongolia,2011,46.56546,µg/m3 
+MNG,Mongolia,2012,49.0935,µg/m3 
+MNG,Mongolia,2013,45.26803,µg/m3 
+MNG,Mongolia,2014,40.99015,µg/m3 
+MNG,Mongolia,2015,43.30589,µg/m3 
+MNG,Mongolia,2016,45.25229,µg/m3 
+MNG,Mongolia,2017,40.47127,µg/m3 
+MNG,Mongolia,2018,42.12418,µg/m3 
+MNG,Mongolia,2019,42.28819,µg/m3 
+MSR,Montserrat,1990,9.59606,µg/m3 
+MSR,Montserrat,1995,9.57554,µg/m3 
+MSR,Montserrat,2000,9.00301,µg/m3 
+MSR,Montserrat,2005,8.22656,µg/m3 
+MSR,Montserrat,2010,8.41418,µg/m3 
+MSR,Montserrat,2011,7.70864,µg/m3 
+MSR,Montserrat,2012,8.30122,µg/m3 
+MSR,Montserrat,2013,8.06492,µg/m3 
+MSR,Montserrat,2014,7.96156,µg/m3 
+MSR,Montserrat,2015,9.01623,µg/m3 
+MSR,Montserrat,2016,9.23474,µg/m3 
+MSR,Montserrat,2017,8.87025,µg/m3 
+MSR,Montserrat,2018,9.16527,µg/m3 
+MSR,Montserrat,2019,9.18139,µg/m3 
+MAR,Morocco,1990,27.95093,µg/m3 
+MAR,Morocco,1995,28.95318,µg/m3 
+MAR,Morocco,2000,32.23436,µg/m3 
+MAR,Morocco,2005,32.61758,µg/m3 
+MAR,Morocco,2010,32.95009,µg/m3 
+MAR,Morocco,2011,31.60086,µg/m3 
+MAR,Morocco,2012,30.44554,µg/m3 
+MAR,Morocco,2013,29.41692,µg/m3 
+MAR,Morocco,2014,29.39406,µg/m3 
+MAR,Morocco,2015,32.16007,µg/m3 
+MAR,Morocco,2016,30.87258,µg/m3 
+MAR,Morocco,2017,34.13177,µg/m3 
+MAR,Morocco,2018,33.89501,µg/m3 
+MAR,Morocco,2019,34.99173,µg/m3 
+MOZ,Mozambique,1990,22.38187,µg/m3 
+MOZ,Mozambique,1995,21.79861,µg/m3 
+MOZ,Mozambique,2000,22.68798,µg/m3 
+MOZ,Mozambique,2005,21.93074,µg/m3 
+MOZ,Mozambique,2010,23.2907,µg/m3 
+MOZ,Mozambique,2011,23.64965,µg/m3 
+MOZ,Mozambique,2012,23.61987,µg/m3 
+MOZ,Mozambique,2013,23.71565,µg/m3 
+MOZ,Mozambique,2014,23.55635,µg/m3 
+MOZ,Mozambique,2015,23.98748,µg/m3 
+MOZ,Mozambique,2016,23.06269,µg/m3 
+MOZ,Mozambique,2017,22.10373,µg/m3 
+MOZ,Mozambique,2018,21.47707,µg/m3 
+MOZ,Mozambique,2019,20.71532,µg/m3 
+MMR,Myanmar,1990,33.27323,µg/m3 
+MMR,Myanmar,1995,33.12621,µg/m3 
+MMR,Myanmar,2000,33.92255,µg/m3 
+MMR,Myanmar,2005,36.8995,µg/m3 
+MMR,Myanmar,2010,37.94875,µg/m3 
+MMR,Myanmar,2011,31.5667,µg/m3 
+MMR,Myanmar,2012,35.34205,µg/m3 
+MMR,Myanmar,2013,36.62645,µg/m3 
+MMR,Myanmar,2014,32.71883,µg/m3 
+MMR,Myanmar,2015,31.63025,µg/m3 
+MMR,Myanmar,2016,32.87003,µg/m3 
+MMR,Myanmar,2017,29.55061,µg/m3 
+MMR,Myanmar,2018,30.0384,µg/m3 
+MMR,Myanmar,2019,29.91018,µg/m3 
+NAM,Namibia,1990,25.17605,µg/m3 
+NAM,Namibia,1995,24.79179,µg/m3 
+NAM,Namibia,2000,25.5791,µg/m3 
+NAM,Namibia,2005,24.65841,µg/m3 
+NAM,Namibia,2010,26.66561,µg/m3 
+NAM,Namibia,2011,27.61899,µg/m3 
+NAM,Namibia,2012,27.43865,µg/m3 
+NAM,Namibia,2013,26.75811,µg/m3 
+NAM,Namibia,2014,26.16439,µg/m3 
+NAM,Namibia,2015,27.0125,µg/m3 
+NAM,Namibia,2016,25.74521,µg/m3 
+NAM,Namibia,2017,25.20101,µg/m3 
+NAM,Namibia,2018,24.80099,µg/m3 
+NAM,Namibia,2019,24.23679,µg/m3 
+NRU,Nauru,1990,5.91531,µg/m3 
+NRU,Nauru,1995,6.5992,µg/m3 
+NRU,Nauru,2000,5.71425,µg/m3 
+NRU,Nauru,2005,5.69686,µg/m3 
+NRU,Nauru,2010,5.40817,µg/m3 
+NRU,Nauru,2011,5.29874,µg/m3 
+NRU,Nauru,2012,5.20903,µg/m3 
+NRU,Nauru,2013,5.29908,µg/m3 
+NRU,Nauru,2014,5.1633,µg/m3 
+NRU,Nauru,2015,5.53196,µg/m3 
+NRU,Nauru,2016,5.97184,µg/m3 
+NRU,Nauru,2017,5.83013,µg/m3 
+NRU,Nauru,2018,5.86623,µg/m3 
+NRU,Nauru,2019,5.85717,µg/m3 
+NPL,Nepal,1990,62.51231,µg/m3 
+NPL,Nepal,1995,58.66617,µg/m3 
+NPL,Nepal,2000,67.26071,µg/m3 
+NPL,Nepal,2005,68.60273,µg/m3 
+NPL,Nepal,2010,78.5108,µg/m3 
+NPL,Nepal,2011,79.3133,µg/m3 
+NPL,Nepal,2012,88.15988,µg/m3 
+NPL,Nepal,2013,87.40644,µg/m3 
+NPL,Nepal,2014,95.65877,µg/m3 
+NPL,Nepal,2015,89.29778,µg/m3 
+NPL,Nepal,2016,91.93222,µg/m3 
+NPL,Nepal,2017,80.82996,µg/m3 
+NPL,Nepal,2018,82.67179,µg/m3 
+NPL,Nepal,2019,82.82545,µg/m3 
+ANT,Netherlands Antilles,1990,7.8051,µg/m3 
+ANT,Netherlands Antilles,1995,7.65384,µg/m3 
+ANT,Netherlands Antilles,2000,8.03786,µg/m3 
+ANT,Netherlands Antilles,2005,7.43991,µg/m3 
+ANT,Netherlands Antilles,2010,7.6895,µg/m3 
+ANT,Netherlands Antilles,2011,7.32252,µg/m3 
+ANT,Netherlands Antilles,2012,7.70202,µg/m3 
+ANT,Netherlands Antilles,2013,7.60236,µg/m3 
+ANT,Netherlands Antilles,2014,7.67343,µg/m3 
+ANT,Netherlands Antilles,2015,8.31604,µg/m3 
+ANT,Netherlands Antilles,2016,8.69818,µg/m3 
+ANT,Netherlands Antilles,2017,8.55348,µg/m3 
+ANT,Netherlands Antilles,2018,8.72744,µg/m3 
+ANT,Netherlands Antilles,2019,8.75029,µg/m3 
+NCL,New Caledonia,1990,8.16861,µg/m3 
+NCL,New Caledonia,1995,8.26055,µg/m3 
+NCL,New Caledonia,2000,6.99449,µg/m3 
+NCL,New Caledonia,2005,6.62746,µg/m3 
+NCL,New Caledonia,2010,6.51126,µg/m3 
+NCL,New Caledonia,2011,6.58947,µg/m3 
+NCL,New Caledonia,2012,6.46451,µg/m3 
+NCL,New Caledonia,2013,6.40233,µg/m3 
+NCL,New Caledonia,2014,6.4926,µg/m3 
+NCL,New Caledonia,2015,6.60939,µg/m3 
+NCL,New Caledonia,2016,7.46169,µg/m3 
+NCL,New Caledonia,2017,7.20055,µg/m3 
+NCL,New Caledonia,2018,7.25725,µg/m3 
+NCL,New Caledonia,2019,7.27167,µg/m3 
+NIC,Nicaragua,1990,21.12364,µg/m3 
+NIC,Nicaragua,1995,20.37542,µg/m3 
+NIC,Nicaragua,2000,21.85951,µg/m3 
+NIC,Nicaragua,2005,23.20185,µg/m3 
+NIC,Nicaragua,2010,21.46132,µg/m3 
+NIC,Nicaragua,2011,23.95193,µg/m3 
+NIC,Nicaragua,2012,21.61528,µg/m3 
+NIC,Nicaragua,2013,23.579,µg/m3 
+NIC,Nicaragua,2014,21.52078,µg/m3 
+NIC,Nicaragua,2015,22.00612,µg/m3 
+NIC,Nicaragua,2016,21.22101,µg/m3 
+NIC,Nicaragua,2017,19.9253,µg/m3 
+NIC,Nicaragua,2018,20.66005,µg/m3 
+NIC,Nicaragua,2019,20.53888,µg/m3 
+NER,Niger,1990,73.55909,µg/m3 
+NER,Niger,1995,70.69932,µg/m3 
+NER,Niger,2000,76.89591,µg/m3 
+NER,Niger,2005,79.29699,µg/m3 
+NER,Niger,2010,78.2476,µg/m3 
+NER,Niger,2011,81.01974,µg/m3 
+NER,Niger,2012,78.96129,µg/m3 
+NER,Niger,2013,70.79529,µg/m3 
+NER,Niger,2014,69.41188,µg/m3 
+NER,Niger,2015,88.03176,µg/m3 
+NER,Niger,2016,85.45232,µg/m3 
+NER,Niger,2017,78.07546,µg/m3 
+NER,Niger,2018,79.94757,µg/m3 
+NER,Niger,2019,80.07251,µg/m3 
+NGA,Nigeria,1990,71.24872,µg/m3 
+NGA,Nigeria,1995,66.91577,µg/m3 
+NGA,Nigeria,2000,74.37424,µg/m3 
+NGA,Nigeria,2005,67.58815,µg/m3 
+NGA,Nigeria,2010,63.03525,µg/m3 
+NGA,Nigeria,2011,64.98478,µg/m3 
+NGA,Nigeria,2012,67.50742,µg/m3 
+NGA,Nigeria,2013,59.79077,µg/m3 
+NGA,Nigeria,2014,59.59435,µg/m3 
+NGA,Nigeria,2015,76.14579,µg/m3 
+NGA,Nigeria,2016,69.72566,µg/m3 
+NGA,Nigeria,2017,69.19798,µg/m3 
+NGA,Nigeria,2018,69.91085,µg/m3 
+NGA,Nigeria,2019,70.49678,µg/m3 
+NIU,Niue,1990,6.45228,µg/m3 
+NIU,Niue,1995,6.32712,µg/m3 
+NIU,Niue,2000,6.16745,µg/m3 
+NIU,Niue,2005,6.20144,µg/m3 
+NIU,Niue,2010,6.0659,µg/m3 
+NIU,Niue,2011,5.68011,µg/m3 
+NIU,Niue,2012,5.88061,µg/m3 
+NIU,Niue,2013,5.81196,µg/m3 
+NIU,Niue,2014,6.12388,µg/m3 
+NIU,Niue,2015,6.25907,µg/m3 
+NIU,Niue,2016,6.86833,µg/m3 
+NIU,Niue,2017,6.67861,µg/m3 
+NIU,Niue,2018,6.80465,µg/m3 
+NIU,Niue,2019,6.83692,µg/m3 
+NFK,Norfolk Island,1990,6.66641,µg/m3 
+NFK,Norfolk Island,1995,6.61497,µg/m3 
+NFK,Norfolk Island,2000,5.85322,µg/m3 
+NFK,Norfolk Island,2005,5.663,µg/m3 
+NFK,Norfolk Island,2010,5.47051,µg/m3 
+NFK,Norfolk Island,2011,5.52501,µg/m3 
+NFK,Norfolk Island,2012,5.51401,µg/m3 
+NFK,Norfolk Island,2013,5.43006,µg/m3 
+NFK,Norfolk Island,2014,5.66552,µg/m3 
+NFK,Norfolk Island,2015,5.59739,µg/m3 
+NFK,Norfolk Island,2016,6.29312,µg/m3 
+NFK,Norfolk Island,2017,6.09153,µg/m3 
+NFK,Norfolk Island,2018,6.11841,µg/m3 
+NFK,Norfolk Island,2019,6.10957,µg/m3 
+MNP,Northern Mariana Islands,1990,9.58286,µg/m3 
+MNP,Northern Mariana Islands,1995,9.34825,µg/m3 
+MNP,Northern Mariana Islands,2000,7.99369,µg/m3 
+MNP,Northern Mariana Islands,2005,7.65426,µg/m3 
+MNP,Northern Mariana Islands,2010,7.20722,µg/m3 
+MNP,Northern Mariana Islands,2011,7.05659,µg/m3 
+MNP,Northern Mariana Islands,2012,7.00348,µg/m3 
+MNP,Northern Mariana Islands,2013,7.7113,µg/m3 
+MNP,Northern Mariana Islands,2014,7.37002,µg/m3 
+MNP,Northern Mariana Islands,2015,9.5719,µg/m3 
+MNP,Northern Mariana Islands,2016,8.40106,µg/m3 
+MNP,Northern Mariana Islands,2017,7.86326,µg/m3 
+MNP,Northern Mariana Islands,2018,8.21483,µg/m3 
+MNP,Northern Mariana Islands,2019,8.17446,µg/m3 
+PSE,Palestinian Authority or West Bank and Gaza Strip,1990,31.20241,µg/m3 
+PSE,Palestinian Authority or West Bank and Gaza Strip,1995,34.31362,µg/m3 
+PSE,Palestinian Authority or West Bank and Gaza Strip,2000,33.13614,µg/m3 
+PSE,Palestinian Authority or West Bank and Gaza Strip,2005,34.39745,µg/m3 
+PSE,Palestinian Authority or West Bank and Gaza Strip,2010,37.66551,µg/m3 
+PSE,Palestinian Authority or West Bank and Gaza Strip,2011,35.37191,µg/m3 
+PSE,Palestinian Authority or West Bank and Gaza Strip,2012,34.26412,µg/m3 
+PSE,Palestinian Authority or West Bank and Gaza Strip,2013,37.44363,µg/m3 
+PSE,Palestinian Authority or West Bank and Gaza Strip,2014,36.05438,µg/m3 
+PSE,Palestinian Authority or West Bank and Gaza Strip,2015,36.77375,µg/m3 
+PSE,Palestinian Authority or West Bank and Gaza Strip,2016,32.76551,µg/m3 
+PSE,Palestinian Authority or West Bank and Gaza Strip,2017,33.44208,µg/m3 
+PSE,Palestinian Authority or West Bank and Gaza Strip,2018,33.18445,µg/m3 
+PSE,Palestinian Authority or West Bank and Gaza Strip,2019,32.55579,µg/m3 
+OMN,Oman,1990,43.02089,µg/m3 
+OMN,Oman,1995,39.03115,µg/m3 
+OMN,Oman,2000,42.99905,µg/m3 
+OMN,Oman,2005,42.73702,µg/m3 
+OMN,Oman,2010,40.99944,µg/m3 
+OMN,Oman,2011,44.72844,µg/m3 
+OMN,Oman,2012,46.53851,µg/m3 
+OMN,Oman,2013,43.99002,µg/m3 
+OMN,Oman,2014,40.58845,µg/m3 
+OMN,Oman,2015,43.83076,µg/m3 
+OMN,Oman,2016,42.14535,µg/m3 
+OMN,Oman,2017,43.75487,µg/m3 
+OMN,Oman,2018,44.02244,µg/m3 
+OMN,Oman,2019,44.23674,µg/m3 
+PAK,Pakistan,1990,62.38946,µg/m3 
+PAK,Pakistan,1995,54.86764,µg/m3 
+PAK,Pakistan,2000,59.04352,µg/m3 
+PAK,Pakistan,2005,56.40382,µg/m3 
+PAK,Pakistan,2010,60.83134,µg/m3 
+PAK,Pakistan,2011,61.23146,µg/m3 
+PAK,Pakistan,2012,66.82359,µg/m3 
+PAK,Pakistan,2013,68.28103,µg/m3 
+PAK,Pakistan,2014,72.44944,µg/m3 
+PAK,Pakistan,2015,68.38615,µg/m3 
+PAK,Pakistan,2016,70.17214,µg/m3 
+PAK,Pakistan,2017,63.06182,µg/m3 
+PAK,Pakistan,2018,63.7003,µg/m3 
+PAK,Pakistan,2019,63.86198,µg/m3 
+PLW,Palau,1990,6.95531,µg/m3 
+PLW,Palau,1995,6.51561,µg/m3 
+PLW,Palau,2000,6.58802,µg/m3 
+PLW,Palau,2005,6.81183,µg/m3 
+PLW,Palau,2010,5.83154,µg/m3 
+PLW,Palau,2011,6.50945,µg/m3 
+PLW,Palau,2012,6.82562,µg/m3 
+PLW,Palau,2013,6.65996,µg/m3 
+PLW,Palau,2014,7.28734,µg/m3 
+PLW,Palau,2015,9.01207,µg/m3 
+PLW,Palau,2016,7.33359,µg/m3 
+PLW,Palau,2017,6.91674,µg/m3 
+PLW,Palau,2018,7.15593,µg/m3 
+PLW,Palau,2019,6.88113,µg/m3 
+PAN,Panama,1990,15.72794,µg/m3 
+PAN,Panama,1995,14.71155,µg/m3 
+PAN,Panama,2000,16.64628,µg/m3 
+PAN,Panama,2005,16.05321,µg/m3 
+PAN,Panama,2010,15.46795,µg/m3 
+PAN,Panama,2011,15.47231,µg/m3 
+PAN,Panama,2012,14.95441,µg/m3 
+PAN,Panama,2013,15.50353,µg/m3 
+PAN,Panama,2014,15.48279,µg/m3 
+PAN,Panama,2015,16.01036,µg/m3 
+PAN,Panama,2016,14.45899,µg/m3 
+PAN,Panama,2017,13.89379,µg/m3 
+PAN,Panama,2018,13.65863,µg/m3 
+PAN,Panama,2019,13.22791,µg/m3 
+PNG,Papua New Guinea,1990,16.79902,µg/m3 
+PNG,Papua New Guinea,1995,16.38387,µg/m3 
+PNG,Papua New Guinea,2000,16.35428,µg/m3 
+PNG,Papua New Guinea,2005,14.77673,µg/m3 
+PNG,Papua New Guinea,2010,17.15304,µg/m3 
+PNG,Papua New Guinea,2011,16.17893,µg/m3 
+PNG,Papua New Guinea,2012,15.84279,µg/m3 
+PNG,Papua New Guinea,2013,15.94115,µg/m3 
+PNG,Papua New Guinea,2014,15.59246,µg/m3 
+PNG,Papua New Guinea,2015,16.30094,µg/m3 
+PNG,Papua New Guinea,2016,16.47782,µg/m3 
+PNG,Papua New Guinea,2017,15.73559,µg/m3 
+PNG,Papua New Guinea,2018,16.06621,µg/m3 
+PNG,Papua New Guinea,2019,16.04683,µg/m3 
+PRY,Paraguay,1990,15.88263,µg/m3 
+PRY,Paraguay,1995,15.69081,µg/m3 
+PRY,Paraguay,2000,16.08525,µg/m3 
+PRY,Paraguay,2005,15.18807,µg/m3 
+PRY,Paraguay,2010,15.25848,µg/m3 
+PRY,Paraguay,2011,16.05286,µg/m3 
+PRY,Paraguay,2012,14.8363,µg/m3 
+PRY,Paraguay,2013,14.71539,µg/m3 
+PRY,Paraguay,2014,14.23329,µg/m3 
+PRY,Paraguay,2015,12.61518,µg/m3 
+PRY,Paraguay,2016,12.6022,µg/m3 
+PRY,Paraguay,2017,12.8013,µg/m3 
+PRY,Paraguay,2018,12.79902,µg/m3 
+PRY,Paraguay,2019,12.84044,µg/m3 
+PER,Peru,1990,36.26076,µg/m3 
+PER,Peru,1995,30.93341,µg/m3 
+PER,Peru,2000,27.9094,µg/m3 
+PER,Peru,2005,28.24894,µg/m3 
+PER,Peru,2010,30.41769,µg/m3 
+PER,Peru,2011,29.67211,µg/m3 
+PER,Peru,2012,31.36196,µg/m3 
+PER,Peru,2013,29.94434,µg/m3 
+PER,Peru,2014,30.65978,µg/m3 
+PER,Peru,2015,31.00492,µg/m3 
+PER,Peru,2016,30.80497,µg/m3 
+PER,Peru,2017,30.59305,µg/m3 
+PER,Peru,2018,30.90494,µg/m3 
+PER,Peru,2019,31.0593,µg/m3 
+PHL,Philippines,1990,29.61502,µg/m3 
+PHL,Philippines,1995,28.56503,µg/m3 
+PHL,Philippines,2000,28.22707,µg/m3 
+PHL,Philippines,2005,26.63846,µg/m3 
+PHL,Philippines,2010,23.76555,µg/m3 
+PHL,Philippines,2011,20.64889,µg/m3 
+PHL,Philippines,2012,21.44246,µg/m3 
+PHL,Philippines,2013,21.65289,µg/m3 
+PHL,Philippines,2014,19.61448,µg/m3 
+PHL,Philippines,2015,19.52012,µg/m3 
+PHL,Philippines,2016,20.01614,µg/m3 
+PHL,Philippines,2017,18.58331,µg/m3 
+PHL,Philippines,2018,18.68866,µg/m3 
+PHL,Philippines,2019,18.79358,µg/m3 
+PCN,Pitcairn,1990,6.65037,µg/m3 
+PCN,Pitcairn,1995,6.53096,µg/m3 
+PCN,Pitcairn,2000,6.05964,µg/m3 
+PCN,Pitcairn,2005,6.12263,µg/m3 
+PCN,Pitcairn,2010,5.89977,µg/m3 
+PCN,Pitcairn,2011,5.67514,µg/m3 
+PCN,Pitcairn,2012,5.76893,µg/m3 
+PCN,Pitcairn,2013,5.77524,µg/m3 
+PCN,Pitcairn,2014,5.94426,µg/m3 
+PCN,Pitcairn,2015,5.96366,µg/m3 
+PCN,Pitcairn,2016,6.39292,µg/m3 
+PCN,Pitcairn,2017,6.35372,µg/m3 
+PCN,Pitcairn,2018,6.34449,µg/m3 
+PCN,Pitcairn,2019,6.31587,µg/m3 
+PRI,Puerto Rico,1990,7.97812,µg/m3 
+PRI,Puerto Rico,1995,7.87832,µg/m3 
+PRI,Puerto Rico,2000,6.87737,µg/m3 
+PRI,Puerto Rico,2005,6.27017,µg/m3 
+PRI,Puerto Rico,2010,6.347,µg/m3 
+PRI,Puerto Rico,2011,5.61764,µg/m3 
+PRI,Puerto Rico,2012,6.29411,µg/m3 
+PRI,Puerto Rico,2013,6.04596,µg/m3 
+PRI,Puerto Rico,2014,6.17984,µg/m3 
+PRI,Puerto Rico,2015,6.77499,µg/m3 
+PRI,Puerto Rico,2016,6.82904,µg/m3 
+PRI,Puerto Rico,2017,6.79992,µg/m3 
+PRI,Puerto Rico,2018,6.89863,µg/m3 
+PRI,Puerto Rico,2019,6.90966,µg/m3 
+QAT,Qatar,1990,75.28433,µg/m3 
+QAT,Qatar,1995,72.51922,µg/m3 
+QAT,Qatar,2000,79.18379,µg/m3 
+QAT,Qatar,2005,84.30941,µg/m3 
+QAT,Qatar,2010,80.45255,µg/m3 
+QAT,Qatar,2011,82.36154,µg/m3 
+QAT,Qatar,2012,87.42769,µg/m3 
+QAT,Qatar,2013,82.5521,µg/m3 
+QAT,Qatar,2014,73.81316,µg/m3 
+QAT,Qatar,2015,86.28376,µg/m3 
+QAT,Qatar,2016,77.2449,µg/m3 
+QAT,Qatar,2017,79.59911,µg/m3 
+QAT,Qatar,2018,78.21987,µg/m3 
+QAT,Qatar,2019,77.11195,µg/m3 
+ROU,Romania,1990,22.18115,µg/m3 
+ROU,Romania,1995,21.37979,µg/m3 
+ROU,Romania,2000,20.03516,µg/m3 
+ROU,Romania,2005,18.85025,µg/m3 
+ROU,Romania,2010,18.67198,µg/m3 
+ROU,Romania,2011,19.74343,µg/m3 
+ROU,Romania,2012,18.07134,µg/m3 
+ROU,Romania,2013,16.69318,µg/m3 
+ROU,Romania,2014,16.77057,µg/m3 
+ROU,Romania,2015,16.25701,µg/m3 
+ROU,Romania,2016,15.27077,µg/m3 
+ROU,Romania,2017,15.62483,µg/m3 
+ROU,Romania,2018,15.39175,µg/m3 
+ROU,Romania,2019,15.06436,µg/m3 
+RUS,Russia,1990,18.23318,µg/m3 
+RUS,Russia,1995,16.5295,µg/m3 
+RUS,Russia,2000,15.63554,µg/m3 
+RUS,Russia,2005,14.58661,µg/m3 
+RUS,Russia,2010,15.52415,µg/m3 
+RUS,Russia,2011,13.86517,µg/m3 
+RUS,Russia,2012,13.88303,µg/m3 
+RUS,Russia,2013,14.12903,µg/m3 
+RUS,Russia,2014,14.15678,µg/m3 
+RUS,Russia,2015,13.08471,µg/m3 
+RUS,Russia,2016,12.3677,µg/m3 
+RUS,Russia,2017,11.70067,µg/m3 
+RUS,Russia,2018,11.81241,µg/m3 
+RUS,Russia,2019,11.77739,µg/m3 
+RWA,Rwanda,1990,36.39902,µg/m3 
+RWA,Rwanda,1995,37.07699,µg/m3 
+RWA,Rwanda,2000,38.83035,µg/m3 
+RWA,Rwanda,2005,35.85893,µg/m3 
+RWA,Rwanda,2010,36.31515,µg/m3 
+RWA,Rwanda,2011,37.79784,µg/m3 
+RWA,Rwanda,2012,40.33567,µg/m3 
+RWA,Rwanda,2013,38.08964,µg/m3 
+RWA,Rwanda,2014,37.80641,µg/m3 
+RWA,Rwanda,2015,38.68899,µg/m3 
+RWA,Rwanda,2016,38.52852,µg/m3 
+RWA,Rwanda,2017,35.60544,µg/m3 
+RWA,Rwanda,2018,36.69867,µg/m3 
+RWA,Rwanda,2019,36.22432,µg/m3 
+SHN,Saint Helena,1990,9.59964,µg/m3 
+SHN,Saint Helena,1995,8.87576,µg/m3 
+SHN,Saint Helena,2000,7.77929,µg/m3 
+SHN,Saint Helena,2005,7.61354,µg/m3 
+SHN,Saint Helena,2010,7.23507,µg/m3 
+SHN,Saint Helena,2011,7.07384,µg/m3 
+SHN,Saint Helena,2012,7.08589,µg/m3 
+SHN,Saint Helena,2013,7.17147,µg/m3 
+SHN,Saint Helena,2014,7.11194,µg/m3 
+SHN,Saint Helena,2015,7.50224,µg/m3 
+SHN,Saint Helena,2016,8.25003,µg/m3 
+SHN,Saint Helena,2017,8.06174,µg/m3 
+SHN,Saint Helena,2018,8.03397,µg/m3 
+SHN,Saint Helena,2019,8.02421,µg/m3 
+KNA,Saint Kitts and Nevis,1990,9.13675,µg/m3 
+KNA,Saint Kitts and Nevis,1995,9.08803,µg/m3 
+KNA,Saint Kitts and Nevis,2000,8.69775,µg/m3 
+KNA,Saint Kitts and Nevis,2005,7.93178,µg/m3 
+KNA,Saint Kitts and Nevis,2010,8.16095,µg/m3 
+KNA,Saint Kitts and Nevis,2011,7.3846,µg/m3 
+KNA,Saint Kitts and Nevis,2012,8.02618,µg/m3 
+KNA,Saint Kitts and Nevis,2013,7.7843,µg/m3 
+KNA,Saint Kitts and Nevis,2014,7.64083,µg/m3 
+KNA,Saint Kitts and Nevis,2015,8.66256,µg/m3 
+KNA,Saint Kitts and Nevis,2016,8.86904,µg/m3 
+KNA,Saint Kitts and Nevis,2017,8.61321,µg/m3 
+KNA,Saint Kitts and Nevis,2018,8.83311,µg/m3 
+KNA,Saint Kitts and Nevis,2019,8.85081,µg/m3 
+LCA,Saint Lucia,1990,18.60044,µg/m3 
+LCA,Saint Lucia,1995,18.5779,µg/m3 
+LCA,Saint Lucia,2000,21.3893,µg/m3 
+LCA,Saint Lucia,2005,19.47058,µg/m3 
+LCA,Saint Lucia,2010,19.51613,µg/m3 
+LCA,Saint Lucia,2011,18.75769,µg/m3 
+LCA,Saint Lucia,2012,19.69555,µg/m3 
+LCA,Saint Lucia,2013,19.79065,µg/m3 
+LCA,Saint Lucia,2014,19.75087,µg/m3 
+LCA,Saint Lucia,2015,21.4649,µg/m3 
+LCA,Saint Lucia,2016,20.65952,µg/m3 
+LCA,Saint Lucia,2017,20.3803,µg/m3 
+LCA,Saint Lucia,2018,20.77072,µg/m3 
+LCA,Saint Lucia,2019,20.83464,µg/m3 
+SPM,Saint Pierre and Miquelon,1990,10.40541,µg/m3 
+SPM,Saint Pierre and Miquelon,1995,10.1667,µg/m3 
+SPM,Saint Pierre and Miquelon,2000,8.78224,µg/m3 
+SPM,Saint Pierre and Miquelon,2005,8.74164,µg/m3 
+SPM,Saint Pierre and Miquelon,2010,8.05628,µg/m3 
+SPM,Saint Pierre and Miquelon,2011,7.68491,µg/m3 
+SPM,Saint Pierre and Miquelon,2012,7.73096,µg/m3 
+SPM,Saint Pierre and Miquelon,2013,8.94164,µg/m3 
+SPM,Saint Pierre and Miquelon,2014,8.3347,µg/m3 
+SPM,Saint Pierre and Miquelon,2015,8.72434,µg/m3 
+SPM,Saint Pierre and Miquelon,2016,8.51949,µg/m3 
+SPM,Saint Pierre and Miquelon,2017,8.94451,µg/m3 
+SPM,Saint Pierre and Miquelon,2018,8.90567,µg/m3 
+SPM,Saint Pierre and Miquelon,2019,8.87548,µg/m3 
+VCT,Saint Vincent and the Grenadines,1990,16.29761,µg/m3 
+VCT,Saint Vincent and the Grenadines,1995,16.23371,µg/m3 
+VCT,Saint Vincent and the Grenadines,2000,21.91072,µg/m3 
+VCT,Saint Vincent and the Grenadines,2005,19.87338,µg/m3 
+VCT,Saint Vincent and the Grenadines,2010,19.74633,µg/m3 
+VCT,Saint Vincent and the Grenadines,2011,18.99065,µg/m3 
+VCT,Saint Vincent and the Grenadines,2012,19.87902,µg/m3 
+VCT,Saint Vincent and the Grenadines,2013,19.90346,µg/m3 
+VCT,Saint Vincent and the Grenadines,2014,20.02262,µg/m3 
+VCT,Saint Vincent and the Grenadines,2015,21.70249,µg/m3 
+VCT,Saint Vincent and the Grenadines,2016,20.87308,µg/m3 
+VCT,Saint Vincent and the Grenadines,2017,20.69597,µg/m3 
+VCT,Saint Vincent and the Grenadines,2018,21.02468,µg/m3 
+VCT,Saint Vincent and the Grenadines,2019,21.09771,µg/m3 
+WSM,Samoa,1990,10.3822,µg/m3 
+WSM,Samoa,1995,10.4412,µg/m3 
+WSM,Samoa,2000,10.8764,µg/m3 
+WSM,Samoa,2005,11.3806,µg/m3 
+WSM,Samoa,2010,10.9439,µg/m3 
+WSM,Samoa,2011,10.549,µg/m3 
+WSM,Samoa,2012,10.6202,µg/m3 
+WSM,Samoa,2013,10.7034,µg/m3 
+WSM,Samoa,2014,10.956,µg/m3 
+WSM,Samoa,2015,10.8464,µg/m3 
+WSM,Samoa,2016,11.1333,µg/m3 
+WSM,Samoa,2017,10.7242,µg/m3 
+WSM,Samoa,2018,10.8638,µg/m3 
+WSM,Samoa,2019,10.8332,µg/m3 
+SMR,San Marino,1990,12.7436,µg/m3 
+SMR,San Marino,1995,12.0189,µg/m3 
+SMR,San Marino,2000,11.4421,µg/m3 
+SMR,San Marino,2005,10.638,µg/m3 
+SMR,San Marino,2010,9.26058,µg/m3 
+SMR,San Marino,2011,9.99905,µg/m3 
+SMR,San Marino,2012,9.69982,µg/m3 
+SMR,San Marino,2013,9.44732,µg/m3 
+SMR,San Marino,2014,9.84451,µg/m3 
+SMR,San Marino,2015,10.1527,µg/m3 
+SMR,San Marino,2016,9.91727,µg/m3 
+SMR,San Marino,2017,9.88417,µg/m3 
+SMR,San Marino,2018,10.0687,µg/m3 
+SMR,San Marino,2019,9.99181,µg/m3 
+STP,Sao Tome and Principe,1990,33.07571,µg/m3 
+STP,Sao Tome and Principe,1995,29.75431,µg/m3 
+STP,Sao Tome and Principe,2000,34.42491,µg/m3 
+STP,Sao Tome and Principe,2005,34.62205,µg/m3 
+STP,Sao Tome and Principe,2010,30.63425,µg/m3 
+STP,Sao Tome and Principe,2011,32.31703,µg/m3 
+STP,Sao Tome and Principe,2012,29.54647,µg/m3 
+STP,Sao Tome and Principe,2013,30.94167,µg/m3 
+STP,Sao Tome and Principe,2014,28.16922,µg/m3 
+STP,Sao Tome and Principe,2015,36.53288,µg/m3 
+STP,Sao Tome and Principe,2016,34.98444,µg/m3 
+STP,Sao Tome and Principe,2017,30.24999,µg/m3 
+STP,Sao Tome and Principe,2018,31.38037,µg/m3 
+STP,Sao Tome and Principe,2019,31.32731,µg/m3 
+SAU,Saudi Arabia,1990,56.0851,µg/m3 
+SAU,Saudi Arabia,1995,55.95001,µg/m3 
+SAU,Saudi Arabia,2000,60.6148,µg/m3 
+SAU,Saudi Arabia,2005,62.94388,µg/m3 
+SAU,Saudi Arabia,2010,65.71981,µg/m3 
+SAU,Saudi Arabia,2011,67.38528,µg/m3 
+SAU,Saudi Arabia,2012,70.38687,µg/m3 
+SAU,Saudi Arabia,2013,67.84979,µg/m3 
+SAU,Saudi Arabia,2014,59.13684,µg/m3 
+SAU,Saudi Arabia,2015,69.61744,µg/m3 
+SAU,Saudi Arabia,2016,62.20881,µg/m3 
+SAU,Saudi Arabia,2017,66.60413,µg/m3 
+SAU,Saudi Arabia,2018,64.48388,µg/m3 
+SAU,Saudi Arabia,2019,64.06007,µg/m3 
+SEN,Senegal,1990,62.203,µg/m3 
+SEN,Senegal,1995,63.05128,µg/m3 
+SEN,Senegal,2000,63.51044,µg/m3 
+SEN,Senegal,2005,57.16937,µg/m3 
+SEN,Senegal,2010,56.37801,µg/m3 
+SEN,Senegal,2011,58.06667,µg/m3 
+SEN,Senegal,2012,64.83018,µg/m3 
+SEN,Senegal,2013,53.1099,µg/m3 
+SEN,Senegal,2014,55.26807,µg/m3 
+SEN,Senegal,2015,65.31429,µg/m3 
+SEN,Senegal,2016,59.40413,µg/m3 
+SEN,Senegal,2017,63.54887,µg/m3 
+SEN,Senegal,2018,60.05836,µg/m3 
+SEN,Senegal,2019,60.17498,µg/m3 
+SYC,Seychelles,1990,14.49638,µg/m3 
+SYC,Seychelles,1995,15.39604,µg/m3 
+SYC,Seychelles,2000,16.30399,µg/m3 
+SYC,Seychelles,2005,15.84906,µg/m3 
+SYC,Seychelles,2010,15.04949,µg/m3 
+SYC,Seychelles,2011,16.41896,µg/m3 
+SYC,Seychelles,2012,15.97822,µg/m3 
+SYC,Seychelles,2013,15.81657,µg/m3 
+SYC,Seychelles,2014,15.06952,µg/m3 
+SYC,Seychelles,2015,15.24336,µg/m3 
+SYC,Seychelles,2016,15.93022,µg/m3 
+SYC,Seychelles,2017,15.83113,µg/m3 
+SYC,Seychelles,2018,15.54065,µg/m3 
+SYC,Seychelles,2019,15.50187,µg/m3 
+SLE,Sierra Leone,1990,52.42216,µg/m3 
+SLE,Sierra Leone,1995,45.83913,µg/m3 
+SLE,Sierra Leone,2000,50.54348,µg/m3 
+SLE,Sierra Leone,2005,49.89218,µg/m3 
+SLE,Sierra Leone,2010,46.45754,µg/m3 
+SLE,Sierra Leone,2011,51.27498,µg/m3 
+SLE,Sierra Leone,2012,49.78597,µg/m3 
+SLE,Sierra Leone,2013,44.32868,µg/m3 
+SLE,Sierra Leone,2014,46.32417,µg/m3 
+SLE,Sierra Leone,2015,55.32444,µg/m3 
+SLE,Sierra Leone,2016,54.07738,µg/m3 
+SLE,Sierra Leone,2017,50.40229,µg/m3 
+SLE,Sierra Leone,2018,51.05065,µg/m3 
+SLE,Sierra Leone,2019,51.27564,µg/m3 
+SGP,Singapore,1990,25.88422,µg/m3 
+SGP,Singapore,1995,20.53914,µg/m3 
+SGP,Singapore,2000,19.04962,µg/m3 
+SGP,Singapore,2005,16.44764,µg/m3 
+SGP,Singapore,2010,15.72832,µg/m3 
+SGP,Singapore,2011,16.7953,µg/m3 
+SGP,Singapore,2012,17.97934,µg/m3 
+SGP,Singapore,2013,19.07799,µg/m3 
+SGP,Singapore,2014,17.97631,µg/m3 
+SGP,Singapore,2015,18.61205,µg/m3 
+SGP,Singapore,2016,17.92032,µg/m3 
+SGP,Singapore,2017,18.78832,µg/m3 
+SGP,Singapore,2018,18.72153,µg/m3 
+SGP,Singapore,2019,19.0006,µg/m3 
+SVN,Slovenia,1990,25.79546,µg/m3 
+SVN,Slovenia,1995,24.96103,µg/m3 
+SVN,Slovenia,2000,22.33565,µg/m3 
+SVN,Slovenia,2005,21.21855,µg/m3 
+SVN,Slovenia,2010,19.3096,µg/m3 
+SVN,Slovenia,2011,21.06838,µg/m3 
+SVN,Slovenia,2012,18.71353,µg/m3 
+SVN,Slovenia,2013,18.53574,µg/m3 
+SVN,Slovenia,2014,18.17968,µg/m3 
+SVN,Slovenia,2015,18.02835,µg/m3 
+SVN,Slovenia,2016,16.6265,µg/m3 
+SVN,Slovenia,2017,16.80657,µg/m3 
+SVN,Slovenia,2018,17.18076,µg/m3 
+SVN,Slovenia,2019,17.06109,µg/m3 
+SLB,Solomon Islands,1990,9.63198,µg/m3 
+SLB,Solomon Islands,1995,9.8338,µg/m3 
+SLB,Solomon Islands,2000,10.6034,µg/m3 
+SLB,Solomon Islands,2005,11.0004,µg/m3 
+SLB,Solomon Islands,2010,12.0851,µg/m3 
+SLB,Solomon Islands,2011,11.677,µg/m3 
+SLB,Solomon Islands,2012,11.7285,µg/m3 
+SLB,Solomon Islands,2013,12.0475,µg/m3 
+SLB,Solomon Islands,2014,12.2731,µg/m3 
+SLB,Solomon Islands,2015,12.453,µg/m3 
+SLB,Solomon Islands,2016,12.7948,µg/m3 
+SLB,Solomon Islands,2017,12.2964,µg/m3 
+SLB,Solomon Islands,2018,12.723,µg/m3 
+SLB,Solomon Islands,2019,12.8568,µg/m3 
+SOM,Somalia,1990,26.5553,µg/m3 
+SOM,Somalia,1995,22.18354,µg/m3 
+SOM,Somalia,2000,30.19043,µg/m3 
+SOM,Somalia,2005,26.52488,µg/m3 
+SOM,Somalia,2010,27.91185,µg/m3 
+SOM,Somalia,2011,30.48321,µg/m3 
+SOM,Somalia,2012,31.45434,µg/m3 
+SOM,Somalia,2013,30.19732,µg/m3 
+SOM,Somalia,2014,28.86244,µg/m3 
+SOM,Somalia,2015,28.62219,µg/m3 
+SOM,Somalia,2016,28.16013,µg/m3 
+SOM,Somalia,2017,29.94064,µg/m3 
+SOM,Somalia,2018,29.68467,µg/m3 
+SOM,Somalia,2019,30.14888,µg/m3 
+ZAF,South Africa,1990,28.74246,µg/m3 
+ZAF,South Africa,1995,28.9223,µg/m3 
+ZAF,South Africa,2000,28.52572,µg/m3 
+ZAF,South Africa,2005,26.71808,µg/m3 
+ZAF,South Africa,2010,29.37227,µg/m3 
+ZAF,South Africa,2011,29.38772,µg/m3 
+ZAF,South Africa,2012,29.05601,µg/m3 
+ZAF,South Africa,2013,28.64036,µg/m3 
+ZAF,South Africa,2014,28.8292,µg/m3 
+ZAF,South Africa,2015,29.02988,µg/m3 
+ZAF,South Africa,2016,28.49297,µg/m3 
+ZAF,South Africa,2017,28.58338,µg/m3 
+ZAF,South Africa,2018,28.44415,µg/m3 
+ZAF,South Africa,2019,28.32529,µg/m3 
+LKA,Sri Lanka,1990,22.83092,µg/m3 
+LKA,Sri Lanka,1995,21.65563,µg/m3 
+LKA,Sri Lanka,2000,24.24258,µg/m3 
+LKA,Sri Lanka,2005,24.07768,µg/m3 
+LKA,Sri Lanka,2010,24.66413,µg/m3 
+LKA,Sri Lanka,2011,21.55997,µg/m3 
+LKA,Sri Lanka,2012,22.40731,µg/m3 
+LKA,Sri Lanka,2013,23.00444,µg/m3 
+LKA,Sri Lanka,2014,20.95416,µg/m3 
+LKA,Sri Lanka,2015,18.93451,µg/m3 
+LKA,Sri Lanka,2016,20.75228,µg/m3 
+LKA,Sri Lanka,2017,19.91456,µg/m3 
+LKA,Sri Lanka,2018,19.69182,µg/m3 
+LKA,Sri Lanka,2019,19.96277,µg/m3 
+SDN,Sudan,1990,50.33249,µg/m3 
+SDN,Sudan,1995,44.44661,µg/m3 
+SDN,Sudan,2000,51.10149,µg/m3 
+SDN,Sudan,2005,52.33386,µg/m3 
+SDN,Sudan,2010,53.86338,µg/m3 
+SDN,Sudan,2011,55.50961,µg/m3 
+SDN,Sudan,2012,56.02718,µg/m3 
+SDN,Sudan,2013,53.52107,µg/m3 
+SDN,Sudan,2014,47.66689,µg/m3 
+SDN,Sudan,2015,53.88639,µg/m3 
+SDN,Sudan,2016,52.37467,µg/m3 
+SDN,Sudan,2017,54.74404,µg/m3 
+SDN,Sudan,2018,55.0211,µg/m3 
+SDN,Sudan,2019,56.03598,µg/m3 
+SUR,Suriname,1990,29.17892,µg/m3 
+SUR,Suriname,1995,29.44261,µg/m3 
+SUR,Suriname,2000,32.4905,µg/m3 
+SUR,Suriname,2005,24.54941,µg/m3 
+SUR,Suriname,2010,23.27092,µg/m3 
+SUR,Suriname,2011,21.25528,µg/m3 
+SUR,Suriname,2012,25.71317,µg/m3 
+SUR,Suriname,2013,23.07048,µg/m3 
+SUR,Suriname,2014,23.11242,µg/m3 
+SUR,Suriname,2015,27.28073,µg/m3 
+SUR,Suriname,2016,23.6739,µg/m3 
+SUR,Suriname,2017,23.32437,µg/m3 
+SUR,Suriname,2018,22.53991,µg/m3 
+SUR,Suriname,2019,21.62903,µg/m3 
+SWZ,Eswatini,1990,25.32227,µg/m3 
+SWZ,Eswatini,1995,25.45895,µg/m3 
+SWZ,Eswatini,2000,24.84346,µg/m3 
+SWZ,Eswatini,2005,23.12618,µg/m3 
+SWZ,Eswatini,2010,23.90012,µg/m3 
+SWZ,Eswatini,2011,23.10746,µg/m3 
+SWZ,Eswatini,2012,23.44877,µg/m3 
+SWZ,Eswatini,2013,23.38677,µg/m3 
+SWZ,Eswatini,2014,23.12662,µg/m3 
+SWZ,Eswatini,2015,23.47879,µg/m3 
+SWZ,Eswatini,2016,22.1108,µg/m3 
+SWZ,Eswatini,2017,23.43572,µg/m3 
+SWZ,Eswatini,2018,23.20816,µg/m3 
+SWZ,Eswatini,2019,23.36699,µg/m3 
+SYR,Syrian Arab Republic,1990,30.2099,µg/m3 
+SYR,Syrian Arab Republic,1995,31.64489,µg/m3 
+SYR,Syrian Arab Republic,2000,30.19804,µg/m3 
+SYR,Syrian Arab Republic,2005,31.5019,µg/m3 
+SYR,Syrian Arab Republic,2010,35.95028,µg/m3 
+SYR,Syrian Arab Republic,2011,33.15136,µg/m3 
+SYR,Syrian Arab Republic,2012,32.05305,µg/m3 
+SYR,Syrian Arab Republic,2013,33.53665,µg/m3 
+SYR,Syrian Arab Republic,2014,33.02315,µg/m3 
+SYR,Syrian Arab Republic,2015,34.37839,µg/m3 
+SYR,Syrian Arab Republic,2016,32.21697,µg/m3 
+SYR,Syrian Arab Republic,2017,31.77951,µg/m3 
+SYR,Syrian Arab Republic,2018,31.74874,µg/m3 
+SYR,Syrian Arab Republic,2019,31.33487,µg/m3 
+TWN,Chinese Taipei,1990,24.6727,µg/m3 
+TWN,Chinese Taipei,1995,23.9906,µg/m3 
+TWN,Chinese Taipei,2000,24.5638,µg/m3 
+TWN,Chinese Taipei,2005,24.4981,µg/m3 
+TWN,Chinese Taipei,2010,22.9156,µg/m3 
+TWN,Chinese Taipei,2011,25.5922,µg/m3 
+TWN,Chinese Taipei,2012,25.7891,µg/m3 
+TWN,Chinese Taipei,2013,27.1923,µg/m3 
+TWN,Chinese Taipei,2014,26.9121,µg/m3 
+TWN,Chinese Taipei,2015,26.3571,µg/m3 
+TWN,Chinese Taipei,2016,23.3962,µg/m3 
+TWN,Chinese Taipei,2017,23.4472,µg/m3 
+TWN,Chinese Taipei,2018,23.8034,µg/m3 
+TWN,Chinese Taipei,2019,23.5335,µg/m3 
+TJK,Tajikistan,1990,35.50028,µg/m3 
+TJK,Tajikistan,1995,37.32942,µg/m3 
+TJK,Tajikistan,2000,42.69636,µg/m3 
+TJK,Tajikistan,2005,33.97729,µg/m3 
+TJK,Tajikistan,2010,36.07439,µg/m3 
+TJK,Tajikistan,2011,48.11263,µg/m3 
+TJK,Tajikistan,2012,42.88446,µg/m3 
+TJK,Tajikistan,2013,44.09017,µg/m3 
+TJK,Tajikistan,2014,41.35597,µg/m3 
+TJK,Tajikistan,2015,40.69803,µg/m3 
+TJK,Tajikistan,2016,39.80869,µg/m3 
+TJK,Tajikistan,2017,40.08521,µg/m3 
+TJK,Tajikistan,2018,39.74453,µg/m3 
+TJK,Tajikistan,2019,39.90629,µg/m3 
+TZA,Tanzania,1990,21.74177,µg/m3 
+TZA,Tanzania,1995,21.51957,µg/m3 
+TZA,Tanzania,2000,24.37967,µg/m3 
+TZA,Tanzania,2005,24.80627,µg/m3 
+TZA,Tanzania,2010,26.35689,µg/m3 
+TZA,Tanzania,2011,28.16244,µg/m3 
+TZA,Tanzania,2012,28.81121,µg/m3 
+TZA,Tanzania,2013,27.7554,µg/m3 
+TZA,Tanzania,2014,27.1181,µg/m3 
+TZA,Tanzania,2015,28.25751,µg/m3 
+TZA,Tanzania,2016,27.705,µg/m3 
+TZA,Tanzania,2017,25.23024,µg/m3 
+TZA,Tanzania,2018,25.38118,µg/m3 
+TZA,Tanzania,2019,24.60327,µg/m3 
+THA,Thailand,1990,37.7937,µg/m3 
+THA,Thailand,1995,35.6957,µg/m3 
+THA,Thailand,2000,34.53339,µg/m3 
+THA,Thailand,2005,35.2934,µg/m3 
+THA,Thailand,2010,35.46658,µg/m3 
+THA,Thailand,2011,29.95337,µg/m3 
+THA,Thailand,2012,31.36545,µg/m3 
+THA,Thailand,2013,33.79969,µg/m3 
+THA,Thailand,2014,29.41482,µg/m3 
+THA,Thailand,2015,28.04208,µg/m3 
+THA,Thailand,2016,30.6404,µg/m3 
+THA,Thailand,2017,26.87982,µg/m3 
+THA,Thailand,2018,27.41578,µg/m3 
+THA,Thailand,2019,27.32291,µg/m3 
+TLS,Timor-Leste,1990,17.37441,µg/m3 
+TLS,Timor-Leste,1995,17.04045,µg/m3 
+TLS,Timor-Leste,2000,17.3649,µg/m3 
+TLS,Timor-Leste,2005,16.82914,µg/m3 
+TLS,Timor-Leste,2010,17.42768,µg/m3 
+TLS,Timor-Leste,2011,16.5785,µg/m3 
+TLS,Timor-Leste,2012,17.34683,µg/m3 
+TLS,Timor-Leste,2013,16.25677,µg/m3 
+TLS,Timor-Leste,2014,16.32515,µg/m3 
+TLS,Timor-Leste,2015,15.90322,µg/m3 
+TLS,Timor-Leste,2016,17.09592,µg/m3 
+TLS,Timor-Leste,2017,15.80107,µg/m3 
+TLS,Timor-Leste,2018,15.62444,µg/m3 
+TLS,Timor-Leste,2019,15.75327,µg/m3 
+TGO,Togo,1990,49.30794,µg/m3 
+TGO,Togo,1995,43.95232,µg/m3 
+TGO,Togo,2000,51.11265,µg/m3 
+TGO,Togo,2005,43.65935,µg/m3 
+TGO,Togo,2010,43.63082,µg/m3 
+TGO,Togo,2011,43.66808,µg/m3 
+TGO,Togo,2012,45.3517,µg/m3 
+TGO,Togo,2013,40.45314,µg/m3 
+TGO,Togo,2014,40.82534,µg/m3 
+TGO,Togo,2015,51.07339,µg/m3 
+TGO,Togo,2016,48.394,µg/m3 
+TGO,Togo,2017,46.63269,µg/m3 
+TGO,Togo,2018,46.37626,µg/m3 
+TGO,Togo,2019,46.12588,µg/m3 
+TKL,Tokelau,1990,7.16999,µg/m3 
+TKL,Tokelau,1995,7.30975,µg/m3 
+TKL,Tokelau,2000,6.47107,µg/m3 
+TKL,Tokelau,2005,6.79426,µg/m3 
+TKL,Tokelau,2010,6.46773,µg/m3 
+TKL,Tokelau,2011,6.0354,µg/m3 
+TKL,Tokelau,2012,6.09462,µg/m3 
+TKL,Tokelau,2013,6.12534,µg/m3 
+TKL,Tokelau,2014,6.29541,µg/m3 
+TKL,Tokelau,2015,6.41552,µg/m3 
+TKL,Tokelau,2016,6.95431,µg/m3 
+TKL,Tokelau,2017,6.81418,µg/m3 
+TKL,Tokelau,2018,6.86193,µg/m3 
+TKL,Tokelau,2019,6.84874,µg/m3 
+TON,Tonga,1990,9.41883,µg/m3 
+TON,Tonga,1995,9.51597,µg/m3 
+TON,Tonga,2000,10.8291,µg/m3 
+TON,Tonga,2005,10.8493,µg/m3 
+TON,Tonga,2010,10.847,µg/m3 
+TON,Tonga,2011,10.554,µg/m3 
+TON,Tonga,2012,10.6052,µg/m3 
+TON,Tonga,2013,10.584,µg/m3 
+TON,Tonga,2014,10.6385,µg/m3 
+TON,Tonga,2015,10.3617,µg/m3 
+TON,Tonga,2016,10.6779,µg/m3 
+TON,Tonga,2017,10.6876,µg/m3 
+TON,Tonga,2018,10.573,µg/m3 
+TON,Tonga,2019,10.5611,µg/m3 
+TTO,Trinidad and Tobago,1990,19.62051,µg/m3 
+TTO,Trinidad and Tobago,1995,19.64473,µg/m3 
+TTO,Trinidad and Tobago,2000,21.71156,µg/m3 
+TTO,Trinidad and Tobago,2005,19.50025,µg/m3 
+TTO,Trinidad and Tobago,2010,20.22537,µg/m3 
+TTO,Trinidad and Tobago,2011,19.91838,µg/m3 
+TTO,Trinidad and Tobago,2012,20.30659,µg/m3 
+TTO,Trinidad and Tobago,2013,20.49814,µg/m3 
+TTO,Trinidad and Tobago,2014,20.74473,µg/m3 
+TTO,Trinidad and Tobago,2015,22.47205,µg/m3 
+TTO,Trinidad and Tobago,2016,21.859,µg/m3 
+TTO,Trinidad and Tobago,2017,21.48277,µg/m3 
+TTO,Trinidad and Tobago,2018,21.97888,µg/m3 
+TTO,Trinidad and Tobago,2019,22.07242,µg/m3 
+TUN,Tunisia,1990,29.57991,µg/m3 
+TUN,Tunisia,1995,29.08153,µg/m3 
+TUN,Tunisia,2000,34.15377,µg/m3 
+TUN,Tunisia,2005,31.79661,µg/m3 
+TUN,Tunisia,2010,34.268,µg/m3 
+TUN,Tunisia,2011,31.24561,µg/m3 
+TUN,Tunisia,2012,30.51296,µg/m3 
+TUN,Tunisia,2013,29.88004,µg/m3 
+TUN,Tunisia,2014,32.64765,µg/m3 
+TUN,Tunisia,2015,31.14382,µg/m3 
+TUN,Tunisia,2016,32.86101,µg/m3 
+TUN,Tunisia,2017,29.93905,µg/m3 
+TUN,Tunisia,2018,30.73111,µg/m3 
+TUN,Tunisia,2019,30.55062,µg/m3 
+TKM,Turkmenistan,1990,23.88278,µg/m3 
+TKM,Turkmenistan,1995,26.28496,µg/m3 
+TKM,Turkmenistan,2000,27.66544,µg/m3 
+TKM,Turkmenistan,2005,21.49949,µg/m3 
+TKM,Turkmenistan,2010,25.56749,µg/m3 
+TKM,Turkmenistan,2011,31.29493,µg/m3 
+TKM,Turkmenistan,2012,29.85535,µg/m3 
+TKM,Turkmenistan,2013,29.83939,µg/m3 
+TKM,Turkmenistan,2014,29.76218,µg/m3 
+TKM,Turkmenistan,2015,27.99872,µg/m3 
+TKM,Turkmenistan,2016,27.20599,µg/m3 
+TKM,Turkmenistan,2017,26.34493,µg/m3 
+TKM,Turkmenistan,2018,25.76408,µg/m3 
+TKM,Turkmenistan,2019,25.30906,µg/m3 
+TCA,Turks and Caicos Islands,1990,8.49698,µg/m3 
+TCA,Turks and Caicos Islands,1995,8.24287,µg/m3 
+TCA,Turks and Caicos Islands,2000,7.97375,µg/m3 
+TCA,Turks and Caicos Islands,2005,7.42374,µg/m3 
+TCA,Turks and Caicos Islands,2010,7.29512,µg/m3 
+TCA,Turks and Caicos Islands,2011,6.65334,µg/m3 
+TCA,Turks and Caicos Islands,2012,7.13267,µg/m3 
+TCA,Turks and Caicos Islands,2013,7.00136,µg/m3 
+TCA,Turks and Caicos Islands,2014,7.14387,µg/m3 
+TCA,Turks and Caicos Islands,2015,7.28464,µg/m3 
+TCA,Turks and Caicos Islands,2016,7.84815,µg/m3 
+TCA,Turks and Caicos Islands,2017,7.47322,µg/m3 
+TCA,Turks and Caicos Islands,2018,7.64259,µg/m3 
+TCA,Turks and Caicos Islands,2019,7.59241,µg/m3 
+TUV,Tuvalu,1990,5.31388,µg/m3 
+TUV,Tuvalu,1995,5.40951,µg/m3 
+TUV,Tuvalu,2000,5.80006,µg/m3 
+TUV,Tuvalu,2005,5.90914,µg/m3 
+TUV,Tuvalu,2010,5.70148,µg/m3 
+TUV,Tuvalu,2011,5.42112,µg/m3 
+TUV,Tuvalu,2012,5.44849,µg/m3 
+TUV,Tuvalu,2013,5.42633,µg/m3 
+TUV,Tuvalu,2014,5.65086,µg/m3 
+TUV,Tuvalu,2015,5.71459,µg/m3 
+TUV,Tuvalu,2016,6.16279,µg/m3 
+TUV,Tuvalu,2017,6.09255,µg/m3 
+TUV,Tuvalu,2018,6.12276,µg/m3 
+TUV,Tuvalu,2019,6.11212,µg/m3 
+UGA,Uganda,1990,34.96311,µg/m3 
+UGA,Uganda,1995,36.67023,µg/m3 
+UGA,Uganda,2000,39.97868,µg/m3 
+UGA,Uganda,2005,36.4343,µg/m3 
+UGA,Uganda,2010,38.86261,µg/m3 
+UGA,Uganda,2011,41.64899,µg/m3 
+UGA,Uganda,2012,42.85821,µg/m3 
+UGA,Uganda,2013,42.08482,µg/m3 
+UGA,Uganda,2014,40.81954,µg/m3 
+UGA,Uganda,2015,43.20758,µg/m3 
+UGA,Uganda,2016,41.77337,µg/m3 
+UGA,Uganda,2017,38.54776,µg/m3 
+UGA,Uganda,2018,37.21456,µg/m3 
+UGA,Uganda,2019,35.2285,µg/m3 
+UKR,Ukraine,1990,22.94599,µg/m3 
+UKR,Ukraine,1995,21.47284,µg/m3 
+UKR,Ukraine,2000,19.64318,µg/m3 
+UKR,Ukraine,2005,19.20767,µg/m3 
+UKR,Ukraine,2010,19.09176,µg/m3 
+UKR,Ukraine,2011,18.42331,µg/m3 
+UKR,Ukraine,2012,17.79873,µg/m3 
+UKR,Ukraine,2013,17.92219,µg/m3 
+UKR,Ukraine,2014,17.51999,µg/m3 
+UKR,Ukraine,2015,16.88095,µg/m3 
+UKR,Ukraine,2016,15.11815,µg/m3 
+UKR,Ukraine,2017,14.6986,µg/m3 
+UKR,Ukraine,2018,14.78515,µg/m3 
+UKR,Ukraine,2019,14.70064,µg/m3 
+ARE,United Arab Emirates,1990,42.2564,µg/m3 
+ARE,United Arab Emirates,1995,42.64017,µg/m3 
+ARE,United Arab Emirates,2000,42.67362,µg/m3 
+ARE,United Arab Emirates,2005,42.09078,µg/m3 
+ARE,United Arab Emirates,2010,42.54867,µg/m3 
+ARE,United Arab Emirates,2011,45.0258,µg/m3 
+ARE,United Arab Emirates,2012,46.58007,µg/m3 
+ARE,United Arab Emirates,2013,43.3845,µg/m3 
+ARE,United Arab Emirates,2014,40.7299,µg/m3 
+ARE,United Arab Emirates,2015,45.18947,µg/m3 
+ARE,United Arab Emirates,2016,42.79195,µg/m3 
+ARE,United Arab Emirates,2017,43.03017,µg/m3 
+ARE,United Arab Emirates,2018,43.20993,µg/m3 
+ARE,United Arab Emirates,2019,43.0844,µg/m3 
+URY,Uruguay,1990,10.48932,µg/m3 
+URY,Uruguay,1995,10.36745,µg/m3 
+URY,Uruguay,2000,10.17959,µg/m3 
+URY,Uruguay,2005,9.15789,µg/m3 
+URY,Uruguay,2010,9.47559,µg/m3 
+URY,Uruguay,2011,9.74251,µg/m3 
+URY,Uruguay,2012,9.36476,µg/m3 
+URY,Uruguay,2013,10.37529,µg/m3 
+URY,Uruguay,2014,9.93238,µg/m3 
+URY,Uruguay,2015,9.96884,µg/m3 
+URY,Uruguay,2016,9.92336,µg/m3 
+URY,Uruguay,2017,9.57563,µg/m3 
+URY,Uruguay,2018,9.61625,µg/m3 
+URY,Uruguay,2019,9.57094,µg/m3 
+UZB,Uzbekistan,1990,36.83185,µg/m3 
+UZB,Uzbekistan,1995,39.30512,µg/m3 
+UZB,Uzbekistan,2000,38.62956,µg/m3 
+UZB,Uzbekistan,2005,32.71155,µg/m3 
+UZB,Uzbekistan,2010,33.6145,µg/m3 
+UZB,Uzbekistan,2011,43.03611,µg/m3 
+UZB,Uzbekistan,2012,40.45578,µg/m3 
+UZB,Uzbekistan,2013,41.04126,µg/m3 
+UZB,Uzbekistan,2014,38.91105,µg/m3 
+UZB,Uzbekistan,2015,36.99091,µg/m3 
+UZB,Uzbekistan,2016,36.67223,µg/m3 
+UZB,Uzbekistan,2017,36.61596,µg/m3 
+UZB,Uzbekistan,2018,36.34037,µg/m3 
+UZB,Uzbekistan,2019,36.352,µg/m3 
+VUT,Vanuatu,1990,11.95977,µg/m3 
+VUT,Vanuatu,1995,12.57336,µg/m3 
+VUT,Vanuatu,2000,13.11866,µg/m3 
+VUT,Vanuatu,2005,12.34297,µg/m3 
+VUT,Vanuatu,2010,13.07214,µg/m3 
+VUT,Vanuatu,2011,13.12488,µg/m3 
+VUT,Vanuatu,2012,12.74446,µg/m3 
+VUT,Vanuatu,2013,13.1789,µg/m3 
+VUT,Vanuatu,2014,12.91556,µg/m3 
+VUT,Vanuatu,2015,12.41505,µg/m3 
+VUT,Vanuatu,2016,12.9487,µg/m3 
+VUT,Vanuatu,2017,12.76332,µg/m3 
+VUT,Vanuatu,2018,12.76242,µg/m3 
+VUT,Vanuatu,2019,12.7414,µg/m3 
+VEN,Venezuela,1990,20.7129,µg/m3 
+VEN,Venezuela,1995,20.56044,µg/m3 
+VEN,Venezuela,2000,21.88607,µg/m3 
+VEN,Venezuela,2005,21.32626,µg/m3 
+VEN,Venezuela,2010,23.46386,µg/m3 
+VEN,Venezuela,2011,24.81057,µg/m3 
+VEN,Venezuela,2012,22.87687,µg/m3 
+VEN,Venezuela,2013,22.95083,µg/m3 
+VEN,Venezuela,2014,22.35515,µg/m3 
+VEN,Venezuela,2015,22.65819,µg/m3 
+VEN,Venezuela,2016,22.27268,µg/m3 
+VEN,Venezuela,2017,21.88744,µg/m3 
+VEN,Venezuela,2018,22.1235,µg/m3 
+VEN,Venezuela,2019,22.21524,µg/m3 
+VNM,Viet Nam,1990,26.0967,µg/m3 
+VNM,Viet Nam,1995,25.37336,µg/m3 
+VNM,Viet Nam,2000,25.54964,µg/m3 
+VNM,Viet Nam,2005,26.22081,µg/m3 
+VNM,Viet Nam,2010,27.1181,µg/m3 
+VNM,Viet Nam,2011,23.77469,µg/m3 
+VNM,Viet Nam,2012,23.58582,µg/m3 
+VNM,Viet Nam,2013,25.17827,µg/m3 
+VNM,Viet Nam,2014,22.26175,µg/m3 
+VNM,Viet Nam,2015,21.72136,µg/m3 
+VNM,Viet Nam,2016,22.42143,µg/m3 
+VNM,Viet Nam,2017,20.33531,µg/m3 
+VNM,Viet Nam,2018,20.36473,µg/m3 
+VNM,Viet Nam,2019,20.19471,µg/m3 
+VIR,United States Virgin Islands,1990,10.22465,µg/m3 
+VIR,United States Virgin Islands,1995,10.13,µg/m3 
+VIR,United States Virgin Islands,2000,8.95753,µg/m3 
+VIR,United States Virgin Islands,2005,8.09313,µg/m3 
+VIR,United States Virgin Islands,2010,8.46297,µg/m3 
+VIR,United States Virgin Islands,2011,7.52103,µg/m3 
+VIR,United States Virgin Islands,2012,8.39172,µg/m3 
+VIR,United States Virgin Islands,2013,8.0767,µg/m3 
+VIR,United States Virgin Islands,2014,8.03658,µg/m3 
+VIR,United States Virgin Islands,2015,8.94873,µg/m3 
+VIR,United States Virgin Islands,2016,9.15627,µg/m3 
+VIR,United States Virgin Islands,2017,9.07034,µg/m3 
+VIR,United States Virgin Islands,2018,9.20981,µg/m3 
+VIR,United States Virgin Islands,2019,9.23292,µg/m3 
+WLF,Wallis and Futuna,1990,6.87431,µg/m3 
+WLF,Wallis and Futuna,1995,6.86213,µg/m3 
+WLF,Wallis and Futuna,2000,6.2283,µg/m3 
+WLF,Wallis and Futuna,2005,6.36633,µg/m3 
+WLF,Wallis and Futuna,2010,6.15309,µg/m3 
+WLF,Wallis and Futuna,2011,5.78482,µg/m3 
+WLF,Wallis and Futuna,2012,5.93546,µg/m3 
+WLF,Wallis and Futuna,2013,5.92128,µg/m3 
+WLF,Wallis and Futuna,2014,6.39181,µg/m3 
+WLF,Wallis and Futuna,2015,6.44554,µg/m3 
+WLF,Wallis and Futuna,2016,6.90143,µg/m3 
+WLF,Wallis and Futuna,2017,6.74732,µg/m3 
+WLF,Wallis and Futuna,2018,6.68267,µg/m3 
+WLF,Wallis and Futuna,2019,6.57847,µg/m3 
+YEM,Yemen,1990,47.34521,µg/m3 
+YEM,Yemen,1995,43.81066,µg/m3 
+YEM,Yemen,2000,48.82196,µg/m3 
+YEM,Yemen,2005,43.66218,µg/m3 
+YEM,Yemen,2010,44.8245,µg/m3 
+YEM,Yemen,2011,49.06382,µg/m3 
+YEM,Yemen,2012,54.55899,µg/m3 
+YEM,Yemen,2013,51.55041,µg/m3 
+YEM,Yemen,2014,43.85524,µg/m3 
+YEM,Yemen,2015,48.46628,µg/m3 
+YEM,Yemen,2016,45.15434,µg/m3 
+YEM,Yemen,2017,46.6112,µg/m3 
+YEM,Yemen,2018,45.31726,µg/m3 
+YEM,Yemen,2019,44.64506,µg/m3 
+ZMB,Zambia,1990,26.2103,µg/m3 
+ZMB,Zambia,1995,25.15399,µg/m3 
+ZMB,Zambia,2000,26.7331,µg/m3 
+ZMB,Zambia,2005,26.16366,µg/m3 
+ZMB,Zambia,2010,27.10901,µg/m3 
+ZMB,Zambia,2011,28.20786,µg/m3 
+ZMB,Zambia,2012,28.45589,µg/m3 
+ZMB,Zambia,2013,27.37474,µg/m3 
+ZMB,Zambia,2014,27.43584,µg/m3 
+ZMB,Zambia,2015,28.35737,µg/m3 
+ZMB,Zambia,2016,27.47525,µg/m3 
+ZMB,Zambia,2017,26.24886,µg/m3 
+ZMB,Zambia,2018,26.37336,µg/m3 
+ZMB,Zambia,2019,25.92371,µg/m3 
+ZWE,Zimbabwe,1990,24.45753,µg/m3 
+ZWE,Zimbabwe,1995,23.50682,µg/m3 
+ZWE,Zimbabwe,2000,23.94027,µg/m3 
+ZWE,Zimbabwe,2005,23.64034,µg/m3 
+ZWE,Zimbabwe,2010,24.6478,µg/m3 
+ZWE,Zimbabwe,2011,26.33544,µg/m3 
+ZWE,Zimbabwe,2012,26.36427,µg/m3 
+ZWE,Zimbabwe,2013,25.57768,µg/m3 
+ZWE,Zimbabwe,2014,26.2316,µg/m3 
+ZWE,Zimbabwe,2015,25.9843,µg/m3 
+ZWE,Zimbabwe,2016,25.39554,µg/m3 
+ZWE,Zimbabwe,2017,22.61333,µg/m3 
+ZWE,Zimbabwe,2018,22.10827,µg/m3 
+ZWE,Zimbabwe,2019,20.84664,µg/m3 
+ESH,Western Sahara,1990,45.7791,µg/m3 
+ESH,Western Sahara,1995,46.85092,µg/m3 
+ESH,Western Sahara,2000,53.8142,µg/m3 
+ESH,Western Sahara,2005,50.87566,µg/m3 
+ESH,Western Sahara,2010,47.29257,µg/m3 
+ESH,Western Sahara,2011,46.51668,µg/m3 
+ESH,Western Sahara,2012,49.44787,µg/m3 
+ESH,Western Sahara,2013,45.81423,µg/m3 
+ESH,Western Sahara,2014,45.62963,µg/m3 
+ESH,Western Sahara,2015,47.28198,µg/m3 
+ESH,Western Sahara,2016,44.57007,µg/m3 
+ESH,Western Sahara,2017,51.29203,µg/m3 
+ESH,Western Sahara,2018,46.56406,µg/m3 
+ESH,Western Sahara,2019,46.43391,µg/m3 
+WLD,World,1990,40.98673,µg/m3 
+WLD,World,1995,39.22048,µg/m3 
+WLD,World,2000,41.36325,µg/m3 
+WLD,World,2005,40.67297,µg/m3 
+WLD,World,2010,43.2824,µg/m3 
+WLD,World,2011,44.92908,µg/m3 
+WLD,World,2012,46.53096,µg/m3 
+WLD,World,2013,47.52663,µg/m3 
+WLD,World,2014,47.69779,µg/m3 
+WLD,World,2015,46.47697,µg/m3 
+WLD,World,2016,45.61409,µg/m3 
+WLD,World,2017,42.70915,µg/m3 
+WLD,World,2018,42.87673,µg/m3 
+WLD,World,2019,42.53137,µg/m3 
+MAC,"Macau, China",1990,27.8971,µg/m3 
+MAC,"Macau, China",1995,27.2392,µg/m3 
+MAC,"Macau, China",2000,30.3488,µg/m3 
+MAC,"Macau, China",2005,32.3737,µg/m3 
+MAC,"Macau, China",2010,29.5918,µg/m3 
+MAC,"Macau, China",2011,34.019,µg/m3 
+MAC,"Macau, China",2012,33.597,µg/m3 
+MAC,"Macau, China",2013,35.2469,µg/m3 
+MAC,"Macau, China",2014,35.0793,µg/m3 
+MAC,"Macau, China",2015,31.3123,µg/m3 
+MAC,"Macau, China",2016,29.8325,µg/m3 
+MAC,"Macau, China",2017,29.1248,µg/m3 
+MAC,"Macau, China",2018,29.0229,µg/m3 
+MAC,"Macau, China",2019,28.4314,µg/m3 
+CXR,Christmas Islands,1990,9.39776,µg/m3 
+CXR,Christmas Islands,1995,9.58627,µg/m3 
+CXR,Christmas Islands,2000,8.09095,µg/m3 
+CXR,Christmas Islands,2005,7.78608,µg/m3 
+CXR,Christmas Islands,2010,7.23111,µg/m3 
+CXR,Christmas Islands,2011,7.10606,µg/m3 
+CXR,Christmas Islands,2012,8.06011,µg/m3 
+CXR,Christmas Islands,2013,7.61873,µg/m3 
+CXR,Christmas Islands,2014,8.3402,µg/m3 
+CXR,Christmas Islands,2015,8.49565,µg/m3 
+CXR,Christmas Islands,2016,8.7505,µg/m3 
+CXR,Christmas Islands,2017,8.41017,µg/m3 
+CXR,Christmas Islands,2018,8.2959,µg/m3 
+CXR,Christmas Islands,2019,8.05843,µg/m3 
+CCK,Cocos (Keeling) Islands,1990,8.38905,µg/m3 
+CCK,Cocos (Keeling) Islands,1995,8.35556,µg/m3 
+CCK,Cocos (Keeling) Islands,2000,7.65798,µg/m3 
+CCK,Cocos (Keeling) Islands,2005,7.1961,µg/m3 
+CCK,Cocos (Keeling) Islands,2010,7.10203,µg/m3 
+CCK,Cocos (Keeling) Islands,2011,6.76561,µg/m3 
+CCK,Cocos (Keeling) Islands,2012,6.94099,µg/m3 
+CCK,Cocos (Keeling) Islands,2013,7.088,µg/m3 
+CCK,Cocos (Keeling) Islands,2014,7.43394,µg/m3 
+CCK,Cocos (Keeling) Islands,2015,7.66511,µg/m3 
+CCK,Cocos (Keeling) Islands,2016,7.74677,µg/m3 
+CCK,Cocos (Keeling) Islands,2017,7.91397,µg/m3 
+CCK,Cocos (Keeling) Islands,2018,7.89287,µg/m3 
+CCK,Cocos (Keeling) Islands,2019,7.87456,µg/m3 
+ASEAN,ASEAN,1990,29.17355,µg/m3 
+ASEAN,ASEAN,1995,27.69602,µg/m3 
+ASEAN,ASEAN,2000,26.82597,µg/m3 
+ASEAN,ASEAN,2005,26.40423,µg/m3 
+ASEAN,ASEAN,2010,26.07766,µg/m3 
+ASEAN,ASEAN,2011,22.37608,µg/m3 
+ASEAN,ASEAN,2012,23.48999,µg/m3 
+ASEAN,ASEAN,2013,24.23555,µg/m3 
+ASEAN,ASEAN,2014,22.00114,µg/m3 
+ASEAN,ASEAN,2015,22.11983,µg/m3 
+ASEAN,ASEAN,2016,23.18347,µg/m3 
+ASEAN,ASEAN,2017,20.77513,µg/m3 
+ASEAN,ASEAN,2018,21.14096,µg/m3 
+ASEAN,ASEAN,2019,21.22272,µg/m3 
+SRB,Serbia,1990,35.34761,µg/m3 
+SRB,Serbia,1995,34.69171,µg/m3 
+SRB,Serbia,2000,33.27918,µg/m3 
+SRB,Serbia,2005,31.47204,µg/m3 
+SRB,Serbia,2010,31.88167,µg/m3 
+SRB,Serbia,2011,34.44342,µg/m3 
+SRB,Serbia,2012,30.95045,µg/m3 
+SRB,Serbia,2013,29.07945,µg/m3 
+SRB,Serbia,2014,28.55298,µg/m3 
+SRB,Serbia,2015,28.19054,µg/m3 
+SRB,Serbia,2016,25.57547,µg/m3 
+SRB,Serbia,2017,26.64333,µg/m3 
+SRB,Serbia,2018,26.07339,µg/m3 
+SRB,Serbia,2019,25.50415,µg/m3 
+MNE,Montenegro,1990,32.9914,µg/m3 
+MNE,Montenegro,1995,32.1463,µg/m3 
+MNE,Montenegro,2000,30.2318,µg/m3 
+MNE,Montenegro,2005,27.5876,µg/m3 
+MNE,Montenegro,2010,26.1283,µg/m3 
+MNE,Montenegro,2011,29.0877,µg/m3 
+MNE,Montenegro,2012,27.2462,µg/m3 
+MNE,Montenegro,2013,25.1077,µg/m3 
+MNE,Montenegro,2014,24.8871,µg/m3 
+MNE,Montenegro,2015,24.4993,µg/m3 
+MNE,Montenegro,2016,22.283,µg/m3 
+MNE,Montenegro,2017,22.9835,µg/m3 
+MNE,Montenegro,2018,22.7616,µg/m3 
+MNE,Montenegro,2019,22.3224,µg/m3 
+GGY,Guernsey,1990,14.10409,µg/m3 
+GGY,Guernsey,1995,13.10409,µg/m3 
+GGY,Guernsey,2000,10.64625,µg/m3 
+GGY,Guernsey,2005,9.51693,µg/m3 
+GGY,Guernsey,2010,9.0236,µg/m3 
+GGY,Guernsey,2011,9.13073,µg/m3 
+GGY,Guernsey,2012,8.81733,µg/m3 
+GGY,Guernsey,2013,9.00318,µg/m3 
+GGY,Guernsey,2014,9.18052,µg/m3 
+GGY,Guernsey,2015,8.80267,µg/m3 
+GGY,Guernsey,2016,10.03498,µg/m3 
+GGY,Guernsey,2017,9.83468,µg/m3 
+GGY,Guernsey,2018,9.63789,µg/m3 
+GGY,Guernsey,2019,9.56168,µg/m3 
+IMN,Isle of Man,1990,11.53218,µg/m3 
+IMN,Isle of Man,1995,10.83476,µg/m3 
+IMN,Isle of Man,2000,8.5392,µg/m3 
+IMN,Isle of Man,2005,7.74413,µg/m3 
+IMN,Isle of Man,2010,7.27387,µg/m3 
+IMN,Isle of Man,2011,7.26638,µg/m3 
+IMN,Isle of Man,2012,7.09808,µg/m3 
+IMN,Isle of Man,2013,6.98437,µg/m3 
+IMN,Isle of Man,2014,7.63872,µg/m3 
+IMN,Isle of Man,2015,7.44211,µg/m3 
+IMN,Isle of Man,2016,7.80809,µg/m3 
+IMN,Isle of Man,2017,7.72516,µg/m3 
+IMN,Isle of Man,2018,7.70283,µg/m3 
+IMN,Isle of Man,2019,7.63994,µg/m3 
+JEY,Jersey,1990,13.86798,µg/m3 
+JEY,Jersey,1995,12.90072,µg/m3 
+JEY,Jersey,2000,10.55525,µg/m3 
+JEY,Jersey,2005,9.36645,µg/m3 
+JEY,Jersey,2010,9.18666,µg/m3 
+JEY,Jersey,2011,9.43711,µg/m3 
+JEY,Jersey,2012,8.90063,µg/m3 
+JEY,Jersey,2013,9.35158,µg/m3 
+JEY,Jersey,2014,8.98859,µg/m3 
+JEY,Jersey,2015,8.8256,µg/m3 
+JEY,Jersey,2016,10.23096,µg/m3 
+JEY,Jersey,2017,9.65389,µg/m3 
+JEY,Jersey,2018,9.70457,µg/m3 
+JEY,Jersey,2019,9.62534,µg/m3 
+G20,G20,1990,41.56943,µg/m3 
+G20,G20,1995,39.74278,µg/m3 
+G20,G20,2000,41.76389,µg/m3 
+G20,G20,2005,41.40595,µg/m3 
+G20,G20,2010,44.53499,µg/m3 
+G20,G20,2011,46.91868,µg/m3 
+G20,G20,2012,48.60109,µg/m3 
+G20,G20,2013,50.68381,µg/m3 
+G20,G20,2014,51.13319,µg/m3 
+G20,G20,2015,48.05281,µg/m3 
+G20,G20,2016,47.47981,µg/m3 
+G20,G20,2017,43.96663,µg/m3 
+G20,G20,2018,44.12019,µg/m3 
+G20,G20,2019,43.64692,µg/m3 
+BRIICS,"BRIICS economies - Brazil, Russia, India, Indonesia, China and South Africa",1990,51.33801,µg/m3 
+BRIICS,"BRIICS economies - Brazil, Russia, India, Indonesia, China and South Africa",1995,49.0467,µg/m3 
+BRIICS,"BRIICS economies - Brazil, Russia, India, Indonesia, China and South Africa",2000,51.69314,µg/m3 
+BRIICS,"BRIICS economies - Brazil, Russia, India, Indonesia, China and South Africa",2005,51.84001,µg/m3 
+BRIICS,"BRIICS economies - Brazil, Russia, India, Indonesia, China and South Africa",2010,55.86456,µg/m3 
+BRIICS,"BRIICS economies - Brazil, Russia, India, Indonesia, China and South Africa",2011,58.97498,µg/m3 
+BRIICS,"BRIICS economies - Brazil, Russia, India, Indonesia, China and South Africa",2012,61.68322,µg/m3 
+BRIICS,"BRIICS economies - Brazil, Russia, India, Indonesia, China and South Africa",2013,64.62877,µg/m3 
+BRIICS,"BRIICS economies - Brazil, Russia, India, Indonesia, China and South Africa",2014,65.52919,µg/m3 
+BRIICS,"BRIICS economies - Brazil, Russia, India, Indonesia, China and South Africa",2015,61.11112,µg/m3 
+BRIICS,"BRIICS economies - Brazil, Russia, India, Indonesia, China and South Africa",2016,60.66815,µg/m3 
+BRIICS,"BRIICS economies - Brazil, Russia, India, Indonesia, China and South Africa",2017,55.69227,µg/m3 
+BRIICS,"BRIICS economies - Brazil, Russia, India, Indonesia, China and South Africa",2018,55.91409,µg/m3 
+BRIICS,"BRIICS economies - Brazil, Russia, India, Indonesia, China and South Africa",2019,55.30773,µg/m3 
+SSD,South Sudan ,1990,38.45805,µg/m3 
+SSD,South Sudan ,1995,35.19804,µg/m3 
+SSD,South Sudan ,2000,41.5284,µg/m3 
+SSD,South Sudan ,2005,40.27211,µg/m3 
+SSD,South Sudan ,2010,38.5822,µg/m3 
+SSD,South Sudan ,2011,40.50711,µg/m3 
+SSD,South Sudan ,2012,40.8898,µg/m3 
+SSD,South Sudan ,2013,40.09857,µg/m3 
+SSD,South Sudan ,2014,35.99915,µg/m3 
+SSD,South Sudan ,2015,40.89101,µg/m3 
+SSD,South Sudan ,2016,38.32509,µg/m3 
+SSD,South Sudan ,2017,39.28238,µg/m3 
+SSD,South Sudan ,2018,38.84941,µg/m3 
+SSD,South Sudan ,2019,38.67224,µg/m3 
+EU28,European Union (28 countries),1990,20.91605,µg/m3 
+EU28,European Union (28 countries),1995,19.66748,µg/m3 
+EU28,European Union (28 countries),2000,18.21023,µg/m3 
+EU28,European Union (28 countries),2005,16.80512,µg/m3 
+EU28,European Union (28 countries),2010,16.4956,µg/m3 
+EU28,European Union (28 countries),2011,16.80615,µg/m3 
+EU28,European Union (28 countries),2012,15.03961,µg/m3 
+EU28,European Union (28 countries),2013,14.55783,µg/m3 
+EU28,European Union (28 countries),2014,13.77869,µg/m3 
+EU28,European Union (28 countries),2015,13.91261,µg/m3 
+EU28,European Union (28 countries),2016,12.8934,µg/m3 
+EU28,European Union (28 countries),2017,13.14179,µg/m3 
+EU28,European Union (28 countries),2018,13.15774,µg/m3 
+EU28,European Union (28 countries),2019,13.03459,µg/m3 
+OECD,OECD - Total,1990,19.39078,µg/m3 
+OECD,OECD - Total,1995,18.58395,µg/m3 
+OECD,OECD - Total,2000,17.80025,µg/m3 
+OECD,OECD - Total,2005,16.04322,µg/m3 
+OECD,OECD - Total,2010,15.6722,µg/m3 
+OECD,OECD - Total,2011,16.23083,µg/m3 
+OECD,OECD - Total,2012,15.23582,µg/m3 
+OECD,OECD - Total,2013,15.2798,µg/m3 
+OECD,OECD - Total,2014,14.79652,µg/m3 
+OECD,OECD - Total,2015,14.76061,µg/m3 
+OECD,OECD - Total,2016,14.04249,µg/m3 
+OECD,OECD - Total,2017,14.00751,µg/m3 
+OECD,OECD - Total,2018,14.05846,µg/m3 
+OECD,OECD - Total,2019,13.92701,µg/m3 
+OECDE,OECD - Europe,1990,21.18483,µg/m3 
+OECDE,OECD - Europe,1995,20.04283,µg/m3 
+OECDE,OECD - Europe,2000,18.98002,µg/m3 
+OECDE,OECD - Europe,2005,17.60887,µg/m3 
+OECDE,OECD - Europe,2010,18.04075,µg/m3 
+OECDE,OECD - Europe,2011,18.05719,µg/m3 
+OECDE,OECD - Europe,2012,16.50039,µg/m3 
+OECDE,OECD - Europe,2013,16.23422,µg/m3 
+OECDE,OECD - Europe,2014,15.49695,µg/m3 
+OECDE,OECD - Europe,2015,15.77097,µg/m3 
+OECDE,OECD - Europe,2016,14.78618,µg/m3 
+OECDE,OECD - Europe,2017,14.76077,µg/m3 
+OECDE,OECD - Europe,2018,14.81822,µg/m3 
+OECDE,OECD - Europe,2019,14.64343,µg/m3 
+EA19,Euro area (19 countries),1990,19.75441,µg/m3 
+EA19,Euro area (19 countries),1995,18.36696,µg/m3 
+EA19,Euro area (19 countries),2000,17.37627,µg/m3 
+EA19,Euro area (19 countries),2005,15.8912,µg/m3 
+EA19,Euro area (19 countries),2010,15.78546,µg/m3 
+EA19,Euro area (19 countries),2011,15.9825,µg/m3 
+EA19,Euro area (19 countries),2012,14.31022,µg/m3 
+EA19,Euro area (19 countries),2013,13.85529,µg/m3 
+EA19,Euro area (19 countries),2014,12.74885,µg/m3 
+EA19,Euro area (19 countries),2015,13.28134,µg/m3 
+EA19,Euro area (19 countries),2016,12.10269,µg/m3 
+EA19,Euro area (19 countries),2017,12.25584,µg/m3 
+EA19,Euro area (19 countries),2018,12.3262,µg/m3 
+EA19,Euro area (19 countries),2019,12.20832,µg/m3 
+EU27_2020,European Union – 27 countries (from 01/02/2020),1990,21.44457,µg/m3 
+EU27_2020,European Union – 27 countries (from 01/02/2020),1995,20.16506,µg/m3 
+EU27_2020,European Union – 27 countries (from 01/02/2020),2000,18.68281,µg/m3 
+EU27_2020,European Union – 27 countries (from 01/02/2020),2005,17.29399,µg/m3 
+EU27_2020,European Union – 27 countries (from 01/02/2020),2010,17.0967,µg/m3 
+EU27_2020,European Union – 27 countries (from 01/02/2020),2011,17.37032,µg/m3 
+EU27_2020,European Union – 27 countries (from 01/02/2020),2012,15.57389,µg/m3 
+EU27_2020,European Union – 27 countries (from 01/02/2020),2013,15.02471,µg/m3 
+EU27_2020,European Union – 27 countries (from 01/02/2020),2014,14.2105,µg/m3 
+EU27_2020,European Union – 27 countries (from 01/02/2020),2015,14.43792,µg/m3 
+EU27_2020,European Union – 27 countries (from 01/02/2020),2016,13.29442,µg/m3 
+EU27_2020,European Union – 27 countries (from 01/02/2020),2017,13.55947,µg/m3 
+EU27_2020,European Union – 27 countries (from 01/02/2020),2018,13.60459,µg/m3 
+EU27_2020,European Union – 27 countries (from 01/02/2020),2019,13.47546,µg/m3 
+OECDAO,OECD Asia Oceania,1990,15.58188,µg/m3 
+OECDAO,OECD Asia Oceania,1995,15.19874,µg/m3 
+OECDAO,OECD Asia Oceania,2000,15.21267,µg/m3 
+OECDAO,OECD Asia Oceania,2005,14.52135,µg/m3 
+OECDAO,OECD Asia Oceania,2010,14.15368,µg/m3 
+OECDAO,OECD Asia Oceania,2011,15.44321,µg/m3 
+OECDAO,OECD Asia Oceania,2012,15.7274,µg/m3 
+OECDAO,OECD Asia Oceania,2013,16.30535,µg/m3 
+OECDAO,OECD Asia Oceania,2014,16.60648,µg/m3 
+OECDAO,OECD Asia Oceania,2015,16.15164,µg/m3 
+OECDAO,OECD Asia Oceania,2016,16.18065,µg/m3 
+OECDAO,OECD Asia Oceania,2017,16.11784,µg/m3 
+OECDAO,OECD Asia Oceania,2018,16.18873,µg/m3 
+OECDAO,OECD Asia Oceania,2019,16.17214,µg/m3 
+OECDAM,OECD America,1990,18.94403,µg/m3 
+OECDAM,OECD America,1995,18.35251,µg/m3 
+OECDAM,OECD America,2000,17.57757,µg/m3 
+OECDAM,OECD America,2005,14.93779,µg/m3 
+OECDAM,OECD America,2010,13.81894,µg/m3 
+OECDAM,OECD America,2011,14.65411,µg/m3 
+OECDAM,OECD America,2012,13.74455,µg/m3 
+OECDAM,OECD America,2013,13.90205,µg/m3 
+OECDAM,OECD America,2014,13.378,µg/m3 
+OECDAM,OECD America,2015,13.18444,µg/m3 
+OECDAM,OECD America,2016,12.45295,µg/m3 
+OECDAM,OECD America,2017,12.41886,µg/m3 
+OECDAM,OECD America,2018,12.45542,µg/m3 
+OECDAM,OECD America,2019,12.32435,µg/m3 
+EECCA,"Eastern Europe, Caucasus and Central Asia",1990,21.81104,µg/m3 
+EECCA,"Eastern Europe, Caucasus and Central Asia",1995,20.82988,µg/m3 
+EECCA,"Eastern Europe, Caucasus and Central Asia",2000,20.24819,µg/m3 
+EECCA,"Eastern Europe, Caucasus and Central Asia",2005,18.65037,µg/m3 
+EECCA,"Eastern Europe, Caucasus and Central Asia",2010,20.12404,µg/m3 
+EECCA,"Eastern Europe, Caucasus and Central Asia",2011,21.00824,µg/m3 
+EECCA,"Eastern Europe, Caucasus and Central Asia",2012,20.60896,µg/m3 
+EECCA,"Eastern Europe, Caucasus and Central Asia",2013,20.76629,µg/m3 
+EECCA,"Eastern Europe, Caucasus and Central Asia",2014,20.22697,µg/m3 
+EECCA,"Eastern Europe, Caucasus and Central Asia",2015,19.1203,µg/m3 
+EECCA,"Eastern Europe, Caucasus and Central Asia",2016,18.23096,µg/m3 
+EECCA,"Eastern Europe, Caucasus and Central Asia",2017,17.75785,µg/m3 
+EECCA,"Eastern Europe, Caucasus and Central Asia",2018,17.78618,µg/m3 
+EECCA,"Eastern Europe, Caucasus and Central Asia",2019,17.75293,µg/m3 
+LAC,Latin America and Caribbean,1990,23.04103,µg/m3 
+LAC,Latin America and Caribbean,1995,22.15407,µg/m3 
+LAC,Latin America and Caribbean,2000,21.54568,µg/m3 
+LAC,Latin America and Caribbean,2005,19.3208,µg/m3 
+LAC,Latin America and Caribbean,2010,19.33389,µg/m3 
+LAC,Latin America and Caribbean,2011,20.47029,µg/m3 
+LAC,Latin America and Caribbean,2012,19.39638,µg/m3 
+LAC,Latin America and Caribbean,2013,19.56364,µg/m3 
+LAC,Latin America and Caribbean,2014,19.00628,µg/m3 
+LAC,Latin America and Caribbean,2015,18.77756,µg/m3 
+LAC,Latin America and Caribbean,2016,18.27026,µg/m3 
+LAC,Latin America and Caribbean,2017,17.85895,µg/m3 
+LAC,Latin America and Caribbean,2018,17.93526,µg/m3 
+LAC,Latin America and Caribbean,2019,17.84646,µg/m3 
+MENA,Middle East and North Africa,1990,44.30893,µg/m3 
+MENA,Middle East and North Africa,1995,45.98278,µg/m3 
+MENA,Middle East and North Africa,2000,47.10641,µg/m3 
+MENA,Middle East and North Africa,2005,46.75746,µg/m3 
+MENA,Middle East and North Africa,2010,51.05881,µg/m3 
+MENA,Middle East and North Africa,2011,49.07,µg/m3 
+MENA,Middle East and North Africa,2012,49.319,µg/m3 
+MENA,Middle East and North Africa,2013,49.60225,µg/m3 
+MENA,Middle East and North Africa,2014,47.11662,µg/m3 
+MENA,Middle East and North Africa,2015,49.87423,µg/m3 
+MENA,Middle East and North Africa,2016,46.66282,µg/m3 
+MENA,Middle East and North Africa,2017,47.16143,µg/m3 
+MENA,Middle East and North Africa,2018,47.09516,µg/m3 
+MENA,Middle East and North Africa,2019,46.75412,µg/m3 
